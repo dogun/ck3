@@ -1,0 +1,67 @@
+﻿bm_266_BenKuiDeYvBo = {
+	start_date = 266.1.1
+	is_playable = yes
+	group = bm_group_266
+
+	weight = { value = 100 }
+}
+
+bm_266_LiangCHangDongZHeng = {
+	start_date = 266.1.1
+	is_playable = yes
+	group = bm_group_266
+}
+
+
+bm_1000_XinDeZHengFuZHe = {
+	start_date = 1000.1.1
+	is_playable = yes
+	group = bm_group_1000
+
+	weight = { value = 100 }
+}
+
+bm_1000_RuanRuo = {
+	start_date = 1000.1.1
+	is_playable = yes
+	group = bm_group_1000
+
+	weight = { value = 100 }
+}
+
+bm_1000_PanJiaoZHe = {
+	start_date = 1000.1.1
+	is_playable = yes
+	group = bm_group_1000
+
+	weight = { value = 100 }
+
+	character = {	#奈图西特·中心岛
+		name = "bookmark_PanJiaoZHe_Natusit_ZHongXinDao"
+#名字
+		dynasty = 2
+#宗族 ID
+		dynasty_splendor_level = 1
+#宗族威望等级
+		type = female
+#性别
+		birth = 964.6.1
+#出生日期-定义年龄
+		title = d_ZHongXinDao
+#持有主头衔
+		government = administrative_government
+#政体
+                culture = norse
+#文化
+		religion = HOSX_GongCHanZHuYi
+#宗教
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+#显示的难度
+		history_id = 2
+#角色ID
+		position = { 590 590 }
+#位置
+		animation = celebrate_sword
+#姿势
+	}
+}

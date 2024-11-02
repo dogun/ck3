@@ -1,0 +1,29 @@
+4 = {		#中心岛核心
+	culture = baranis
+	religion = HOSX_GongCHanZHuYi
+	holding = castle_holding
+}
+
+5 = {		#内西南中心岛
+	culture = baranis
+	religion = HOSX_WuSHenLun
+	holding = city_holding
+}
+
+6 = {		#内东南中心岛
+	culture = baranis
+	religion = HOSX_Tuqi
+	holding = none
+}
+
+7 = {		#内东北中心岛
+	culture = baranis
+	religion = HOSX_GongCHanZHuYi
+	holding = none
+}
+
+8 = {		#内西北中心岛
+	culture = baranis
+	religion = HOSX_GongCHanZHuYi	#甜瓜信仰（没做）
+	holding = church_holding
+}

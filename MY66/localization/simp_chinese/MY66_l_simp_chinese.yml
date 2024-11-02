@@ -1,0 +1,755 @@
+﻿l_simp_chinese:
+
+ mongolic_group: "泛蒙古"
+ mongolic_group_collective_noun: "泛蒙古"
+ heritage_mongolic_name: "泛蒙古"
+ heritage_mongolic_collective_noun: "泛蒙古"
+ 
+ rf_MY66_WuSHenLun: "无神论宗教组"
+ rf_MY66_WuSHenLun_hostility_doctrine_name: "无神论宗教组"
+ rf_MY66_WuSHenLun_hostility_doctrine_desc: "下列宗教属于无神论宗教组：\n[GetReligionFamily(rf_MY66_WuSHenLun).GetReligions]"
+ 
+ MY66_WuSHenLun_religion: "无神论"
+ MY66_WuSHenLun_religion_adj: "无神论"
+ MY66_WuSHenLun_religion_adherent: "无神论者"
+ MY66_WuSHenLun_religion_adherent_plural: "无神论者"
+ MY66_WuSHenLun_religion_desc: "无神论者认为存在神是不可证实和证伪的，所以世界上没有神，对神的信仰是一段传奇的误传，比如一个人杀死了一只大蛇，后面把它误传为屠龙勇士甚至战神。"
+ 
+ MY66_WuSHenLun: "无神论"
+ MY66_WuSHenLun_adj: "无神论"
+ #名称
+ MY66_WuSHenLun_adherent: "无神论者"
+ MY66_WuSHenLun_adherent_plural: "无神论者"
+ #信徒
+ MY66_WuSHenLun_desc: "无神论者认为存在神是不可证实和证伪的，所以世界上没有神，对神的信仰是一段传奇的误传，比如一个人杀死了一只大蛇，后面把它误传为屠龙勇士甚至战神。"
+ #简介
+ MY66_WuSHenLun_high_god_name: "科学"
+ MY66_WuSHenLun_high_god_name_possessive: "科学"
+ #至高神
+ MY66_WuSHenLun_high_god_name_alternate: "知识"
+ MY66_WuSHenLun_high_god_name_alternate_possessive: "知识"
+ #至高神变体
+ MY66_WuSHenLun_creator_god_name: "宇宙大爆炸"
+ MY66_WuSHenLun_creator_god_name_possessive: "宇宙大爆炸"
+ #创世神
+ MY66_WuSHenLun_health_god_name: "抗生素"
+ MY66_WuSHenLun_health_god_name_possessive: "抗生素"
+ #健康神
+ MY66_WuSHenLun_fertility_god_name: "母猪的产后护理"
+ MY66_WuSHenLun_fertility_god_name_possessive: "母猪的产后护理"
+ #生育神
+ MY66_WuSHenLun_wealth_god_name: "印钞机"
+ MY66_WuSHenLun_wealth_god_name_possessive: "印钞机"
+ #财神
+ MY66_WuSHenLun_household_god_name: "结婚证"
+ MY66_WuSHenLun_household_god_name_possessive: "结婚证"
+ #家庭神
+ MY66_WuSHenLun_fate_god_name: "蝴蝶效应"
+ MY66_WuSHenLun_fate_god_name_possessive: "蝴蝶效应"
+ #命运神
+ MY66_WuSHenLun_knowledge_god_name: "逻各斯"
+ MY66_WuSHenLun_knowledge_god_name_possessive: "逻各斯"
+ #知识神
+ MY66_WuSHenLun_war_god_name: "口径114米的小口径武器"
+ MY66_WuSHenLun_war_god_name_possessive: "口径114米的小口径武器"
+ #战争神
+ MY66_WuSHenLun_trickster_god_name: "有神论者"
+ MY66_WuSHenLun_trickster_god_name_possessive: "有神论者"
+ #骗子神
+ MY66_WuSHenLun_night_god_name: "地卫一"
+ MY66_WuSHenLun_night_god_name_possessive: "地卫一"
+ #夜神
+ MY66_WuSHenLun_water_god_name: "水龙头"
+ MY66_WuSHenLun_water_god_name_possessive: "水龙头"
+ #水神
+ MY66_WuSHenLun_devil_name: "神"
+ MY66_WuSHenLun_devil_name_possessive: "神"
+ #魔鬼
+ MY66_WuSHenLun_house_of_worship: "家"
+ MY66_WuSHenLun_house_of_worship_plural: "家"
+ #礼拜堂
+ MY66_WuSHenLun_religious_symbol: "原子"
+ #宗教象征
+ MY66_WuSHenLun_religious_text: "《Atheism Symbol》"
+ #宗教经文
+ MY66_WuSHenLun_religious_head_title: "议长"
+ #宗教领袖
+ MY66_WuSHenLun_religious_head_title_name: "参议院"
+ #宗教领袖头衔
+ MY66_WuSHenLun_devotee_male: "科学家"
+ MY66_WuSHenLun_devotee_male_plural: "科学家"
+ #男性修士
+ MY66_WuSHenLun_devotee_female: "科学家"
+ MY66_WuSHenLun_devotee_female_plural: "科学家"
+ #女性修士
+ MY66_WuSHenLun_devotee_neuter: "科学家"
+ MY66_WuSHenLun_devotee_neuter_plural: "科学家"
+ #中性修士
+ MY66_WuSHenLun_court_chaplain: "律师"
+ MY66_WuSHenLun_court_chaplains_possessive: "律师"
+ #牧师
+ MY66_WuSHenLun_bishop: "律师"
+ MY66_WuSHenLun_bishop_plural: "律师"
+ #主教
+ MY66_WuSHenLun_divinerealm: "四维空间"
+ #神界
+ MY66_WuSHenLun_positive_afterlife: "永寂"
+ #天堂
+ MY66_WuSHenLun_negative_afterlife: "永寂"
+ #阴府
+ MY66_WuSHenLun_death_deity_name: "死亡"
+ MY66_WuSHenLun_death_deity_name_possessive: "死亡"
+ #死神
+ MY66_WuSHenLun_witchgodname_name: "邪神"
+ MY66_WuSHenLun_witchgodname_name_possessive: "邪神"
+ #巫术神
+ councillor_court_chaplain_MY66_WuSHenLun_county: "律师"
+ councillor_court_chaplain_MY66_WuSHenLun_county_possessive: "律师"
+ #伯爵级宫廷主教
+ councillor_court_chaplain_MY66_WuSHenLun_duchy: "律师"
+ councillor_court_chaplain_MY66_WuSHenLun_duchy_possessive: "律师"
+ #公国级宫廷主教
+ councillor_court_chaplain_MY66_WuSHenLun_kingdom: "律师"
+ councillor_court_chaplain_MY66_WuSHenLun_kingdom_possessive: "律师"
+ #王国级宫廷主教
+ councillor_court_chaplain_MY66_WuSHenLun_empire: "律师"
+ councillor_court_chaplain_MY66_WuSHenLun_empire_possessive: "律师"
+ #帝国级宫廷男主教
+ councillor_court_chaplain_MY66_WuSHenLun_empire_female: "律师"
+ councillor_court_chaplain_MY66_WuSHenLun_empire_female_possessive: "律师"
+ #帝国级宫廷女主教
+ 
+ MY66_GongCHanZHuYi: "共产主义"
+ MY66_GongCHanZHuYi_adj: "共产主义"
+ #名称
+ MY66_GongCHanZHuYi_adherent: "共产主义者"
+ MY66_GongCHanZHuYi_adherent_plural: "共产主义者"
+ #信徒
+ MY66_GongCHanZHuYi_desc: "无神论者认为存在神是不可证实和证伪的，所以世界上没有神，对神的信仰是一段传奇的误传，比如一个人杀死了一只大蛇，后面把它误传为屠龙勇士甚至战神。"
+ #简介
+ MY66_GongCHanZHuYi_high_god_name: "马克思"
+ MY66_GongCHanZHuYi_high_god_name_possessive: "马克思"
+ #至高神
+ MY66_GongCHanZHuYi_high_god_name_alternate: "恩格斯"
+ MY66_GongCHanZHuYi_high_god_name_alternate_possessive: "恩格斯"
+ #至高神变体
+ MY66_GongCHanZHuYi_creator_god_name: "马克思"
+ MY66_GongCHanZHuYi_creator_god_name_possessive: "马克思"
+ #创世神
+ MY66_GongCHanZHuYi_health_god_name: "布哈林"
+ MY66_GongCHanZHuYi_health_god_name_possessive: "布哈林"
+ #健康神
+ MY66_GongCHanZHuYi_fertility_god_name: "赫鲁晓夫"
+ MY66_GongCHanZHuYi_fertility_god_name_possessive: "赫鲁晓夫"
+ #生育神
+ MY66_GongCHanZHuYi_wealth_god_name: "斯大林"
+ MY66_GongCHanZHuYi_wealth_god_name_possessive: "斯大林"
+ #财神
+ MY66_GongCHanZHuYi_household_god_name: "毛泽东"
+ MY66_GongCHanZHuYi_household_god_name_possessive: "毛泽东"
+ #家庭神
+ MY66_GongCHanZHuYi_fate_god_name: "马克思"
+ MY66_GongCHanZHuYi_fate_god_name_possessive: "马克思"
+ #命运神
+ MY66_GongCHanZHuYi_knowledge_god_name: "列宁"
+ MY66_GongCHanZHuYi_knowledge_god_name_possessive: "列宁"
+ #知识神
+ MY66_GongCHanZHuYi_war_god_name: "托洛斯基"
+ MY66_GongCHanZHuYi_war_god_name_possessive: "托洛斯基"
+ #战争神
+ MY66_GongCHanZHuYi_trickster_god_name: "博尔施坦"
+ MY66_GongCHanZHuYi_trickster_god_name_possessive: "博尔施坦"
+ #骗子神
+ MY66_GongCHanZHuYi_night_god_name: "江青"
+ MY66_GongCHanZHuYi_night_god_name_possessive: "江青"
+ #夜神
+ MY66_GongCHanZHuYi_water_god_name: "王洪文"
+ MY66_GongCHanZHuYi_water_god_name_possessive: "王洪文"
+ #水神
+ MY66_GongCHanZHuYi_devil_name: "资本家"
+ MY66_GongCHanZHuYi_devil_name_possessive: "资本家"
+ #魔鬼
+ MY66_GongCHanZHuYi_house_of_worship: "公社"
+ MY66_GongCHanZHuYi_house_of_worship_plural: "公社"
+ #礼拜堂
+ MY66_GongCHanZHuYi_religious_symbol: "镰刀锤子"
+ #宗教象征
+ MY66_GongCHanZHuYi_religious_text: "《资本论》"
+ #宗教经文
+ MY66_GongCHanZHuYi_religious_head_title: "主席"
+ #宗教领袖
+ MY66_GongCHanZHuYi_religious_head_title_name: "最高苏维埃"
+ #宗教领袖头衔
+ MY66_GongCHanZHuYi_devotee_male: "党员"
+ MY66_GongCHanZHuYi_devotee_male_plural: "党员"
+ #男性修士
+ MY66_GongCHanZHuYi_devotee_female: "党员"
+ MY66_GongCHanZHuYi_devotee_female_plural: "党员"
+ #女性修士
+ MY66_GongCHanZHuYi_devotee_neuter: "党员"
+ MY66_GongCHanZHuYi_devotee_neuter_plural: "党员"
+ #中性修士
+ MY66_GongCHanZHuYi_court_chaplain: "政委"
+ MY66_GongCHanZHuYi_court_chaplains_possessive: "政委"
+ #牧师
+ MY66_GongCHanZHuYi_bishop: "政委"
+ MY66_GongCHanZHuYi_bishop_plural: "政委"
+ #主教
+ MY66_GongCHanZHuYi_divinerealm: "四维空间"
+ #神界
+ MY66_GongCHanZHuYi_positive_afterlife: "乌托邦"
+ #天堂
+ MY66_GongCHanZHuYi_negative_afterlife: "勃艮第"
+ #地狱
+ MY66_GongCHanZHuYi_death_deity_name: "萨布林"
+ MY66_GongCHanZHuYi_death_deity_name_possessive: "萨布林"
+ #死神
+ MY66_GongCHanZHuYi_witchgodname_name: "博尔施坦"
+ MY66_GongCHanZHuYi_witchgodname_name_possessive: "博尔施坦"
+ #巫术神
+ councillor_court_chaplain_MY66_GongCHanZHuYi_county: "政委"
+ councillor_court_chaplain_MY66_GongCHanZHuYi_county_possessive: "政委"
+ #伯爵级宫廷主教
+ councillor_court_chaplain_MY66_GongCHanZHuYi_duchy: "政委"
+ councillor_court_chaplain_MY66_GongCHanZHuYi_duchy_possessive: "政委"
+ #公国级宫廷主教
+ councillor_court_chaplain_MY66_GongCHanZHuYi_kingdom: "政委"
+ councillor_court_chaplain_MY66_GongCHanZHuYi_kingdom_possessive: "政委"
+ #王国级宫廷主教
+ councillor_court_chaplain_MY66_GongCHanZHuYi_empire: "政委"
+ councillor_court_chaplain_MY66_GongCHanZHuYi_empire_possessive: "政委"
+ #帝国级宫廷男主教
+ councillor_court_chaplain_MY66_GongCHanZHuYi_empire_female: "政委"
+ councillor_court_chaplain_MY66_GongCHanZHuYi_empire_female_possessive: "政委"
+ #帝国级宫廷女主教
+ 
+ #MY66_WuSHenLun_baron: "男爵"
+ #MY66_WuSHenLun_baron_female: "女男爵"
+ #MY66_WuSHenLun_count: "伯爵"
+ #MY66_WuSHenLun_count_female: "女伯爵"
+ #MY66_WuSHenLun_duke: "公爵"
+ #MY66_WuSHenLun_duke_female: "女公爵"
+ #MY66_WuSHenLun_king: "国王"
+ #MY66_WuSHenLun_king_female: "女王"
+ #MY66_WuSHenLun_emperor: "皇帝"
+ #MY66_WuSHenLun_emperor_female: "女皇"
+ 
+ #MY66_WuSHenLun_baron_male: "男爵"
+ #MY66_WuSHenLun_baron_female: "女男爵"
+ #MY66_WuSHenLun_count_male: "市长"
+ #MY66_WuSHenLun_count_female: "女市长"
+ #MY66_WuSHenLun_duke_male: "总统"
+ #MY66_WuSHenLun_duke_female: "女总统"
+ #MY66_WuSHenLun_king_male: "联邦总统"
+ #MY66_WuSHenLun_king_female: "联邦女总统"
+ #MY66_WuSHenLun_emperor_male: "皇帝"
+ #MY66_WuSHenLun_emperor_female: "女皇"
+ 
+ #MY66_WuSHenLun_empire: "联邦"
+ #MY66_WuSHenLun_kingdom: "联邦共和国"
+ #MY66_WuSHenLun_duchy: "共和国"
+ #MY66_WuSHenLun_county: "自由市"
+ #MY66_WuSHenLun_barony: "男爵领"
+ 
+ 
+ 
+ rf_MY66_NanGua_PingGuo: "南瓜-苹果宗教组"
+ rf_MY66_NanGua_PingGuo_hostility_doctrine_name: "无神论宗教组"
+ rf_MY66_NanGua_PingGuo_hostility_doctrine_desc: "下列宗教属于无神论宗教组：\n[GetReligionFamily(rf_MY66_WuSHenLun).GetReligions]"
+ 
+ MY66_AatTuierhkovo_religion: "阿特图伊儿赫特"
+ MY66_AatTuierhkovo_religion_adj: "阿特图伊儿赫特"
+ MY66_AatTuierhkovo_religion_adherent: "阿特图伊"
+ MY66_AatTuierhkovo_religion_adherent_plural: "阿特图伊"
+ MY66_AatTuierhkovo_religion_desc: "阿特图伊儿赫特起源于原始阿特图伊人对星空的信仰，他们认为星空是一切的起源以为星空为战为荣。"
+ 
+ MY66_AatTuierhkovo_QiTtvoerrkhar: "阿特图伊儿-其特维儿赫特"
+ MY66_AatTuierhkovo_QiTtvoerrkhar_adj: "阿特图伊儿赫特-其特维儿赫特"
+ #名称
+ MY66_AatTuierhkovo_QiTtvoerrkhar_adherent: "阿特图伊其特"
+ MY66_AatTuierhkovo_QiTtvoerrkhar_adherent_plural: "阿特图伊其特"
+ #信徒
+ MY66_AatTuierhkovo_QiTtvoerrkhar_pagan_old: "旧其特维儿赫特"
+ MY66_AatTuierhkovo_QiTtvoerrkhar_pagan_old_adj: "旧其特维儿赫特"
+ #教改后名称（教改出现的是新宗教）
+ MY66_AatTuierhkovo_QiTtvoerrkhar_pagan_old_adherent: "旧阿特图伊其特"
+ MY66_AatTuierhkovo_QiTtvoerrkhar_pagan_old_adherent_plural: "旧阿特图伊其特"
+ #教改后信徒（教改出现的是新宗教）
+ MY66_AatTuierhkovo_QiTtvoerrkhar_desc: "最原始的阿特图伊信仰，他们认为是星空中诞生了现在的一切，和其他派别不同的是他们认为太阳也是星空的一部分，"
+ #简介
+ MY66_AatTuierhkovo_QiTtvoerrkhar_high_god_name: "星辰"
+ MY66_AatTuierhkovo_QiTtvoerrkhar_high_god_name_possessive: "星辰"
+ #至高神
+ MY66_AatTuierhkovo_QiTtvoerrkhar_high_god_name_alternate: "繁星"
+ MY66_AatTuierhkovo_QiTtvoerrkhar_high_god_name_alternate_possessive: "繁星"
+ #至高神变体
+ MY66_AatTuierhkovo_QiTtvoerrkhar_creator_god_name: "星辰"
+ MY66_AatTuierhkovo_QiTtvoerrkhar_creator_god_name_possessive: "星辰"
+ #创世神
+ MY66_AatTuierhkovo_QiTtvoerrkhar_health_god_name: "星辰"
+ MY66_AatTuierhkovo_QiTtvoerrkhar_health_god_name_possessive: "星辰"
+ #健康神
+ MY66_AatTuierhkovo_QiTtvoerrkhar_fertility_god_name: "星辰"
+ MY66_AatTuierhkovo_QiTtvoerrkhar_fertility_god_name_possessive: "星辰"
+ #生育神
+ MY66_AatTuierhkovo_QiTtvoerrkhar_wealth_god_name: "星辰"
+ MY66_AatTuierhkovo_QiTtvoerrkhar_wealth_god_name_possessive: "星辰"
+ #财神
+ MY66_AatTuierhkovo_QiTtvoerrkhar_household_god_name: "星辰"
+ MY66_AatTuierhkovo_QiTtvoerrkhar_household_god_name_possessive: "星辰"
+ #家庭神
+ MY66_AatTuierhkovo_QiTtvoerrkhar_fate_god_name: "星辰"
+ MY66_AatTuierhkovo_QiTtvoerrkhar_fate_god_name_possessive: "星辰"
+ #命运神
+ MY66_AatTuierhkovo_QiTtvoerrkhar_knowledge_god_name: "星辰"
+ MY66_AatTuierhkovo_QiTtvoerrkhar_knowledge_god_name_possessive: "星辰"
+ #知识神
+ MY66_AatTuierhkovo_QiTtvoerrkhar_war_god_name: "斯特阿"
+ MY66_AatTuierhkovo_QiTtvoerrkhar_war_god_name_possessive: "斯特阿"
+ #战争神
+ MY66_AatTuierhkovo_QiTtvoerrkhar_trickster_god_name: "星辰"
+ MY66_AatTuierhkovo_QiTtvoerrkhar_trickster_god_name_possessive: "星辰"
+ #骗子神
+ MY66_AatTuierhkovo_QiTtvoerrkhar_night_god_name: "星辰"
+ MY66_AatTuierhkovo_QiTtvoerrkhar_night_god_name_possessive: "星辰"
+ #夜神
+ MY66_AatTuierhkovo_QiTtvoerrkhar_water_god_name: "星辰"
+ MY66_AatTuierhkovo_QiTtvoerrkhar_water_god_name_possessive: "星辰"
+ #水神
+ MY66_AatTuierhkovo_QiTtvoerrkhar_devil_name: "斯特阿"
+ MY66_AatTuierhkovo_QiTtvoerrkhar_devil_name_possessive: "斯特阿"
+ #魔鬼
+ MY66_AatTuierhkovo_QiTtvoerrkhar_evil_god: "斯特阿"
+ MY66_AatTuierhkovo_QiTtvoerrkhar_evil_god_possessive: "斯特阿"
+ #邪神
+ MY66_AatTuierhkovo_QiTtvoerrkhar_house_of_worship: "空地"
+ MY66_AatTuierhkovo_QiTtvoerrkhar_house_of_worship_plural: "空地"
+ #礼拜堂
+ MY66_AatTuierhkovo_QiTtvoerrkhar_religious_symbol: "其特维阿儿其赫特"
+ #宗教象征
+ MY66_AatTuierhkovo_QiTtvoerrkhar_religious_text: "《弥阿图儿其耳》"
+ #宗教经文
+ MY66_AatTuierhkovo_QiTtvoerrkhar_religious_head_title: "长老之首"
+ #宗教领袖
+ MY66_AatTuierhkovo_QiTtvoerrkhar_religious_head_title_name: "长老议会"
+ #宗教领袖头衔
+ MY66_AatTuierhkovo_QiTtvoerrkhar_devotee_male: "长老学徒"
+ MY66_AatTuierhkovo_QiTtvoerrkhar_devotee_male_plural: "长老学徒"
+ #男性修士
+ MY66_AatTuierhkovo_QiTtvoerrkhar_devotee_female: "长老学徒"
+ MY66_AatTuierhkovo_QiTtvoerrkhar_devotee_female_plural: "长老学徒"
+ #女性修士
+ MY66_AatTuierhkovo_QiTtvoerrkhar_devotee_neuter: "长老学徒"
+ MY66_AatTuierhkovo_QiTtvoerrkhar_devotee_neuter_plural: "长老学徒"
+ #中性修士
+ MY66_AatTuierhkovo_QiTtvoerrkhar_court_chaplain: "长老"
+ MY66_AatTuierhkovo_QiTtvoerrkhar_court_chaplains_possessive: "长老"
+ #牧师
+ MY66_AatTuierhkovo_QiTtvoerrkhar_bishop: "长老"
+ MY66_AatTuierhkovo_QiTtvoerrkhar_bishop_plural: "长老"
+ #主教
+ MY66_AatTuierhkovo_QiTtvoerrkhar_divinerealm: "星空"
+ #神界
+ MY66_AatTuierhkovo_QiTtvoerrkhar_positive_afterlife: "永寂"
+ #天堂
+ MY66_AatTuierhkovo_QiTtvoerrkhar_negative_afterlife: "永寂"
+ #阴府
+ MY66_AatTuierhkovo_QiTtvoerrkhar_death_deity_name: "死亡"
+ MY66_AatTuierhkovo_QiTtvoerrkhar_death_deity_name_possessive: "死亡"
+ #死神
+ MY66_AatTuierhkovo_QiTtvoerrkhar_witchgodname_name: "星辰"
+ MY66_AatTuierhkovo_QiTtvoerrkhar_witchgodname_name_possessive: "星辰"
+ #巫术神
+ councillor_court_chaplain_MY66_AatTuierhkovo_QiTtvoerrkhar_county: "长老"
+ councillor_court_chaplain_MY66_AatTuierhkovo_QiTtvoerrkhar_county_possessive: "长老"
+ #伯爵级宫廷主教
+ councillor_court_chaplain_MY66_AatTuierhkovo_QiTtvoerrkhar_duchy: "长老"
+ councillor_court_chaplain_MY66_AatTuierhkovo_QiTtvoerrkhar_duchy_possessive: "长老"
+ #公国级宫廷主教
+ councillor_court_chaplain_MY66_AatTuierhkovo_QiTtvoerrkhar_kingdom: "长老"
+ councillor_court_chaplain_MY66_AatTuierhkovo_QiTtvoerrkhar_kingdom_possessive: "长老"
+ #王国级宫廷主教
+ councillor_court_chaplain_MY66_AatTuierhkovo_QiTtvoerrkhar_empire: "长老"
+ councillor_court_chaplain_MY66_AatTuierhkovo_QiTtvoerrkhar_empire_possessive: "长老"
+ #帝国级宫廷男主教
+ councillor_court_chaplain_MY66_AatTuierhkovo_QiTtvoerrkhar_empire_female: "长老"
+ councillor_court_chaplain_MY66_AatTuierhkovo_QiTtvoerrkhar_empire_female_possessive: "长老"
+ #帝国级宫廷女主教
+ 
+ MY66_AatTuierhkovo_Leilida: "阿特图伊儿-垒利达"
+ MY66_AatTuierhkovo_Leilida_adj: "阿特图伊儿赫特-垒利达"
+ #名称
+ MY66_AatTuierhkovo_Leilida_adherent: "阿特图伊垒利达"
+ MY66_AatTuierhkovo_Leilida_adherent_plural: "阿特图伊垒利达"
+ #信徒
+ MY66_AatTuierhkovo_Leilida_pagan_old: "旧垒利达"
+ MY66_AatTuierhkovo_Leilida_pagan_old_adj: "旧垒利达"
+ #教改后名称（教改出现的是新宗教）
+ MY66_AatTuierhkovo_Leilida_pagan_old_adherent: "旧阿特图伊垒利达"
+ MY66_AatTuierhkovo_Leilida_pagan_old_adherent_plural: "旧阿特图伊垒利达"
+ #教改后信徒（教改出现的是新宗教）
+ MY66_AatTuierhkovo_Leilida_desc: "世界最初只有点点繁星，就在这繁星之间诞生了：图伊，祂创造了世界，特丹达，可祂独享星空，创造了格尔特丹达将世界罩住，但星空的光将罩子侵蚀出空洞让我们的祖先第一次见到星空。繁星在看到祂的所作所为后诞生了：斯特阿，但祂的漫长身躯将支撑世界和罩子的世界树摧毁，罩子立刻坍塌世界也失去活性，就在这场灾难的时候四个部落的酋长站了出来，他们和斯特阿一起将罩子支撑，慢慢的变成五根石柱，可世界已经无法生存，我们的祖先只能往罩子上爬，他们发现罩子星空的滋养下生机勃勃。"
+ #简介
+ MY66_AatTuierhkovo_Leilida_high_god_name: "星辰"
+ MY66_AatTuierhkovo_Leilida_high_god_name_possessive: "星辰"
+ #至高神
+ MY66_AatTuierhkovo_Leilida_high_god_name_alternate: "繁星"
+ MY66_AatTuierhkovo_Leilida_high_god_name_alternate_possessive: "繁星"
+ #至高神变体
+ MY66_AatTuierhkovo_Leilida_creator_god_name: "图伊"
+ MY66_AatTuierhkovo_Leilida_creator_god_name_possessive: "图伊"
+ #创世神
+ MY66_AatTuierhkovo_Leilida_health_god_name: "祖先"
+ MY66_AatTuierhkovo_Leilida_health_god_name_possessive: "祖先"
+ #健康神
+ MY66_AatTuierhkovo_Leilida_fertility_god_name: "祖先"
+ MY66_AatTuierhkovo_Leilida_fertility_god_name_possessive: "祖先"
+ #生育神
+ MY66_AatTuierhkovo_Leilida_wealth_god_name: "祖先"
+ MY66_AatTuierhkovo_Leilida_wealth_god_name_possessive: "祖先"
+ #财神
+ MY66_AatTuierhkovo_Leilida_household_god_name: "祖先"
+ MY66_AatTuierhkovo_Leilida_household_god_name_possessive: "祖先"
+ #家庭神
+ MY66_AatTuierhkovo_Leilida_fate_god_name: "祖先"
+ MY66_AatTuierhkovo_Leilida_fate_god_name_possessive: "祖先"
+ #命运神
+ MY66_AatTuierhkovo_Leilida_knowledge_god_name: "祖先"
+ MY66_AatTuierhkovo_Leilida_knowledge_god_name_possessive: "祖先"
+ #知识神
+ MY66_AatTuierhkovo_Leilida_war_god_name: "斯特阿"
+ MY66_AatTuierhkovo_Leilida_war_god_name_possessive: "斯特阿"
+ #战争神
+ MY66_AatTuierhkovo_Leilida_trickster_god_name: "图伊"
+ MY66_AatTuierhkovo_Leilida_trickster_god_name_possessive: "图伊"
+ #骗子神
+ MY66_AatTuierhkovo_Leilida_night_god_name: "星辰"
+ MY66_AatTuierhkovo_Leilida_night_god_name_possessive: "星辰"
+ #夜神
+ MY66_AatTuierhkovo_Leilida_water_god_name: "星辰"
+ MY66_AatTuierhkovo_Leilida_water_god_name_possessive: "星辰"
+ #水神
+ MY66_AatTuierhkovo_Leilida_devil_name: "斯特阿"
+ MY66_AatTuierhkovo_Leilida_devil_name_possessive: "斯特阿"
+ #魔鬼
+ MY66_AatTuierhkovo_Leilida_evil_god: "斯特阿"
+ MY66_AatTuierhkovo_Leilida_evil_god_possessive: "斯特阿"
+ #邪神
+ MY66_AatTuierhkovo_Leilida_house_of_worship: "空地"
+ MY66_AatTuierhkovo_Leilida_house_of_worship_plural: "空地"
+ #礼拜堂
+ MY66_AatTuierhkovo_Leilida_religious_symbol: "祖先和星辰"
+ #宗教象征
+ MY66_AatTuierhkovo_Leilida_religious_text: "《祖先传奇》"
+ #宗教经文
+ MY66_AatTuierhkovo_Leilida_religious_head_title: "长老之首"
+ #宗教领袖
+ MY66_AatTuierhkovo_Leilida_religious_head_title_name: "长老议会"
+ #宗教领袖头衔
+ MY66_AatTuierhkovo_Leilida_devotee_male: "长老学徒"
+ MY66_AatTuierhkovo_Leilida_devotee_male_plural: "长老学徒"
+ #男性修士
+ MY66_AatTuierhkovo_Leilida_devotee_female: "长老学徒"
+ MY66_AatTuierhkovo_Leilida_devotee_female_plural: "长老学徒"
+ #女性修士
+ MY66_AatTuierhkovo_Leilida_devotee_neuter: "长老学徒"
+ MY66_AatTuierhkovo_Leilida_devotee_neuter_plural: "长老学徒"
+ #中性修士
+ MY66_AatTuierhkovo_Leilida_court_chaplain: "长老"
+ MY66_AatTuierhkovo_Leilida_court_chaplains_possessive: "长老"
+ #牧师
+ MY66_AatTuierhkovo_Leilida_bishop: "长老"
+ MY66_AatTuierhkovo_Leilida_bishop_plural: "长老"
+ #主教
+ MY66_AatTuierhkovo_Leilida_divinerealm: "星空"
+ #神界
+ MY66_AatTuierhkovo_Leilida_positive_afterlife: "永寂"
+ #天堂
+ MY66_AatTuierhkovo_Leilida_negative_afterlife: "永寂"
+ #阴府
+ MY66_AatTuierhkovo_Leilida_death_deity_name: "死亡"
+ MY66_AatTuierhkovo_Leilida_death_deity_name_possessive: "死亡"
+ #死神
+ MY66_AatTuierhkovo_Leilida_witchgodname_name: "邪神"
+ MY66_AatTuierhkovo_Leilida_witchgodname_name_possessive: "邪神"
+ #巫术神
+ councillor_court_chaplain_MY66_AatTuierhkovo_Leilida_county: "长老"
+ councillor_court_chaplain_MY66_AatTuierhkovo_Leilida_county_possessive: "长老"
+ #伯爵级宫廷主教
+ councillor_court_chaplain_MY66_AatTuierhkovo_Leilida_duchy: "长老"
+ councillor_court_chaplain_MY66_AatTuierhkovo_Leilida_duchy_possessive: "长老"
+ #公国级宫廷主教
+ councillor_court_chaplain_MY66_AatTuierhkovo_Leilida_kingdom: "长老"
+ councillor_court_chaplain_MY66_AatTuierhkovo_Leilida_kingdom_possessive: "长老"
+ #王国级宫廷主教
+ councillor_court_chaplain_MY66_AatTuierhkovo_Leilida_empire: "长老"
+ councillor_court_chaplain_MY66_AatTuierhkovo_Leilida_empire_possessive: "长老"
+ #帝国级宫廷男主教
+ councillor_court_chaplain_MY66_AatTuierhkovo_Leilida_empire_female: "长老"
+ councillor_court_chaplain_MY66_AatTuierhkovo_Leilida_empire_female_possessive: "长老"
+ #帝国级宫廷女主教
+ 
+ #MY66_AatTuierhkovo_Moarasrasts: "阿特图伊儿-莫阿喇腊刺"
+ #MY66_AatTuierhkovo_Moarasrasts_adj: "阿特图伊儿赫特-莫阿喇腊刺"
+ #名称
+ #MY66_AatTuierhkovo_Moarasrasts_adherent: "阿特图伊阿喇"
+ #MY66_AatTuierhkovo_Moarasrasts_adherent_plural: "阿特图伊阿喇"
+ #信徒
+ MY66_AatTuierhkovo_Moarasrasts: "阿特图伊儿-斯瓦嚓"
+ MY66_AatTuierhkovo_Moarasrasts_adj: "阿特图伊儿赫特-斯瓦嚓"
+ #名称
+ MY66_AatTuierhkovo_Moarasrasts_adherent: "阿特图伊斯瓦嚓"
+ MY66_AatTuierhkovo_Moarasrasts_adherent_plural: "阿特图伊斯瓦嚓"
+ #信徒
+ #MY66_AatTuierhkovo_Moarasrasts_desc: "起源于其特维儿赫特-斯瓦嚓的为星空而战的传统，他们最开始是原始阿特图伊人的“骑士”，后来在斯特阿的带领下独立于传统阿特图伊人。因此被传统阿特图伊人敌视。"
+ MY66_AatTuierhkovo_Moarasrasts_desc: "原始阿特图伊人的骑士阶级其特维儿赫特-斯瓦嚓有为星空而战的传统，他们逐渐与传统阿特图伊儿-其特维儿赫特的信仰产生偏差，但总体体还是相安无事，直到阿儿朵斯父子建立阿特图伊-莫阿朵腊刺，大部分其特维儿赫特信徒改信组织化的莫阿朵腊刺，与只信仰夜晚的斯瓦嚓不同甚至是差别甚远，他们认为太阳是一个独立的神，他们开始大肆抓捕斯瓦嚓派，直到斯特阿把斯瓦嚓派信徒组织在一起。"
+ #简介
+ MY66_AatTuierhkovo_Moarasrasts_high_god_name: "星辰"
+ MY66_AatTuierhkovo_Moarasrasts_high_god_name_possessive: "星辰"
+ #至高神
+ MY66_AatTuierhkovo_Moarasrasts_high_god_name_alternate: "繁星"
+ MY66_AatTuierhkovo_Moarasrasts_high_god_name_alternate_possessive: "繁星"
+ #至高神变体
+ MY66_AatTuierhkovo_Moarasrasts_creator_god_name: "星辰"
+ MY66_AatTuierhkovo_Moarasrasts_creator_god_name_possessive: "星辰"
+ #创世神
+ MY66_AatTuierhkovo_Moarasrasts_health_god_name: "星辰"
+ MY66_AatTuierhkovo_Moarasrasts_health_god_name_possessive: "星辰"
+ #健康神
+ MY66_AatTuierhkovo_Moarasrasts_fertility_god_name: "星辰"
+ MY66_AatTuierhkovo_Moarasrasts_fertility_god_name_possessive: "星辰"
+ #生育神
+ MY66_AatTuierhkovo_Moarasrasts_wealth_god_name: "星辰"
+ MY66_AatTuierhkovo_Moarasrasts_wealth_god_name_possessive: "星辰"
+ #财神
+ MY66_AatTuierhkovo_Moarasrasts_household_god_name: "星辰"
+ MY66_AatTuierhkovo_Moarasrasts_household_god_name_possessive: "星辰"
+ #家庭神
+ MY66_AatTuierhkovo_Moarasrasts_fate_god_name: "星辰"
+ MY66_AatTuierhkovo_Moarasrasts_fate_god_name_possessive: "星辰"
+ #命运神
+ MY66_AatTuierhkovo_Moarasrasts_knowledge_god_name: "星辰"
+ MY66_AatTuierhkovo_Moarasrasts_knowledge_god_name_possessive: "星辰"
+ #知识神
+ MY66_AatTuierhkovo_Moarasrasts_war_god_name: "斯特阿"
+ MY66_AatTuierhkovo_Moarasrasts_war_god_name_possessive: "斯特阿"
+ #战争神
+ MY66_AatTuierhkovo_Moarasrasts_trickster_god_name: "星辰"
+ MY66_AatTuierhkovo_Moarasrasts_trickster_god_name_possessive: "星辰"
+ #骗子神
+ MY66_AatTuierhkovo_Moarasrasts_night_god_name: "星辰"
+ MY66_AatTuierhkovo_Moarasrasts_night_god_name_possessive: "星辰"
+ #夜神
+ MY66_AatTuierhkovo_Moarasrasts_water_god_name: "星辰"
+ MY66_AatTuierhkovo_Moarasrasts_water_god_name_possessive: "星辰"
+ #水神
+ MY66_AatTuierhkovo_Moarasrasts_devil_name: "阿儿朵斯"
+ MY66_AatTuierhkovo_Moarasrasts_devil_name_possessive: "阿儿朵斯"
+ #魔鬼
+ MY66_AatTuierhkovo_Moarasrasts_evil_god: "阿儿朵斯"
+ MY66_AatTuierhkovo_Moarasrasts_evil_god_possessive: "阿儿朵斯"
+ #邪神
+ MY66_AatTuierhkovo_Moarasrasts_house_of_worship: "空地"
+ MY66_AatTuierhkovo_Moarasrasts_house_of_worship_plural: "空地"
+ #礼拜堂
+ MY66_AatTuierhkovo_Moarasrasts_religious_symbol: "其特维阿儿其赫特"
+ #宗教象征
+ MY66_AatTuierhkovo_Moarasrasts_religious_text: "《斯特瓦嚓》"
+ #宗教经文
+ MY66_AatTuierhkovo_Moarasrasts_religious_head_title: "斯特阿阿耳" #向斯特阿一样统治
+ #宗教领袖
+ MY66_AatTuierhkovo_Moarasrasts_religious_head_title_name: "斯瓦嚓儿其刺"
+ #宗教领袖头衔
+ MY66_AatTuierhkovo_Moarasrasts_devotee_male: "斯特瓦嚓" #作为斯瓦嚓接近斯特阿，但斯特阿已经没有阿了，表示逐渐融为一体
+ MY66_AatTuierhkovo_Moarasrasts_devotee_male_plural: "斯特瓦嚓"
+ #男性修士
+ MY66_AatTuierhkovo_Moarasrasts_devotee_female: "斯特瓦嚓"
+ MY66_AatTuierhkovo_Moarasrasts_devotee_female_plural: "斯特瓦嚓"
+ #女性修士
+ MY66_AatTuierhkovo_Moarasrasts_devotee_neuter: "斯特瓦嚓"
+ MY66_AatTuierhkovo_Moarasrasts_devotee_neuter_plural: "斯特瓦嚓"
+ #中性修士
+ MY66_AatTuierhkovo_Moarasrasts_court_chaplain: "斯特阿瓦嚓" #作为斯瓦嚓接近斯特阿
+ MY66_AatTuierhkovo_Moarasrasts_court_chaplains_possessive: "斯特阿瓦嚓"
+ #牧师
+ MY66_AatTuierhkovo_Moarasrasts_bishop: "斯特阿瓦嚓"
+ MY66_AatTuierhkovo_Moarasrasts_bishop_plural: "斯特阿瓦嚓"
+ #主教
+ MY66_AatTuierhkovo_Moarasrasts_divinerealm: "星空"
+ #神界
+ MY66_AatTuierhkovo_Moarasrasts_positive_afterlife: "永寂"
+ #天堂
+ MY66_AatTuierhkovo_Moarasrasts_negative_afterlife: "永寂"
+ #阴府
+ MY66_AatTuierhkovo_Moarasrasts_death_deity_name: "死亡"
+ MY66_AatTuierhkovo_Moarasrasts_death_deity_name_possessive: "死亡"
+ #死神
+ MY66_AatTuierhkovo_Moarasrasts_witchgodname_name: "星辰"
+ MY66_AatTuierhkovo_Moarasrasts_witchgodname_name_possessive: "星辰"
+ #巫术神
+ councillor_court_chaplain_MY66_AatTuierhkovo_Moarasrasts_county: "斯特阿瓦嚓"
+ councillor_court_chaplain_MY66_AatTuierhkovo_Moarasrasts_county_possessive: "斯特阿瓦嚓"
+ #伯爵级宫廷主教
+ councillor_court_chaplain_MY66_AatTuierhkovo_Moarasrasts_duchy: "斯特阿瓦嚓"
+ councillor_court_chaplain_MY66_AatTuierhkovo_Moarasrasts_duchy_possessive: "斯特阿瓦嚓"
+ #公国级宫廷主教
+ councillor_court_chaplain_MY66_AatTuierhkovo_Moarasrasts_kingdom: "斯特阿瓦嚓"
+ councillor_court_chaplain_MY66_AatTuierhkovo_Moarasrasts_kingdom_possessive: "斯特阿瓦嚓"
+ #王国级宫廷主教
+ councillor_court_chaplain_MY66_AatTuierhkovo_Moarasrasts_empire: "斯特阿瓦嚓"
+ councillor_court_chaplain_MY66_AatTuierhkovo_Moarasrasts_empire_possessive: "斯特阿瓦嚓"
+ #帝国级宫廷男主教
+ councillor_court_chaplain_MY66_AatTuierhkovo_Moarasrasts_empire_female: "斯特阿瓦嚓"
+ councillor_court_chaplain_MY66_AatTuierhkovo_Moarasrasts_empire_female_possessive: "斯特阿瓦嚓"
+ #帝国级宫廷女主教
+ 
+ MY66_AatTuierhkovo_Moaadorasts: "阿特图伊儿-莫阿朵腊刺"
+ MY66_AatTuierhkovo_Moaadorasts_adj: "阿特图伊儿赫特-莫阿朵腊刺"
+ #名称
+ MY66_AatTuierhkovo_Moaadorasts_adherent: "阿特图伊阿朵"
+ MY66_AatTuierhkovo_Moaadorasts_adherent_plural: "阿特图伊阿朵"
+ #信徒
+ MY66_AatTuierhkovo_Moaadorasts_desc: "在莫腊刺时期阿特图伊人大部分都信仰未改革的阿特图伊儿-其特维儿赫特，少部分信仰阿特图伊儿-斯瓦嚓，阿儿朵斯致力要规范化其特维儿赫特，但先阿规范未半而中道崩殂。阿儿朵斯二世继续规范化，但在里面夹带私货，认为世界上不止繁星一个神，而是两个神，分别是代表黑夜的繁星和代表白昼的图伊，他们与只信仰繁星的阿特图伊儿-斯瓦嚓对立。"
+ #简介
+ MY66_AatTuierhkovo_Moaadorasts_high_god_name: "星辰"
+ MY66_AatTuierhkovo_Moaadorasts_high_god_name_possessive: "星辰"
+ #至高神
+ MY66_AatTuierhkovo_Moaadorasts_high_god_name_alternate: "繁星"
+ MY66_AatTuierhkovo_Moaadorasts_high_god_name_alternate_possessive: "繁星"
+ #至高神变体
+ MY66_AatTuierhkovo_Moaadorasts_creator_god_name: "星辰"
+ MY66_AatTuierhkovo_Moaadorasts_creator_god_name_possessive: "星辰"
+ #创世神
+ MY66_AatTuierhkovo_Moaadorasts_health_god_name: "图伊"
+ MY66_AatTuierhkovo_Moaadorasts_health_god_name_possessive: "图伊"
+ #健康神
+ MY66_AatTuierhkovo_Moaadorasts_fertility_god_name: "星辰"
+ MY66_AatTuierhkovo_Moaadorasts_fertility_god_name_possessive: "星辰"
+ #生育神
+ MY66_AatTuierhkovo_Moaadorasts_wealth_god_name: "星辰"
+ MY66_AatTuierhkovo_Moaadorasts_wealth_god_name_possessive: "星辰"
+ #财神
+ MY66_AatTuierhkovo_Moaadorasts_household_god_name: "星辰"
+ MY66_AatTuierhkovo_Moaadorasts_household_god_name_possessive: "星辰"
+ #家庭神
+ MY66_AatTuierhkovo_Moaadorasts_fate_god_name: "图伊"
+ MY66_AatTuierhkovo_Moaadorasts_fate_god_name_possessive: "图伊"
+ #命运神
+ MY66_AatTuierhkovo_Moaadorasts_knowledge_god_name: "阿儿朵斯"
+ MY66_AatTuierhkovo_Moaadorasts_knowledge_god_name_possessive: "阿儿朵斯"
+ #知识神
+ MY66_AatTuierhkovo_Moaadorasts_war_god_name: "图伊"
+ MY66_AatTuierhkovo_Moaadorasts_war_god_name_possessive: "图伊"
+ #战争神
+ MY66_AatTuierhkovo_Moaadorasts_trickster_god_name: "星辰"
+ MY66_AatTuierhkovo_Moaadorasts_trickster_god_name_possessive: "星辰"
+ #骗子神
+ MY66_AatTuierhkovo_Moaadorasts_night_god_name: "星辰"
+ MY66_AatTuierhkovo_Moaadorasts_night_god_name_possessive: "星辰"
+ #夜神
+ MY66_AatTuierhkovo_Moaadorasts_water_god_name: "星辰"
+ MY66_AatTuierhkovo_Moaadorasts_water_god_name_possessive: "星辰"
+ #水神
+ MY66_AatTuierhkovo_Moaadorasts_devil_name: "斯特阿"
+ MY66_AatTuierhkovo_Moaadorasts_devil_name_possessive: "斯特阿"
+ #魔鬼
+ MY66_AatTuierhkovo_Moaadorasts_evil_god: "斯特阿"
+ MY66_AatTuierhkovo_Moaadorasts_evil_god_possessive: "斯特阿"
+ #邪神
+ MY66_AatTuierhkovo_Moaadorasts_house_of_worship: "空地"
+ MY66_AatTuierhkovo_Moaadorasts_house_of_worship_plural: "空地"
+ #礼拜堂
+ MY66_AatTuierhkovo_Moaadorasts_religious_symbol: "星日"
+ #宗教象征
+ MY66_AatTuierhkovo_Moaadorasts_religious_text: "《阿儿朵斯父子》"
+ #宗教经文
+ MY66_AatTuierhkovo_Moaadorasts_religious_head_title: "阿尔图伊 #在莫阿朵腊刺派里阿尔是神职人员的称呼，图伊代表神圣
+ #宗教领袖
+ MY66_AatTuierhkovo_Moaadorasts_religious_head_title_name: "阿尔议会"
+ #宗教领袖头衔
+ MY66_AatTuierhkovo_Moaadorasts_devotee_male: "阿尔嚓" #在莫阿朵腊刺派里阿尔是神职人员的称呼，嚓是指斯瓦嚓，最开始是指改信阿朵腊刺派的斯瓦嚓人，后来变成为神奉献自己的人
+ MY66_AatTuierhkovo_Moaadorasts_devotee_male_plural: "阿尔嚓"
+ #男性修士
+ MY66_AatTuierhkovo_Moaadorasts_devotee_female: "阿尔嚓"
+ MY66_AatTuierhkovo_Moaadorasts_devotee_female_plural: "阿尔嚓"
+ #女性修士
+ MY66_AatTuierhkovo_Moaadorasts_devotee_neuter: "阿尔嚓"
+ MY66_AatTuierhkovo_Moaadorasts_devotee_neuter_plural: "阿尔嚓"
+ #中性修士
+ MY66_AatTuierhkovo_Moaadorasts_court_chaplain: "阿尔" #在莫阿朵腊刺派里阿尔是神职人员的称呼
+ MY66_AatTuierhkovo_Moaadorasts_court_chaplains_possessive: "阿尔"
+ #牧师
+ MY66_AatTuierhkovo_Moaadorasts_bishop: "阿尔"
+ MY66_AatTuierhkovo_Moaadorasts_bishop_plural: "阿尔"
+ #主教
+ MY66_AatTuierhkovo_Moaadorasts_divinerealm: "星空"
+ #神界
+ MY66_AatTuierhkovo_Moaadorasts_positive_afterlife: "永寂"
+ #天堂
+ MY66_AatTuierhkovo_Moaadorasts_negative_afterlife: "永寂"
+ #阴府
+ MY66_AatTuierhkovo_Moaadorasts_death_deity_name: "死亡"
+ MY66_AatTuierhkovo_Moaadorasts_death_deity_name_possessive: "死亡"
+ #死神
+ MY66_AatTuierhkovo_Moaadorasts_witchgodname_name: "星辰"
+ MY66_AatTuierhkovo_Moaadorasts_witchgodname_name_possessive: "星辰"
+ #巫术神
+ councillor_court_chaplain_MY66_AatTuierhkovo_Moaadorasts_county: "阿尔"
+ councillor_court_chaplain_MY66_AatTuierhkovo_Moaadorasts_county_possessive: "阿尔"
+ #伯爵级宫廷主教
+ councillor_court_chaplain_MY66_AatTuierhkovo_Moaadorasts_duchy: "阿尔"
+ councillor_court_chaplain_MY66_AatTuierhkovo_Moaadorasts_duchy_possessive: "阿尔"
+ #公国级宫廷主教
+ councillor_court_chaplain_MY66_AatTuierhkovo_Moaadorasts_kingdom: "阿尔"
+ councillor_court_chaplain_MY66_AatTuierhkovo_Moaadorasts_kingdom_possessive: "阿尔"
+ #王国级宫廷主教
+ councillor_court_chaplain_MY66_AatTuierhkovo_Moaadorasts_empire: "阿尔"
+ councillor_court_chaplain_MY66_AatTuierhkovo_Moaadorasts_empire_possessive: "阿尔"
+ #帝国级宫廷男主教
+ councillor_court_chaplain_MY66_AatTuierhkovo_Moaadorasts_empire_female: "阿尔"
+ councillor_court_chaplain_MY66_AatTuierhkovo_Moaadorasts_empire_female_possessive: "阿尔"
+ #帝国级宫廷女主教
+ 
+ 
+ heritage_aattui_name: "阿特图伊"
+ language_aattui_name: "通用图伊语"
+ morasts: "莫腊刺"
+ swacha: "斯瓦嚓"
+ leilida: "垒利达"
+ 
+ Teal: "特阿尔"
+ litea: "利特阿"
+ LeiteTui: "垒特图伊"
+ Qitehe: "其特赫"
+ da: "达"
+ sa: "萨"
+ Daheserter: "达赫斯儿特"
+ Aer: "阿尔"
+ Kurkis: "库儿基斯"
+ 
+ dynnp_er: "耳"
+ 
+ Ste: "斯特"
+ Dan: "丹"
+ Teals: "特阿儿斯"
+ Aara: "阿腊"
+ QiTterr: "其特耳"
+ Dach: "达赫"
+ Lanatte: "腊纳特"
+ Sheucht: "修赫特"
+ alkhter: "阿尔赫特"
+ Wach: "沃赫"
+ Waldos: "沃儿朵斯"
+ Kona: "科纳"
+ Aldos: "阿儿朵斯"
+ 
+ SteA: "斯特阿"
+ Teals: "特阿儿斯"
+ RaAa: "腊阿"
+ QiTterra: "其特儿阿"
+ Dachtaa: "达赫特阿"
+ Lana: "腊纳"
+ Sheuchts: "修赫特斯"
+ alkhters: "阿尔赫特斯"
+ Wachla: "沃赫腊"
+ Waldos: "沃尔朵斯"

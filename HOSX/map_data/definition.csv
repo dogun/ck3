@@ -1,0 +1,85 @@
+0;0;0;0;x;x;
+1;10;10;10;BiTuWai;x;	#地图外
+2;15;15;15;NanJiHuangDi;x;	#南极荒地
+3;25;25;25;BeiJiHuangDi;x;	#北极荒地
+4;195;0;0;ZHongXinDaoHeXin;x;	#中心岛核心
+5;200;0;0;NeiXiNanZHongXinDao;x;	#内西南中心岛
+6;205;0;0;NeiDongNanZHongXinDao;x;	#内东南中心岛
+7;210;0;0;NeiDingBeiZHongXinDao;x;	#内东北中心岛
+8;215;0;0;NeiXiBeiZHongXinDao;x;	#内西北中心岛
+9;220;0;0;SHangXiNanZHongXinDao;x;	#上西南中心岛
+10;225;0;0;XiaXiNanZHongXinDao;x;	#下西南中心岛
+11;230;0;0;SHangDongNanZHongXinDao;x;	#上东南中心岛
+12;235;0;0;XiaDongNanZHongXinDao;x;	#下东南中心岛
+13;240;0;0;XiaDongBeiZHongXinDao;x;	#下东北中心岛
+14;245;0;0;SHangDongBeiZHongXinDao;x;	#上东北中心岛
+15;250;0;0;XiaXiBeiZHongXinDao;x;	#下西北中心岛
+16;255;0;0;SHangXiBeiZHongXinDao;x;	#上西北中心岛
+17;220;220;0;WaiSHangXiNanZHongXinDao;x;	#外上西南中心岛
+18;225;225;0;WaiXiaXiNanZHongXinDao;x;	#外下西南中心岛
+19;230;230;0;WaiSHangDongNanZHongXinDao;x;	#外上东南中心岛
+20;235;235;0;WaiXiaDongNanZHongXinDao;x;	#外下东南中心岛
+21;240;240;0;WaiXiaDongBeiZHongXinDao;x;	#外下东北中心岛
+22;245;245;0;WaiSHangDongBeiZHongXinDao;x;	#外上东北中心岛
+23;250;250;0;WaiXiaXiBeiZHongXinDao;x;	#外下西北中心岛
+24;255;255;0;WaiSHangXiBeiZHongXinDao;x;	#外上西北中心岛
+
+25;200;200;90;BeiXiaoYvMiDao;x;	#北小玉米岛
+26;222;222;55;NaniXiaoYvMiDao;x;	#南小玉米岛
+
+27;100;200;80;DaYvMiDaoDongYouSHangJianBu;x;	#大玉米岛东右上尖部
+28;110;200;80;DaYvMiDaoDongZuoSHangJianBu;x;	#大玉米岛东左上尖部
+29;120;200;80;DaYvMiDaoDongYouZHongJianBu;x;	#大玉米岛东右中尖部
+30;130;200;80;DaYvMiDaoDongZuoZHongJianBu;x;	#大玉米岛东左中尖部
+31;140;200;80;DaYvMiDaoDongYouXiaJianBu;x;	#大玉米岛东右下尖部
+32;150;200;80;DaYvMiDaoDongZuoXiaJianBu;x;	#大玉米岛东左下尖部
+
+33;160;200;80;DaYvMiDaoDongYouSHangZHongBu;x;	#大玉米岛东右上中部
+34;170;200;80;DaYvMiDaoDongZuoSHangZHongBu;x;	#大玉米岛东左上中部
+35;180;200;80;DaYvMiDaoDongYouXiaZHongBu;x;	#大玉米岛东右下中部
+36;190;200;80;DaYvMiDaoDongZuoXiaZHongBu;x;	#大玉米岛东左下中部
+
+37;200;200;80;DaYvMiDaoZHongYangQvDongBu;x;	#大玉米岛中央区东部
+38;210;200;80;DaYvMiDaoZHongYangQv;x;	#大玉米岛中央区
+39;220;200;80;DaYvMiDaoZHongYangQvXiBu;x;	#大玉米岛中央区西部
+
+40;230;200;80;DaYvMiDaoXiYouXiaZHongBu;x;	#大玉米岛西右下中部
+41;240;200;80;DaYvMiDaoXiZuoXiaZHongBu;x;	#大玉米岛西左下中部
+42;250;200;80;DaYvMiDaoXiYouSHangZHongBu;x;	#大玉米岛西右上中部
+43;250;210;80;DaYvMiDaoXiZuoSHangZHongBu;x;	#大玉米岛西左上中部
+
+44;250;220;80;DaYvMiDaoXiYouXiaJianBu;x;	#大玉米岛西右下尖部
+45;250;230;80;DaYvMiDaoXiZHuoXiaJianBu;x;	#大玉米岛西左下尖部
+46;250;240;80;DaYvMiDaoXiZHongJianBu;x;	#大玉米岛西中尖部
+47;250;250;80;DaYvMiDaoXiSHangJianBu;x;	#大玉米岛西上尖部
+
+48;215;215;55;BeiYvMiQunDao_1;x;	#北玉米群岛1号
+49;210;210;55;BeiYvMiQunDao_2;x;	#北玉米群岛2号
+50;205;205;55;BeiYvMiQunDao_3;x;	#北玉米群岛3号
+51;200;200;55;BeiYvMiQunDao_4;x;	#北玉米群岛4号
+52;195;195;55;BeiYvMiQunDao_5;x;	#北玉米群岛5号
+53;190;190;55;BeiYvMiQunDao_6;x;	#北玉米群岛6号
+
+54;185;185;55;XiYvMiQunDao_1;x;	#西玉米群岛1号
+55;180;180;55;XiYvMiQunDao_2;x;	#西玉米群岛2号
+56;175;175;55;XiYvMiQunDao_3;x;	#西玉米群岛3号
+57;170;170;55;XiYvMiQunDao_4;x;	#西玉米群岛4号
+58;165;165;55;XiYvMiQunDao_5;x;	#西玉米群岛5号
+59;160;160;55;XiYvMiQunDao_6;x;	#西玉米群岛6号
+
+60;155;155;55;NanYvMiQunDao_1;x;	#南玉米群岛1号
+61;150;150;55;NanYvMiQunDao_2;x;	#南玉米群岛2号
+62;145;145;55;NanYvMiQunDao_3;x;	#南玉米群岛3号
+63;140;140;55;NanYvMiQunDao_4;x;	#南玉米群岛4号
+64;135;135;55;NanYvMiQunDao_5;x;	#南玉米群岛5号
+65;130;130;55;NanYvMiQunDao_6;x;	#南玉米群岛6号
+
+66;125;125;55;DongYvMiQunDao_1;x;	#东玉米群岛1号
+67;120;120;55;DongYvMiQunDao_2;x;	#东玉米群岛2号
+68;115;115;55;DongYvMiQunDao_3;x;	#东玉米群岛3号
+69;110;110;55;DongYvMiQunDao_4;x;	#东玉米群岛4号
+70;105;105;55;DongYvMiQunDao_5;x;	#东玉米群岛5号
+71;100;100;55;DongYvMiQunDao_6;x;	#东玉米群岛6号
+
+72;255;255;255;CS;x;
+73;255;0;128;CS2;x;

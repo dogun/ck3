@@ -1,0 +1,704 @@
+﻿d_BeiJi = {	#北极
+#公国
+	color = { 0 0 0 }
+#颜色
+	capital = c_BeiJi
+#首都
+	c_BeiJi = {	#北极
+#伯爵领
+		color = { 0 0 0 }
+#颜色
+			b_BeiJi = {	#北极
+#男爵领
+			province =3
+#拥有
+			color = { 0 0 0 }
+#颜色
+		}
+	}
+}
+
+e_TianGuaGuo = {	#甜瓜国
+#帝国
+	color = { 119 153 34 }
+#颜色
+	capital = c_ZHongXinDaohexin
+#首都
+	ai_primary_priority = {
+#ai创建倾向
+		add = 10
+	}
+	
+	k_ZHongXinDao = {	#中心岛
+#王国
+		color = { 255 255 255 }
+#颜色
+		capital = c_ZHongXinDaoHeXin
+#首都
+		ai_primary_priority = {
+#ai创建倾向
+			add = 10
+		}
+		
+		d_ZHongXinDao = {	#中心岛
+#公国
+			color = { 255 255 255 }
+#颜色
+			capital = c_ZHongXinDaohexn
+#首都
+			c_ZHongXinDaoHeXin = {	#中心岛核心
+#伯爵领
+				color = { 255 255 255 }
+#颜色
+				b_ZHongXinDaoHeXin = {	#中心岛核心
+#男爵领
+					province = 4
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+			}
+
+			c_NeiZHongXinDao = {	#内中心岛
+#伯爵领
+				color = { 255 255 255 }
+#颜色
+				b_NeiXiNanZHongXinDao = {	#内西南中心岛
+#男爵领
+					province = 5
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+
+				b_NeiDongNanZHongXinDao = {	#内东南中心岛
+#男爵领
+					province = 6
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+
+				b_NeiDongBeiZHongXinDao = {	#内东北中心岛
+#男爵领
+					province = 7
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+
+				b_NeiXiBeiZHongXinDao = {	#内西北中心岛
+#男爵领
+					province = 8
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+			}
+
+			c_ZHongZHongXinDao = {	#中中心岛
+#伯爵领
+				color = { 255 255 255 }
+#颜色
+				b_SHangXiNanZHongXinDao = {	#上西南中心岛
+#男爵领
+					province = 9
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+
+				b_XiaXiNanZHongXinDao = {	#下西南中心岛
+#男爵领
+					province = 10
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+
+				b_SHangDongNanZHongXinDao = {	#上东南中心岛
+#男爵领
+					province = 11
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+
+				b_XiaDongNanZHongXinDao = {	#下东南中心岛
+#男爵领
+					province = 12
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+
+				b_XiaDongBeiZHongXinDao = {	#下东北中心岛
+#男爵领
+					province = 13
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+
+				b_SHangDongBeiZHongXinDao = {	#上东北中心岛
+#男爵领
+					province = 14
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+
+				b_XiaXiBeiZHongXinDao = {	#下西北中心岛
+#男爵领
+					province = 15
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+
+				b_SHangXiBeiZHongXinDao = {	#上西北中心岛
+#男爵领
+					province = 16
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+			}
+
+			c_WaiZHongXinDao = {	#外中心岛
+#伯爵领
+				color = { 255 255 255 }
+#颜色
+				b_WaiSHangXiNanZHongXinDao = {	#上西南中心岛
+#男爵领
+					province = 17
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+
+				b_WaiXiaXiNanZHongXinDao = {	#下西南中心岛
+#男爵领
+					province = 18
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+
+				b_WaiSHangDongNanZHongXinDao = {	#上东南中心岛
+#男爵领
+					province = 19
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+
+				b_WaiXiaDongNanZHongXinDao = {	#下东南中心岛
+#男爵领
+					province = 20
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+
+				b_WaiXiaDongBeiZHongXinDao = {	#下东北中心岛
+#男爵领
+					province = 21
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+
+				b_WaiSHangDongBeiZHongXinDao = {	#上东北中心岛
+#男爵领
+					province = 22
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+
+				b_WaiXiaXiBeiZHongXinDao = {	#下西北中心岛
+#男爵领
+					province = 23
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+
+				b_WaiSHangXiBeiZHongXinDao = {	#上西北中心岛
+#男爵领
+					province = 24
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+			}
+
+		}
+	}
+}
+
+e_YvMiGuo = {	#玉米国
+#帝国
+	color = { 194 172 0 }
+#颜色
+	capital = c_DaYvMiDao
+#首都
+	ai_primary_priority = {
+#ai创建倾向
+		add = 10
+	}
+	
+	k_YvMiQunDao = {	#玉米群岛
+#王国
+	color = { 194 172 0 }
+#颜色
+		capital = c_DaYvMiDao
+#首都
+		ai_primary_priority = {
+#ai创建倾向
+			add = 10
+		}
+		
+		d_YvMiDao = {	#玉米岛
+#公国
+			color = { 194 172 0 }
+#颜色
+			capital = c_DaYvMiDaoZHongYangQv
+#首都
+			c_DaYvMiDaoDongJianBu = {	#大玉米岛东尖部
+#伯爵领
+				color = { 194 172 0 }
+#颜色
+				b_DaYvMiDaoDongYouSHangJianBu = {	#大玉米岛东右上尖部
+#男爵领
+					province = 27
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+
+				b_DaYvMiDaoDongZuoSHangJianBu = {	#大玉米岛东左上尖部
+#男爵领
+					province = 28
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+
+				b_DaYvMiDaoDongYouZHongJianBu = {	#大玉米岛东右中尖部
+#男爵领
+					province = 29
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+
+				b_DaYvMiDaoDongZuoZHongJianBu = {	#大玉米岛东左中尖部
+#男爵领
+					province = 30
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+
+				b_DaYvMiDaoDongYouXiaJianBu = {	#大玉米岛东右下尖部
+#男爵领
+					province = 31
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+
+				b_DaYvMiDaoDongZuoXiaJianBu = {	#大玉米岛东左下尖部
+#男爵领
+					province = 32
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+			}
+
+			c_DaYvMiDaoDongZHongBu = {	#大玉米岛东中部
+#伯爵领
+				color = { 194 172 0 }
+#颜色
+				b_DaYvMiDaoDongYouSHangZHongBu = {	#大玉米岛东右上中部
+#男爵领
+					province = 33
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+
+				b_DaYvMiDaoDongZuoSHangZHongBu = {	#大玉米岛东左上中部
+#男爵领
+					province = 34
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+
+				b_DaYvMiDaoDongYouXiaZHongBu = {	#大玉米岛东右下中部
+#男爵领
+					province = 35
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+
+				b_DaYvMiDaoDongZuoXiaZHongBu = {	#大玉米岛东左下中部
+#男爵领
+					province = 36
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+			}
+
+			c_DaYvMiDaoZHongYangQv = {	#大玉米岛中央区
+#伯爵领
+				color = { 194 172 0 }
+#颜色
+				b_DaYvMiDaoZHongYangQv = {	#大玉米岛中央区
+#男爵领
+					province = 38
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+
+				b_DaYvMiDaoZHongYangQvDongBu = {	#大玉米岛中央区东部
+#男爵领
+					province = 37
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+
+				b_DaYvMiDaoZHongYangQvXiBu = {	#大玉米岛中央区西部
+#男爵领
+					province = 39
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+			}
+
+			c_DaYvMiDaoXiZHongBu = {	#大玉米岛西中部
+#伯爵领
+				color = { 194 172 0 }
+#颜色
+				b_DaYvMiDaoXiYouXiaZHongBu = {	#大玉米岛西右下中部
+#男爵领
+					province = 40
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+
+				b_DaYvMiDaoXiZuoXiaZHongBu = {	#大玉米岛西左下中部
+#男爵领
+					province = 41
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+
+				b_DaYvMiDaoXiYouSHangZHongBu = {	#大玉米岛西右上中部
+#男爵领
+					province = 42
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+
+				b_DaYvMiDaoXiZuoSHangZHongBu = {	#大玉米岛西左上中部
+#男爵领
+					province = 43
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+			}
+
+			c_DaYvMiDaoXiJianBu = {	#大玉米岛西右尖部
+#伯爵领
+				color = { 194 172 0 }
+#颜色
+				b_DaYvMiDaoXiYouXiaJianBu = {	#大玉米岛西右下尖部
+#男爵领
+					province = 44
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+
+				b_DaYvMiDaoXiZHuoXiaJianBu = {	#大玉米岛西左下尖部
+#男爵领
+					province = 45
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+
+				b_DaYvMiDaoXiZHongJianBu = {	#大玉米岛西中尖部
+#男爵领
+					province = 46
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+
+				b_DaYvMiDaoXiSHangJianBu = {	#大玉米岛西上尖部
+#男爵领
+					province = 47
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+			}
+
+			c_XiaoYvMiDao = {	#小玉米岛
+#伯爵领
+				color = { 194 172 0 }
+#颜色
+				b_NanXiaoYvMiDao = {	#南小玉米岛
+#男爵领
+					province = 26
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+
+				b_BeiXiaoYvMiDao = {	#北小玉米岛
+#男爵领
+					province = 25
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+			}
+		}
+
+		d_WaiYvMiQunDao = {	#外玉米群岛
+#公国
+			color = { 194 172 0 }
+#颜色
+			capital = c_DaYvMiDaoZHongYangQv
+#首都
+			c_BeiYvMiQunDao = {	#北玉米群岛
+#伯爵领
+				color = { 194 172 0 }
+#颜色
+				b_BeiYvMiQunDao_1 = {	#北玉米群岛1号
+#男爵领
+					province = 48
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+
+				b_BeiYvMiQunDao_2 = {	#北玉米群岛2号
+#男爵领
+					province = 49
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+
+				b_BeiYvMiQunDao_3 = {	#北玉米群岛3号
+#男爵领
+					province = 50
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+
+				b_BeiYvMiQunDao_4 = {	#北玉米群岛4号
+#男爵领
+					province = 51
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+
+				b_BeiYvMiQunDao_5 = {	#北玉米群岛5号
+#男爵领
+					province = 52
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+
+				b_BeiYvMiQunDao_6 = {	#北玉米群岛6号
+#男爵领
+					province = 53
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+			}
+
+			c_XiYvMiQunDao = {	#西玉米群岛
+#伯爵领
+				color = { 194 172 0 }
+#颜色
+				b_XiYvMiQunDao_1 = {	#西玉米群岛1号
+#男爵领
+					province = 54
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+
+				b_XiYvMiQunDao_2 = {	#西玉米群岛2号
+#男爵领
+					province = 55
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+
+				b_XiYvMiQunDao_3 = {	#西玉米群岛3号
+#男爵领
+					province = 56
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+
+				b_XiYvMiQunDao_4 = {	#西玉米群岛4号
+#男爵领
+					province = 57
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+
+				b_XiYvMiQunDao_5 = {	#西玉米群岛5号
+#男爵领
+					province = 58
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+
+				b_XiYvMiQunDao_6 = {	#西玉米群岛6号
+#男爵领
+					province = 59
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+			}
+
+			c_NanYvMiQunDao = {	#南玉米群岛
+#伯爵领
+				color = { 194 172 0 }
+#颜色
+				b_NanYvMiQunDao_1 = {	#南玉米群岛1号
+#男爵领
+					province = 60
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+
+				b_NanYvMiQunDao_2 = {	#南玉米群岛2号
+#男爵领
+					province = 61
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+
+				b_NanYvMiQunDao_3 = {	#南玉米群岛3号
+#男爵领
+					province = 62
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+
+				b_NanYvMiQunDao_4 = {	#南玉米群岛4号
+#男爵领
+					province = 63
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+
+				b_NanYvMiQunDao_5 = {	#南玉米群岛5号
+#男爵领
+					province = 64
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+
+				b_NanYvMiQunDao_6 = {	#南玉米群岛6号
+#男爵领
+					province = 65
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+			}
+
+			c_DongYvMiQunDao = {	#东玉米群岛
+#伯爵领
+				color = { 194 172 0 }
+#颜色
+				b_DongYvMiQunDao_1 = {	#东玉米群岛1号
+#男爵领
+					province = 66
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+
+				b_DongYvMiQunDao_2 = {	#东玉米群岛2号
+#男爵领
+					province = 67
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+
+				b_DongYvMiQunDao_3 = {	#东玉米群岛3号
+#男爵领
+					province = 68
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+
+				b_DongYvMiQunDao_4 = {	#东玉米群岛4号
+#男爵领
+					province = 69
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+
+				b_DongYvMiQunDao_5 = {	#东玉米群岛5号
+#男爵领
+					province = 70
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+
+				b_DongYvMiQunDao_6 = {	#东玉米群岛6号
+#男爵领
+					province = 71
+#拥有
+					color = { 194 172 0 }
+#颜色
+				}
+			}
+
+		}
+	}
+}

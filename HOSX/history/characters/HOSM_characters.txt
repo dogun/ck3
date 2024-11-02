@@ -1,0 +1,76 @@
+﻿1 = {
+	name = "LiuLiu"
+	dna = lyon_twin_dna_entry
+	dynasty = 1 #MoYing
+	female = no
+	sexuality = asexual
+	martial = 100
+	diplomacy = 100
+	intrigue = 100
+	stewardship = 100
+	learning = 100
+	prowess = 100
+	religion = HOSX_WuSHenLun	
+	culture = french
+	trait = education_learning_5
+	trait = immortal
+	disallow_random_traits = yes
+	-1000.1.1 = {
+		birth = yes
+	}
+}
+
+2 = {
+	name = "Natusit"
+	dna = {
+		hair_color={ 184 186 184 186 }
+ 		skin_color={ 68 99 68 99 }
+ 		eye_color={ 124 136 124 136 }
+ 		gene_chin_forward={ "chin_forward_neg" 102 "chin_forward_neg" 102 }
+ 		gene_chin_height={ "chin_height_pos" 137 "chin_height_pos" 137 }
+ 		gene_chin_width={ "chin_width_neg" 119 "chin_width_neg" 119 }
+ 		gene_eye_angle={ "eye_angle_neg" 145 "eye_angle_neg" 124 }
+ 		gene_eye_depth={ "eye_depth_neg" 137 "eye_depth_neg" 125 }
+ 		gene_eye_height={ "eye_height_pos" 156 "eye_height_pos" 130 }
+ 		gene_eye_distance={ "eye_distance_pos" 128 "eye_distance_pos" 128 }
+ 		gene_eye_shut={ "eye_shut_pos" 138 "eye_shut_pos" 138 }
+ 		gene_forehead_angle={ "forehead_angle_pos" 134 "forehead_angle_pos" 134 }
+ 		gene_forehead_brow_height={ "forehead_brow_height_pos" 143 "forehead_brow_height_pos" 143 }
+ 		gene_forehead_roundness={ "forehead_roundness_pos" 168 "forehead_roundness_pos" 168 }
+ 		gene_forehead_width={ "forehead_width_neg" 113 "forehead_width_neg" 113 }
+ 		gene_forehead_height={ "forehead_height_neg" 124 "forehead_height_neg" 124 }
+ 		gene_head_height={ "head_height_pos" 110 "head_height_pos" 139 }
+ 		gene_head_width={ "head_width_pos" 128 "head_width_pos" 128 }
+ 		gene_head_profile={ "head_profile_pos" 168 "head_profile_pos" 182 }
+ 		gene_head_top_height={ "head_top_height_pos" 147 "head_top_height_pos" 147 }
+ 		gene_head_top_width={ "head_top_width_pos" 151 "head_top_width_pos" 151 }
+ 		gene_jaw_angle={ "jaw_angle_neg" 102 "jaw_angle_neg" 102 }
+ 		gene_jaw_forward={ "jaw_forward_pos" 133 "jaw_forward_pos" 133 }
+ 		gene_jaw_height={ "jaw_height_pos" 156 "jaw_height_pos" 156 }
+ 		gene_jaw_width={ "jaw_width_neg" 98 "jaw_width_neg" 98 }
+ 		gene_mouth_corner_depth={ "mouth_corner_depth_pos" 154 "mouth_corner_depth_pos" 154 }
+ 		gene_mouth_corner_height={ "mouth_corner_height_pos" 127 "mouth_corner_height_pos" 127 }
+ 		gene_mouth_forward={ "mouth_forward_neg" 111 "mouth_forward_neg" 111 }
+	}
+	dynasty = 2 #中心岛
+	female = yes
+	sexuality = heterosexual
+	martial = 7
+	diplomacy = 12
+	intrigue = 7 #8
+	stewardship = 9
+	learning = 10
+	prowess = 5
+	religion = HOSX_GongCHanZHuYi	
+	culture = french
+	trait = education_learning_3
+	trait = poet
+	trait = calm
+	trait = ambitious
+	trait = brave
+	trait = peasant_leader
+	disallow_random_traits = yes
+	964.6.1 = {
+		birth = yes
+	}
+}

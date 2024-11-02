@@ -1,0 +1,115 @@
+﻿morasts = {
+	color = { 0.2 0.18 0.28 }
+#颜色（rgb百分制/100）
+	created = 0.1.1
+#诞生时间
+	parents = {  }
+#由哪两个文化融合（只写一个就是分离）
+	ethos = ethos_bellicose
+#民族精神（ethos_bellicose = 好战 ethos_stoic = 坚忍 ethos_bureaucratic = 官僚 ethos_spiritual = 虔信 ethos_courtly = 守礼 ethos_egalitarian = 平等 ethos_communal = 集体）
+	heritage = heritage_aattui
+#传承
+	language = language_aattui
+#语言
+	martial_custom = martial_custom_male_only
+#军事（martial_custom_male_only = 仅男性 martial_custom_female_only = 仅女性 martial_custom_equal = 男女平等）
+	traditions = {
+#传统
+		tradition_quarrelsome
+		tradition_battlefield_looters
+		tradition_dryland_dwellers
+		tradition_desert_nomads
+		tradition_caravaneers
+	}
+	
+	name_list = name_list_aattui
+#姓名列表
+	coa_gfx = { arabic_group_coa_gfx } 
+#？
+	building_gfx = { arabic_group_building_gfx mena_building_gfx } 
+#建筑
+	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx } 
+#衣服
+	unit_gfx = { mena_unit_gfx } 
+#部队
+	ethnicities = {
+		10 = african
+	}
+}
+
+swacha = {
+	color = { 0.2 0.18 0.28 }
+#颜色（rgb百分制/100）
+	created = 496.1.1
+#诞生时间
+	parents = { morasts }
+#由哪两个文化融合（只写一个就是分离）
+	ethos = ethos_spiritual
+#民族精神（ethos_bellicose = 好战 ethos_stoic = 坚忍 ethos_bureaucratic = 官僚 ethos_spiritual = 虔信 ethos_courtly = 守礼 ethos_egalitarian = 平等 ethos_communal = 集体）
+	heritage = heritage_aattui
+#传承
+	language = language_aattui
+#语言
+	martial_custom = martial_custom_equal
+#军事（martial_custom_male_only = 仅男性 martial_custom_female_only = 仅女性 martial_custom_equal = 男女平等）
+	traditions = {
+#传统
+		tradition_female_only_inheritance
+		tradition_only_the_strong
+		tradition_hit_and_run
+		tradition_warrior_monks
+		tradition_dryland_dwellers
+	}
+	
+	name_list = name_list_aattui
+#姓名列表
+	coa_gfx = { arabic_group_coa_gfx } 
+#？
+	building_gfx = { arabic_group_building_gfx mena_building_gfx } 
+#建筑
+	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx } 
+#衣服
+	unit_gfx = { mena_unit_gfx } 
+#部队
+	ethnicities = {
+		10 = african
+	}
+}
+
+leilida = {
+	color = { 0.5 0.3 0.2 }
+#颜色（rgb百分制/100）
+	created = 267.1.1
+#诞生时间
+	parents = { morasts }
+#由哪两个文化融合（只写一个就是分离）
+	ethos = ethos_communal
+#民族精神（ethos_bellicose = 好战 ethos_stoic = 坚忍 ethos_bureaucratic = 官僚 ethos_spiritual = 虔信 ethos_courtly = 守礼 ethos_egalitarian = 平等 ethos_communal = 集体）
+	heritage = heritage_aattui
+#传承
+	language = language_aattui
+#语言
+	martial_custom = martial_custom_male_only
+#军事（martial_custom_male_only = 仅男性 martial_custom_female_only = 仅女性 martial_custom_equal = 男女平等）
+	traditions = {
+#传统
+		tradition_agrarian
+		tradition_life_is_just_a_joke
+		tradition_staunch_traditionalists
+		tradition_mystical_ancestors
+	}
+	
+	name_list = name_list_aattui
+#姓名列表
+	coa_gfx = { arabic_group_coa_gfx } 
+#？
+	building_gfx = { arabic_group_building_gfx mena_building_gfx } 
+#建筑
+	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx } 
+#衣服
+	unit_gfx = { mena_unit_gfx } 
+#部队
+	ethnicities = {
+		10 = african
+	}
+}
