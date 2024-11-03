@@ -26,8 +26,8 @@
 			holy_site = preslav
 
 			doctrine = tenet_cthonic_redoubts
-			doctrine = tenet_legalism
-			doctrine = tenet_unrelenting_faith
+			doctrine = tenet_religious_legal_pronouncements #tenet_legalism
+			doctrine = tenet_sacrificial_ceremonies #tenet_unrelenting_faith
 
 			doctrine = doctrine_gender_male_dominated
 			doctrine = doctrine_pluralism_righteous

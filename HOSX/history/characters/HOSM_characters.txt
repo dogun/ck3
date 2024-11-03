@@ -67,10 +67,38 @@
 	trait = poet
 	trait = calm
 	trait = ambitious
+
 	trait = brave
 	trait = peasant_leader
 	disallow_random_traits = yes
 	964.6.1 = {
+		birth = yes
+	}
+}
+
+3 = {
+	name = "Teals"
+	dna = dna_3_2
+ 	dynasty = 3 #垒格赫图
+	female = no
+	sexuality = heterosexual
+	martial = 8
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	learning = 3
+	prowess = 10
+	religion = HOSX_AatTuierhkovo_Moaadorasts
+	culture = morasts
+	trait = education_martial_2
+	trait = temperate
+	trait = diligent
+	trait = humble
+
+	trait = giant
+	trait = mujahid
+	disallow_random_traits = yes
+	933.7.4 = {
 		birth = yes
 	}
 }

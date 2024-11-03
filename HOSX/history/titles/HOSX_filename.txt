@@ -53,7 +53,7 @@ b_ZHongXinDaoHeXin = {	#中心岛核心
 
 
 
-b_DaYvMiDaoZHongYangQv = {	#大玉米岛中央区
+c_DaYvMiDaoZHongYangQv = {	#大玉米岛中央区
 	266.1.1 = { change_development_level = 10 }
 	1000.1.1 = { change_development_level = 24 }
 }
@@ -66,4 +66,24 @@ b_DaYvMiDaoZHongYangQvDongBu = {	#大玉米岛中央区东部
 b_DaYvMiDaoZHongYangQvXiBu = {	#大玉米岛中央区西部
 	266.1.1 = { change_development_level = 5 }
 	1000.1.1 = { change_development_level = 10 }
+}
+
+
+
+d_HuangJinHaiAn = {	#黄金海岸
+	266.1.1 = { change_development_level = 10 }
+	1000.1.1 = { change_development_level = 24 }
+	998.4.10 = {
+		holder = 3
+		government = tribal_government
+	}
+}
+
+c_HuangJinHaiAn = {	#黄金海岸
+	266.1.1 = { change_development_level = 8 }
+	1000.1.1 = { change_development_level = 12 }
+	97910.8 = {
+		holder = 3
+		government = tribal_government
+	}
 }

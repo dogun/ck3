@@ -1,4 +1,4 @@
-﻿bm_266_BenKuiDeYvBo = {
+﻿bm_266_JinZHiYouWan = {
 	start_date = 266.1.1
 	is_playable = yes
 	group = bm_group_266
@@ -6,11 +6,22 @@
 	weight = { value = 100 }
 }
 
+
+
+bm_266_BenKuiDeYvBo = {
+	start_date = 266.1.1
+	is_playable = no
+	group = bm_group_266
+
+	weight = { value = 100 }
+}
+
 bm_266_LiangCHangDongZHeng = {
 	start_date = 266.1.1
-	is_playable = yes
+	is_playable = no
 	group = bm_group_266
 }
+
 
 
 bm_1000_XinDeZHengFuZHe = {
@@ -27,6 +38,35 @@ bm_1000_RuanRuo = {
 	group = bm_group_1000
 
 	weight = { value = 100 }
+
+	character = {	#阿腊·丹·特阿儿斯·垒格赫图
+		name = "bookmark_PanJiaoZHe_Teals_LeiGeHeTu"
+#名字
+		dynasty = 3
+#宗族 ID
+		dynasty_splendor_level = 1
+#宗族威望等级
+		type = male
+#性别
+		birth = 933.7.4
+#出生日期-定义年龄
+		title = d_HuangJinHaiAn
+#持有主头衔
+		government = tribal_government
+#政体
+		culture = morasts
+#文化
+		religion = HOSX_AatTuierhkovo_Moaadorasts
+#宗教
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+#显示的难度
+		history_id = 3
+#角色ID
+		position = { 590 590 }
+#位置
+		animation = menacing
+#姿势
+	}
 }
 
 bm_1000_PanJiaoZHe = {

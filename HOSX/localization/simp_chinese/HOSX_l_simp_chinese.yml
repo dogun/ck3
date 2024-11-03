@@ -72,6 +72,21 @@
  
  c_NanYvMiQunDao: "南玉米群岛"
  
+ c_DongYvMiQunDao: "东玉米群岛"
+ 
+ 
+ k_FoLuoLiYa: "佛罗利亚"
+ d_HuangJinHaiAn: "黄金海岸"
+ c_HuangJinHaiAn: "黄金海岸"
+ b_DenLuDian: "登陆点"
+ b_HuangJin: "沃赫特阿"
+ b_SHenCi: "图伊赫特"
+ b_DiYiBu: "第一步"
+ b_TuDi: "西特赫伐耳"
+ b_XiATeTuQ: "西阿特图其（经济特区）"
+ b_DongATeTuQi: "东阿特图其（经济特区）"
+ 
+ 
  rf_HOSX_WuSHenLun: "无神论宗教组"
  rf_HOSX_WuSHenLun_hostility_doctrine_name: "无神论宗教组"
  rf_HOSX_WuSHenLun_hostility_doctrine_desc: "下列宗教属于无神论宗教组：\n[GetReligionFamily(rf_HOSX_WuSHenLun).GetReligions]"
@@ -752,7 +767,8 @@
  HOSX_Tuqi_religion_adj: "图其信仰"
  HOSX_Tuqi_religion_adherent: "图其信徒"
  HOSX_Tuqi_religion_adherent_plural: "图其信徒"
- HOSX_Tuqi_religion_desc: "图其信仰绕不开图其二字，图其人，准确来说是山地图其人认为“图其”是死后世界，是唯一真神，是世界的一切，这毫无疑问是阿特图伊人的入侵导致的，阿特图伊人的入侵还导致原始图其人认为世界是两层的。"
+ #HOSX_Tuqi_religion_desc: "图其信仰绕不开图其二字，图其人，准确来说是山地图其人认为“图其”是死后世界，是唯一真神，是世界的一切，这毫无疑问是阿特图伊人的入侵导致的，阿特图伊人的入侵还导致原始图其人认为世界是两层的。"
+ HOSX_Tuqi_religion_desc: "图其信仰绕不开图其二字，图其人，准确来说是山地图其人认为“图其”是死后世界，是唯一真神，是世界的一切，这毫无疑问是阿特图伊人的入侵导致的.图其信仰还有一点很奇怪，祭司的权力非常小，甚至可以被随意更换，但他们掌管司法，有处刑的权力。"
  
  HOSX_Tuqi: "图其"
  HOSX_Tuqi_adj: "图其"
@@ -766,7 +782,7 @@
  HOSX_Tuqi_pagan_old_adherent: "旧图其信徒"
  HOSX_Tuqi_pagan_old_adherent_plural: "旧图其信徒"
  #教改后信徒（教改出现的是新宗教）
- HOSX_Tuqi_desc: "图其信仰绕不开图其二字，图其人，准确来说是山地图其人认为“图其”是死后世界，是唯一真神，是世界的一切，这毫无疑问是阿特图伊人的入侵导致的，阿特图伊人的入侵还导致原始图其人认为世界是两层的。"
+ HOSX_Tuqi_desc: "图其信仰绕不开图其二字，图其人，准确来说是山地图其人认为“图其”是死后世界，是唯一真神，是世界的一切，这毫无疑问是阿特图伊人的入侵导致的.图其信仰还有一点很奇怪，祭司的权力非常小，甚至可以被随意更换，但他们掌管司法，有处刑的权力。"
  #简介
  HOSX_Tuqi_high_god_name: "图其"
  HOSX_Tuqi_high_god_name_possessive: "图其"
@@ -871,6 +887,12 @@
  
  heritage_aattui_name: "阿特图伊"
  language_aattui_name: "通用图伊语"
+ name_list_aattui: "阿特图伊"
+ steppe_building_gfx: "大草原"
+ steppe_coa_gfx: "大草原"
+ mongol_clothing_gfx: "大草原"
+ mongol_coa_gfx: "大草原"
+ mongol_unit_gfx: "大草原"
  morasts: "莫腊刺"
  swacha: "斯瓦嚓"
  leilida: "垒利达"
@@ -913,6 +935,11 @@
  Waldos: "沃尔朵斯"
  
  bm_group_266: "266"
+ 
+ bm_266_JinZHiYouWan: "禁止游玩”
+ bm_266_JinZHiYouWan_desc: "有问题，禁止游玩"
+ 
+ 
  bm_266_BenKuiDeYvBo: "崩溃的余波"
  bm_266_BenKuiDeYvBo_desc: "在莫腊刺帝国崩溃时全世界都在欢呼，将那一天定为公元元年。转眼两个世纪过去莫腊刺大草原仍然在崩溃的余波中，许多人声称是莫腊刺的继任者，丹·腊纳特·丹回尔·耳·垒阿达沃斯就是其中一员......"
  bm_266_LiangCHangDongZHeng: "两场东征"
@@ -921,10 +948,12 @@
  bm_1000_XinDeZHengFuZHe_desc: "丹·腊纳特·丹回尔·耳·垒阿达沃斯的后代丹回尔·阿腊·丹二世··耳·垒阿达沃斯统一了莫腊刺大草原，建立了阿特图伊帝国，除了棍马姆以外的莫腊刺大草原地区都臣服与帝国之下，尔其他人对于莫腊刺的统一有效表示愤怒，有些表示担忧，还有些表示恐惧"
  bm_1000_RuanRuo: "软弱之人"
  bm_1000_RuanRuo_desc: "在阿特图伊人登陆佛罗利亚的时候他们被佛罗利亚的·富饶所震惊，他们将这里称为黄金海岸，是图伊神给他们的礼物，他们掠夺，屠戮，佛罗利亚国王对此没有任何行动，被称为软弱之人。"
+ bookmark_PanJiaoZHe_Teals_LeiGeHeTu: "特阿儿斯"
+ bookmark_PanJiaoZHe_Teals_LeiGeHeTu_desc: "阿腊·丹·特阿儿斯·垒格赫图出生于933年7月4日的东南斯瓦嚓山脉的一个小贵族家庭，从小父母就教育他要用武力获得土地与钱财，但他对这些身外之物完全不感兴趣，只对自身的荣耀感兴趣，所以他加入了入侵黄金海岸的军队，但后来阴差阳错的成为了黄金海岸的领主，而东南斯瓦嚓山脉的领土由他兄弟继承。"
  bm_1000_PanJiaoZHe: "红色梦魇"
  bm_1000_PanJiaoZHe_desc: "在中心岛的海洋甜瓜人的起义是始料未及的，他们身穿红白相间的衣服，这是甜瓜国士兵的噩梦，他们永远不知道敌人会在什么地方蹦出来，就像你不知道今天[数据删除]一样。最终甜瓜国承认了中心岛的独立，但两国还在紧张对峙。。"
  bookmark_PanJiaoZHe_Natusit_ZHongXinDao: "奈图西特"
- bookmark_PanJiaoZHe_Natusit_ZHongXinDao_desc: "奈图西特·中心岛，原名奈图·西特，生于964年6月1日中心岛王国的图其人家庭，从小就在无神论的环境下长大，在学校因为图其人和无神论者的身份被孤立，直到她接触了共产主义秘密组织，通过优秀的才能成为了领袖。在996年1月5日带领中心岛革命军在中心岛组织革命，在998年4月10日革命成功后改名奈图西特·中心岛。"
+ bookmark_PanJiaoZHe_Natusit_ZHongXinDao_desc: "奈图西特·中心岛，原名奈图·西特，生于964年6月1日中心岛王国的一个图其人家庭，从小就在无神论的环境下长大，在学校因为图其人和无神论者的身份被孤立，直到她接触了共产主义秘密组织，通过优秀的才能成为了领袖。在996年1月5日带领中心岛革命军在中心岛组织革命，在998年4月10日革命成功后改名奈图西特·中心岛。"
  #bookmark_PanJiaoZHe_Natusit_ZHongXinDao_alt_gudfrid: "$GuT_friT_$"
  #bookmark_PanJiaoZHe_Natusit_ZHongXinDao_alt_saga: "“$nick_the_truthspeaker$”$Saga$"
  
@@ -935,3 +964,7 @@
  dynn_ZHongXinDao: "中心岛"
  dynn_2_motto: "同志们！"
  Natusit: "奈图西特"
+ 
+ dynn_LeiGeHeTu: "垒格赫图"
+ dynn_3_motto: "土地，金钱，与荣耀！"
+ Teals: "特阿儿斯""

@@ -1,0 +1,97 @@
+72 = {		#登陆点
+	266.1.1 = {
+		culture = morasts #图其（没做）
+		religion = HOSX_Tuqi	#改良版（没做）
+		holding = none
+
+	}
+	1000.1 = {
+		culture = morasts
+		religion = HOSX_AatTuierhkovo_Moaadorasts
+		holding = none #castle_holding
+	}
+}
+
+73 = {		#黄金（沃赫特阿）
+	266.1.1 = {
+		culture = morasts #图其（没做）
+		religion = HOSX_AatTuierhkovo_Moaadorasts #HOSX_Tuqi	#改良版（没做）
+		holding = castle_holding
+
+	}
+	1000.1.1 = {
+		culture = morasts #图其（没做）
+		religion = HOSX_Tuqi	#改良版（没做）
+		holding = castle_holding
+	}
+}
+
+74 = {		#神赐（图伊赫（特））
+	266.1.1 = {
+		culture = morasts #图其（没做）
+		religion = HOSX_Tuqi	#改良版（没做）
+		holding = none
+
+	}
+	1000.1.1
+		culture = morasts
+		religion = HOSX_AatTuierhkovo_Moaadorasts
+		holding = church_holding
+	}
+}
+
+75 = {		#第一步
+	266.1.1 = {
+		culture = morasts #图其（没做）
+		religion = HOSX_Tuqi	#改良版（没做）
+		holding = none
+
+	}
+	1000.1.1 = {
+		culture = morasts #图其（没做）
+		religion = HOSX_AatTuierhkovo_Moaadorasts
+		holding = none
+	}
+}
+
+76 = {		#土地（西特赫伐耳）
+	266.1.1 = {
+		culture = morasts #图其（没做）
+		religion = HOSX_Tuqi	#改良版（没做）
+		holding = none
+
+	}
+	1000.1.1 = {
+		culture = morasts
+		religion = HOSX_AatTuierhkovo_Moaadorasts
+		holding = none
+	}
+}
+
+77 = {		#西阿特图其（经济特区）
+	266.1.1 = {
+		culture = morasts #图其（没做）
+		religion = HOSX_Tuqi	#改良版（没做）
+		holding = city_holding
+
+	}
+	1000.1.1 = {
+		culture = morasts #图其（没做）
+		religion = HOSX_Tuqi	#改良版（没做）
+		holding = city_holding
+	}
+}
+
+78 = {		#东阿特图其（经济特区）
+	266.1.1 = {
+		culture = morasts #图其（没做）
+		religion = HOSX_Tuqi	#改良版（没做）
+		holding = none
+
+	}
+	1000.1.1 = {
+		culture = morasts #图其（没做）
+		religion = HOSX_Tuqi	#改良版（没做）
+		holding = none
+	}
+}

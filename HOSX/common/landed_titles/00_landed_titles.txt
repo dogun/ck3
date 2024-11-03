@@ -242,7 +242,7 @@ e_YvMiGuo = {	#玉米国
 #帝国
 	color = { 194 172 0 }
 #颜色
-	capital = c_DaYvMiDao
+	capital = c_DaYvMiDaoZHongYangQv
 #首都
 	ai_primary_priority = {
 #ai创建倾向
@@ -253,7 +253,7 @@ e_YvMiGuo = {	#玉米国
 #王国
 	color = { 194 172 0 }
 #颜色
-		capital = c_DaYvMiDao
+		capital = c_DaYvMiDaoZHongYangQv
 #首都
 		ai_primary_priority = {
 #ai创建倾向
@@ -485,7 +485,7 @@ e_YvMiGuo = {	#玉米国
 #公国
 			color = { 194 172 0 }
 #颜色
-			capital = c_DaYvMiDaoZHongYangQv
+			capital = c_BeiYvMiQunDao
 #首都
 			c_BeiYvMiQunDao = {	#北玉米群岛
 #伯爵领
@@ -697,6 +697,87 @@ e_YvMiGuo = {	#玉米国
 					color = { 194 172 0 }
 #颜色
 				}
+			}
+
+		}
+	}
+}
+
+k_FoLuoLiYa = {	#佛罗利亚
+#王国
+	color = { 201 67 52 }
+#颜色
+	capital = c_HuangJinHaiAn
+#首都
+	ai_primary_priority = {
+#ai创建倾向
+		add = 10
+	}
+		
+	d_HuangJinHaiAn = {	#黄金海岸
+#公国
+		color = { 219 464 26 }
+#颜色
+		capital = c_HuangJinHaiAn
+#首都
+		c_HuangJinHaiAn = {	#黄金海岸
+#伯爵领
+			color = { 219 464 26 }
+#颜色
+			b_HuangJin = {	#黄金（沃赫特阿）
+#男爵领
+				province = 73
+#拥有
+				color = { 219 464 26 }
+#颜色
+			}
+
+			b_DenLuDian = {	#登陆点
+#男爵领
+				province = 72
+#拥有
+				color = { 219 464 26 }
+#颜色
+			}
+
+			b_SHenCi = {	#神赐（图伊赫（特））
+#男爵领
+				province = 74
+#拥有
+				color = { 219 464 26 }
+#颜色
+			}
+
+			b_DiYiBu = {	#第一步
+#男爵领
+				province = 75
+#拥有
+				color = { 219 464 26 }
+#颜色
+			}
+
+			b_TuDi = {	#土地（西特赫伐耳）
+#男爵领
+				province = 76
+#拥有
+				color = { 219 464 26 }
+#颜色
+			}
+
+			b_XiATeTuQ = {	#西阿特图其（经济特区）
+#男爵领
+				province = 77
+#拥有
+				color = { 219 464 26 }
+#颜色
+			}
+
+			b_DongATeTuQi = {	#东阿特图其（经济特区）
+#男爵领
+				province = 78
+#拥有
+				color = { 219 464 26 }
+#颜色
 			}
 
 		}

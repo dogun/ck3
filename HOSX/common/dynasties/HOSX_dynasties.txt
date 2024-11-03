@@ -9,3 +9,9 @@
 	culture = "french"
 	motto = "dynn_2_motto"
 }
+
+3 = {
+	name = "dynn_LeiGeHeTu"
+	culture = "morasts"
+	motto = "dynn_3_motto"
+}
