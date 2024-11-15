@@ -1,4 +1,4 @@
-72 = {		#登陆点
+72 = {		#新登陆点（西特赫其特嚓）
 	266.1.1 = {
 		culture = morasts #图其（没做）
 		religion = HOSX_Tuqi	#改良版（没做）
@@ -15,13 +15,13 @@
 73 = {		#黄金（沃赫特阿）
 	266.1.1 = {
 		culture = morasts #图其（没做）
-		religion = HOSX_AatTuierhkovo_Moaadorasts #HOSX_Tuqi	#改良版（没做）
+		religion = HOSX_Tuqi	#改良版（没做）
 		holding = castle_holding
 
 	}
 	1000.1.1 = {
 		culture = morasts #图其（没做）
-		religion = HOSX_Tuqi	#改良版（没做）
+		religion = HOSX_AatTuierhkovo_Moaadorasts #HOSX_Tuqi	#改良版（没做）
 		holding = castle_holding
 	}
 }
@@ -93,5 +93,51 @@
 		culture = morasts #图其（没做）
 		religion = HOSX_Tuqi	#改良版（没做）
 		holding = none
+	}
+}
+
+
+
+79 = {		#鹰爪（特布赫）
+	266.1.1 = {
+		culture = morasts #图其（没做）
+		religion = HOSX_Tuqi	#改良版（没做）
+		holding = castle_holding
+
+	}
+	1000.1.1 = {
+		culture = morasts
+		religion = HOSX_AatTuierhkovo_Moaadorasts
+		holding = castle_holding
+	}
+}
+
+80 = {		#北兵营（北阿儿赫特耳）
+	266.1.1 = {
+		holding = none
+
+	}
+	1000.1.1 = {
+		holding = tribal_holding
+	}
+}
+
+81 = {		#南兵营（南阿儿赫特耳）
+	266.1.1 = {
+		holding = none
+
+	}
+	1000.1.1 = {
+		holding = tribal_holding
+	}
+}
+
+82 = {		#前线
+	266.1.1 = {
+		holding = city_holding
+
+	}
+	1000.1.1 = {
+		holding = city_holding
 	}
 }

@@ -94,3 +94,10 @@ c_HuangJinHaiAn = {	#黄金海岸
 	color2=yellow
 	color3=black
 }
+
+c_XiHuangJinHaiAn = {	#西黄金海岸
+	pattern="pattern_bend_02.dds"
+	color1=yellow_light
+	color2=yellow
+	color3=red
+}

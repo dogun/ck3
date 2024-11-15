@@ -732,7 +732,7 @@ k_FoLuoLiYa = {	#佛罗利亚
 #颜色
 			}
 
-			b_DenLuDian = {	#登陆点
+			b_DenLuDian = {	#新登陆点（西特赫其特嚓）
 #男爵领
 				province = 72
 #拥有
@@ -779,7 +779,82 @@ k_FoLuoLiYa = {	#佛罗利亚
 				color = { 219 464 26 }
 #颜色
 			}
-
 		}
+
+		c_XiHuangJinHaiAn = {	#西黄金海岸
+#伯爵领
+			color = { 219 464 26 }
+#颜色
+			b_YingZHao = {	#鹰爪（特布赫）
+#男爵领
+				province = 79
+#拥有
+				color = { 219 464 26 }
+#颜色
+			}
+
+			b_BeiBingYing = {	#北兵营（北阿儿赫特耳）
+#男爵领
+				province = 80
+#拥有
+				color = { 219 464 26 }
+#颜色
+			}
+
+			b_NaniBingYing = {	#南兵营（南阿儿赫特耳）
+#男爵领
+				province = 81
+#拥有
+				color = { 219 464 26 }
+#颜色
+			}
+
+			b_QianXian = {	#前线
+#男爵领
+				province = 82
+#拥有
+				color = { 219 464 26 }
+#颜色
+			}
+		}
+
+		c_DongHuangJinHaiAn = {	#东黄金海岸
+#伯爵领
+			color = { 219 464 26 }
+#颜色
+			b_AHeEr = {	#阿赫耳
+#男爵领
+				province = 83
+#拥有
+				color = { 219 464 26 }
+#颜色
+			}
+
+			b_DenLuDian_1 = {	#登陆点1（西特赫其特沃）
+#男爵领
+				province = 84
+#拥有
+				color = { 219 464 26 }
+#颜色
+			}
+
+			b_DenLuDian_2 = {	#登陆点2（西特赫其特赫）
+#男爵领
+				province = 85
+#拥有
+				color = { 219 464 26 }
+#颜色
+			}
+
+			b_DenLuDian_3 = {	#登陆点3（西特赫其特耳）
+#男爵领
+				province = 86
+#拥有
+				color = { 219 464 26 }
+#颜色
+			}
+		}
+
+
 	}
 }

@@ -78,13 +78,24 @@
  k_FoLuoLiYa: "佛罗利亚"
  d_HuangJinHaiAn: "黄金海岸"
  c_HuangJinHaiAn: "黄金海岸"
- b_DenLuDian: "登陆点"
+ b_DenLuDian: "西特赫其特嚓"
  b_HuangJin: "沃赫特阿"
  b_SHenCi: "图伊赫特"
  b_DiYiBu: "第一步"
  b_TuDi: "西特赫伐耳"
  b_XiATeTuQ: "西阿特图其（经济特区）"
  b_DongATeTuQi: "东阿特图其（经济特区）"
+ c_XiHuangJinHaiAn: "西黄金海岸"
+ b_YingZHao: "特布赫"
+ b_BeiBingYing: "北阿儿赫特耳"
+ b_NaniBingYing: "南阿儿赫特耳"
+ b_QianXian: "前线"
+ c_DongHuangJinHaiAn: "东黄金海岸"
+ b_AHeEr: "阿赫耳"
+ b_DenLuDian_1: "西特赫其特沃"
+ b_DenLuDian_1: "西特赫其特赫"
+ b_DenLuDian_1: "西特赫其特耳"
+ 
  
  
  rf_HOSX_WuSHenLun: "无神论宗教组"
@@ -897,15 +908,15 @@
  swacha: "斯瓦嚓"
  leilida: "垒利达"
  
- Teal: "特阿尔"
- litea: "利特阿"
+ Teal: "垒特阿尔"
+ litea: "垒利特阿"
  LeiteTui: "垒特图伊"
- Qitehe: "其特赫"
- da: "达"
- sa: "萨"
- Daheserter: "达赫斯儿特"
- Aer: "阿尔"
- Kurkis: "库儿基斯"
+ Qitehe: "垒其特赫"
+ da: "垒达"
+ sa: "垒萨"
+ Daheserter: "垒达赫斯儿特"
+ Aer: "垒阿尔"
+ Kurkis: "垒库儿基斯"
  
  dynnp_er: "耳"
  
@@ -936,7 +947,7 @@
  
  bm_group_266: "266"
  
- bm_266_JinZHiYouWan: "禁止游玩”
+ bm_266_JinZHiYouWan: "禁止游玩"
  bm_266_JinZHiYouWan_desc: "有问题，禁止游玩"
  
  
@@ -948,8 +959,9 @@
  bm_1000_XinDeZHengFuZHe_desc: "丹·腊纳特·丹回尔·耳·垒阿达沃斯的后代丹回尔·阿腊·丹二世··耳·垒阿达沃斯统一了莫腊刺大草原，建立了阿特图伊帝国，除了棍马姆以外的莫腊刺大草原地区都臣服与帝国之下，尔其他人对于莫腊刺的统一有效表示愤怒，有些表示担忧，还有些表示恐惧"
  bm_1000_RuanRuo: "软弱之人"
  bm_1000_RuanRuo_desc: "在阿特图伊人登陆佛罗利亚的时候他们被佛罗利亚的·富饶所震惊，他们将这里称为黄金海岸，是图伊神给他们的礼物，他们掠夺，屠戮，佛罗利亚国王对此没有任何行动，被称为软弱之人。"
- bookmark_PanJiaoZHe_Teals_LeiGeHeTu: "特阿儿斯"
- bookmark_PanJiaoZHe_Teals_LeiGeHeTu_desc: "阿腊·丹·特阿儿斯·垒格赫图出生于933年7月4日的东南斯瓦嚓山脉的一个小贵族家庭，从小父母就教育他要用武力获得土地与钱财，但他对这些身外之物完全不感兴趣，只对自身的荣耀感兴趣，所以他加入了入侵黄金海岸的军队，但后来阴差阳错的成为了黄金海岸的领主，而东南斯瓦嚓山脉的领土由他兄弟继承。"
+ bookmark_RuanRuo_Teals_LeiGeHeTu: "特阿儿斯"
+ bookmark_RuanRuo_Teals_LeiGeHeTu_desc: "阿腊·丹·特阿儿斯·垒格赫图出生于933年7月4日的东南斯瓦嚓山脉的一个小贵族家庭，从小父母就教育他要用武力获得土地与钱财，但他对这些身外之物完全不感兴趣，只对自身的荣耀感兴趣，所以他加入了入侵黄金海岸的军队，但后来阴差阳错的成为了黄金海岸的领主，而东南斯瓦嚓山脉的领土由他兄弟继承。"
+ bookmark_RuanRuo_Aara_LeiGeHeTu: "阿腊"
  bm_1000_PanJiaoZHe: "红色梦魇"
  bm_1000_PanJiaoZHe_desc: "在中心岛的海洋甜瓜人的起义是始料未及的，他们身穿红白相间的衣服，这是甜瓜国士兵的噩梦，他们永远不知道敌人会在什么地方蹦出来，就像你不知道今天[数据删除]一样。最终甜瓜国承认了中心岛的独立，但两国还在紧张对峙。。"
  bookmark_PanJiaoZHe_Natusit_ZHongXinDao: "奈图西特"
@@ -967,4 +979,9 @@
  
  dynn_LeiGeHeTu: "垒格赫图"
  dynn_3_motto: "土地，金钱，与荣耀！"
- Teals: "特阿儿斯""
+ 
+ dynn_LeiTeBuHe: "垒特布赫"
+ dynn_4_motto: "不择手段获得自己应有的。"
+ 
+ dynn_LeiAHeEr: "垒阿赫耳"
+ dynn_5_motto: "一人成军。"

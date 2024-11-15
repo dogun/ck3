@@ -40,7 +40,7 @@ bm_1000_RuanRuo = {
 	weight = { value = 100 }
 
 	character = {	#阿腊·丹·特阿儿斯·垒格赫图
-		name = "bookmark_PanJiaoZHe_Teals_LeiGeHeTu"
+		name = "bookmark_RuanRuo_Teals_LeiGeHeTu"
 #名字
 		dynasty = 3
 #宗族 ID
@@ -48,7 +48,7 @@ bm_1000_RuanRuo = {
 #宗族威望等级
 		type = male
 #性别
-		birth = 933.7.4
+		birth = 943.7.4 #933.7.4
 #出生日期-定义年龄
 		title = d_HuangJinHaiAn
 #持有主头衔
@@ -66,6 +66,18 @@ bm_1000_RuanRuo = {
 #位置
 		animation = menacing
 #姿势
+
+		character = {
+			name = "bookmark_RuanRuo_Aara_LeiGeHeTu"
+			relation = "BOOKMARK_RELATION_SON"
+			dynasty = 3
+                        type = male
+			birth = 968.1.8
+                 	culture = morasts
+                        religion = HOSX_AatTuierhkovo_Moaadorasts
+			history_id = 4
+			animation = page_flipping
+		}
 	}
 }
 

@@ -1,6 +1,6 @@
 ﻿1 = {
 	name = "LiuLiu"
-	dna = lyon_twin_dna_entry
+	dna = dna_1
 	dynasty = 1 #MoYing
 	female = no
 	sexuality = asexual
@@ -22,36 +22,7 @@
 
 2 = {
 	name = "Natusit"
-	dna = {
-		hair_color={ 184 186 184 186 }
- 		skin_color={ 68 99 68 99 }
- 		eye_color={ 124 136 124 136 }
- 		gene_chin_forward={ "chin_forward_neg" 102 "chin_forward_neg" 102 }
- 		gene_chin_height={ "chin_height_pos" 137 "chin_height_pos" 137 }
- 		gene_chin_width={ "chin_width_neg" 119 "chin_width_neg" 119 }
- 		gene_eye_angle={ "eye_angle_neg" 145 "eye_angle_neg" 124 }
- 		gene_eye_depth={ "eye_depth_neg" 137 "eye_depth_neg" 125 }
- 		gene_eye_height={ "eye_height_pos" 156 "eye_height_pos" 130 }
- 		gene_eye_distance={ "eye_distance_pos" 128 "eye_distance_pos" 128 }
- 		gene_eye_shut={ "eye_shut_pos" 138 "eye_shut_pos" 138 }
- 		gene_forehead_angle={ "forehead_angle_pos" 134 "forehead_angle_pos" 134 }
- 		gene_forehead_brow_height={ "forehead_brow_height_pos" 143 "forehead_brow_height_pos" 143 }
- 		gene_forehead_roundness={ "forehead_roundness_pos" 168 "forehead_roundness_pos" 168 }
- 		gene_forehead_width={ "forehead_width_neg" 113 "forehead_width_neg" 113 }
- 		gene_forehead_height={ "forehead_height_neg" 124 "forehead_height_neg" 124 }
- 		gene_head_height={ "head_height_pos" 110 "head_height_pos" 139 }
- 		gene_head_width={ "head_width_pos" 128 "head_width_pos" 128 }
- 		gene_head_profile={ "head_profile_pos" 168 "head_profile_pos" 182 }
- 		gene_head_top_height={ "head_top_height_pos" 147 "head_top_height_pos" 147 }
- 		gene_head_top_width={ "head_top_width_pos" 151 "head_top_width_pos" 151 }
- 		gene_jaw_angle={ "jaw_angle_neg" 102 "jaw_angle_neg" 102 }
- 		gene_jaw_forward={ "jaw_forward_pos" 133 "jaw_forward_pos" 133 }
- 		gene_jaw_height={ "jaw_height_pos" 156 "jaw_height_pos" 156 }
- 		gene_jaw_width={ "jaw_width_neg" 98 "jaw_width_neg" 98 }
- 		gene_mouth_corner_depth={ "mouth_corner_depth_pos" 154 "mouth_corner_depth_pos" 154 }
- 		gene_mouth_corner_height={ "mouth_corner_height_pos" 127 "mouth_corner_height_pos" 127 }
- 		gene_mouth_forward={ "mouth_forward_neg" 111 "mouth_forward_neg" 111 }
-	}
+	dna = dna_2
 	dynasty = 2 #中心岛
 	female = yes
 	sexuality = heterosexual
@@ -98,7 +69,116 @@
 	trait = giant
 	trait = mujahid
 	disallow_random_traits = yes
-	933.7.4 = {
+	943.7.4 = { #933.7.4
+		birth = yes
+	}
+	960.7.4 = {
+		add_spouse = 5
+	}
+}
+
+4 = {
+	name = "Aara"
+	dna = dna_4
+ 	dynasty = 3 #垒格赫图
+	female = no
+	sexuality = heterosexual
+	father = 3
+	mother = 5
+	martial = 7
+	diplomacy = 6
+	intrigue = 3
+	stewardship = 5
+	learning = 8
+	prowess = 5
+	religion = HOSX_AatTuierhkovo_Moaadorasts
+	culture = morasts
+	trait = education_learning_2
+	trait = honest
+	trait = brave
+	trait = humble
+
+	trait = wheezing
+	disallow_random_traits = yes
+	968.1.8 = {
+		birth = yes
+	}
+}
+
+5 = {
+	name = "alkhters"
+	dna = dna_5
+	female = yes
+	sexuality = heterosexual
+#	add_spouse = 3
+	martial = 4
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 6
+	learning = 7
+	prowess = 3
+	religion = HOSX_AatTuierhkovo_Moaadorasts
+	culture = morasts
+	trait = education_diplomacy_1
+	trait = chaste
+	trait = temperate
+	trait = generous
+	disallow_random_traits = yes
+	948.7.20 = {
+		birth = yes
+	}
+}
+
+6 = {
+	name = "Kona"
+	dna = dna_6
+ 	dynasty = 4 #特布赫
+	female = no
+	sexuality = heterosexual
+	martial = 9
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 5
+	learning = 7
+	prowess = 4
+	religion = HOSX_AatTuierhkovo_Moaadorasts
+	culture = morasts
+	trait = education_intrigue_4
+	trait = deceitful
+	trait = ambitious
+	trait = calm
+
+	trait = disloyal
+	disallow_random_traits = yes
+	963.3.15 = {
+		birth = yes
+	}
+}
+
+7 = {
+	name = "Dan"
+	dna = dna_7
+ 	dynasty = 5 #垒阿赫耳
+	female = no
+	sexuality = heterosexual
+	martial = 9
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 5
+	learning = 7
+	prowess = 4
+	religion = HOSX_AatTuierhkovo_Moaadorasts
+	culture = morasts
+	trait = education_martial_3
+	trait = brave
+	trait = ambitious
+	trait = impatient
+
+	trait = reckless
+	trait = reaver
+	trait = tourney_participant
+	disallow_random_traits = yes
+	969.8.7 = {
 		birth = yes
 	}
 }

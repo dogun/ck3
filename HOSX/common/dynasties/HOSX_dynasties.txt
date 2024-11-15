@@ -15,3 +15,15 @@
 	culture = "morasts"
 	motto = "dynn_3_motto"
 }
+
+4 = {
+	name = "dynn_LeiTeBuHe"
+	culture = "morasts"
+	motto = "dynn_4_motto"
+}
+
+5 = {
+	name = "dynn_LeiAHeEr"
+	culture = "morasts"
+	motto = "dynn_5_motto"
+}

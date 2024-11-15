@@ -82,8 +82,32 @@ d_HuangJinHaiAn = {	#黄金海岸
 c_HuangJinHaiAn = {	#黄金海岸
 	266.1.1 = { change_development_level = 8 }
 	1000.1.1 = { change_development_level = 12 }
-	97910.8 = {
+	976.8.12 = {
 		holder = 3
 		government = tribal_government
+	}
+}
+
+c_XiHuangJinHaiAn = {	#西黄金海岸
+	266.1.1 = { change_development_level = 6 }
+	1000.1.1 = { change_development_level = 5 }
+	976.8.14= {
+		holder = 6
+		government = tribal_government
+	}
+	998.4.10 = {
+		liege = d_HuangJinHaiAn
+	}
+}
+
+c_DongHuangJinHaiAn = {	#东黄金海岸
+	266.1.1 = { change_development_level = 6 }
+	1000.1.1 = { change_development_level = 5 }
+	976.8.10= {
+		holder = 7
+		government = tribal_government
+	}
+	998.4.10 = {
+		liege = d_HuangJinHaiAn
 	}
 }
