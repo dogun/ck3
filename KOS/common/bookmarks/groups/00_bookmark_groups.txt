@@ -1,3 +1,3 @@
-﻿bm_group_0 = {
-	default_start_date = 0.0.0
+﻿bm_group_1 = {
+	default_start_date = 1.1.1
 }

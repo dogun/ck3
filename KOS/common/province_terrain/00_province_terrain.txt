@@ -47,3 +47,12 @@
 47=mountains
 48=mountains
 49=mountains
+50=mountains
+51=hills
+52=hills
+53=oasis
+54=hills
+55=drylands
+56=drylands
+57=desert_mountains
+58=desert_mountains

@@ -1,5 +1,7 @@
 ﻿l_simp_chinese:
  
+ #头衔
+ 
  d_BeiJi: "北极"
  c_BeiJi: "北极"
  b_BeiJi: "北极"
@@ -68,6 +70,21 @@
  b_SHangDongSiWaCaSHanJiao: "上东斯瓦嚓山脚"
  b_DongSiWaCaSHanJiao: "东斯瓦嚓山脚"
  b_XiaDongSiWaCaSHanJiao: "下东斯瓦嚓山脚"
+ c_SiWaCaZHouLang: "斯瓦嚓走廊"
+ b_YanHaiZHouLang: "沿海走廊"
+ b_SiWaCaZHouLang: "克西特斯瓦嚓"
+ c_SiWaCaLvZHou: "斯瓦嚓绿洲"
+ b_SiWaCaLvZHouYiHao: "伊克沃"
+ b_SiWaCaLvZHouErHao: "伊克赫"
+ c_XiWangDi: "希望地"
+ b_NeiXiWangDi: "内希望地"
+ b_XiWangDi: "希望地"
+ b_WaiXiWangDi: "外希望地"
+ c_DongBeiSiWaCaSHanJiao: "东北斯瓦嚓山脚"
+ b_XiaDongBeiSiWaCaSHanJiao: "下东北斯瓦嚓山脚"
+ b_SHangDongBeiSiWaCaSHanJiao: "上东北斯瓦嚓山脚"
+ 
+ #宗教
  
  rf_kos_WuSHenLun: "无神论宗教组"
  rf_kos_WuSHenLun_hostility_doctrine_name: "无神论宗教组"
@@ -865,7 +882,7 @@
  councillor_court_chaplain_kos_Tuqi_empire_female_possessive: "祭司"
  #帝国级宫廷女主教
  
- 
+ #文化
  
  heritage_aattui_name: "阿特图伊"
  language_aattui_name: "通用图伊语"
@@ -906,7 +923,7 @@
  Aldos: "阿儿朵斯"
  
  SteA: "斯特阿"
- Teals: "特阿儿斯"
+ #Teals: "特阿儿斯"
  RaAa: "腊阿"
  QiTterra: "其特儿阿"
  Dachtaa: "达赫特阿"
@@ -914,26 +931,46 @@
  Sheuchts: "修赫特斯"
  alkhters: "阿尔赫特斯"
  Wachla: "沃赫腊"
- Waldos: "沃尔朵斯"
- 
+ #Waldos: "沃尔朵斯"
  
  heritage_tuqi_name: "图其"
  language_tuqi_name: "通用图其语"
  name_list_tuqi: "图其"
- steppe_building_gfx: "大草原"
- steppe_coa_gfx: "大草原"
- mongol_clothing_gfx: "大草原"
- mongol_coa_gfx: "大草原"
- mongol_unit_gfx: "大草原"
  tuqi: "图其"
  island_tuqi: "海岛图其"
  
+ #头衔名称
  
- bm_group_0: "0"
- bm_0_ZuiZHongBengKui: "后莫腊刺时代"
- bm_0_ZuiZHongBengKui_desc: "在莫腊刺崩溃后斯瓦嚓也面临图其-斯瓦嚓的独立，整个大草原都乱成一锅粥，这段时期的混乱会让一个个小人物崛起，一个个大家族崩溃，在结束一会参与者已经换了好几遍。"
- bm_0_KuangXiZHiRi: "狂喜之日"
- bm_0_KuangXiZHiRi_desc: "在莫腊刺帝国崩溃时全世界都在欢呼，将那一天定为公元元年，但他们不知道的是一场场新的战争即将发生。"
+ baron_tribal_male: "首领"
+ baron_tribal_female: "女首领"
+ barony_tribal: "部落"
+ count_tribal_male: "酋长"
+ count_tribal_female: "女酋长"
+ county_tribal: "酋邦"
+ duke_tribal_male: "大酋长"
+ duke_tribal_female: "女大酋长"
+ duchy_tribal: "大酋邦"
+ king_tribal_male: "至高王"
+ king_tribal_female: "女至高王"
+ kingdom_tribal: "至高王国"
+ emperor_tribal_male: "万王之王"
+ emperor_tribal_female: "女万王之王"
+ empire_tribal: "万王之王国"
+ 
+ king_male_aattui_group: "阿耳"
+ king_female_aattui_group: "阿耳"
+ kingdom_aattui_group: "阿耳国"
+ emperor_male_aattui_group: "阿耳刺"
+ emperor_female_aattui_group: "阿耳刺"
+ empire_aattui_group: "刺国"
+ 
+ #剧本
+ 
+ bm_group_1: "1"
+ bm_1_ZuiZHongBengKui: "后莫腊刺时代"
+ bm_1_ZuiZHongBengKui_desc: "在莫腊刺崩溃后斯瓦嚓也面临图其-斯瓦嚓的独立，整个大草原都乱成一锅粥，这段时期的混乱会让一个个小人物崛起，一个个大家族崩溃，在结束一会参与者已经换了好几遍。"
+ bm_1_KuangXiZHiRi: "狂喜之日"
+ bm_1_KuangXiZHiRi_desc: "在莫腊刺帝国崩溃时全世界都在欢呼，将那一天定为公元元年，但他们不知道的是一场场新的战争即将发生。"
  
  bm_group_266: "266"
  bm_266_JinZHiYouWan: "禁止游玩"
@@ -957,10 +994,12 @@
  #bookmark_PanJiaoZHe_Natusit_ZHongXinDao_alt_gudfrid: "$GuT_friT_$"
  #bookmark_PanJiaoZHe_Natusit_ZHongXinDao_alt_saga: "“$nick_the_truthspeaker$”$Saga$"
  
+ #宗族
+ 
  dynn_MoYing: "魔影"
  dynn_1_motto: "我TM是模组作者！谁敢惹我？"
  LiuLiu: "六六"
  
  dynn_swacha: "斯瓦嚓"
  dynn_2_motto: "为星辰而战！"
- SteA: "斯特阿"
+ #SteA: "斯特阿"

@@ -540,6 +540,55 @@ e_SiWaCa = {	#斯瓦嚓
 				}
 			}
 
+			c_XiWangDi = {	#希望地
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_NeiXiWangDi = {	#内希望地
+#男爵领
+					province = 54
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_XiWangDi = {	#希望地
+#男爵领
+					province = 55
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+				b_WaiXiWangDi = {	#外希望地
+#男爵领
+					province = 56
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_DongBeiSiWaCaSHanJiao = {	#东北斯瓦嚓山脚
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_XiaDongBeiSiWaCaSHanJiao = {	#下东北斯瓦嚓山脚
+#男爵领
+					province = 57
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_SHangDongBeiSiWaCaSHanJiao = {	#上东北斯瓦嚓山脚
+#男爵领
+					province = 58
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
 		}
 	}
 }

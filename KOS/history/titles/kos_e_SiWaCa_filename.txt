@@ -6,83 +6,55 @@ e_SiWaCa = {	#斯瓦嚓
 }
 
 k_SiWaCaSHanMai = {	#斯瓦嚓山脉
-	-18.3.6 = {
-		holder = 2
-	}
 }
 
 d_DongSiWaCzaSHan = {	#东斯瓦嚓山
-	-18.3.6 = {
-		holder = 2
-	}
 }
 
 c_DiErFoLuoLiYa = {	#第二佛罗利亚（赫沃图其 赫）
 	1.1.1 = { change_development_level = 8 }
-	-18.3.6 = {
-		holder = 2
-	}
 }
 
 c_SHouWang = {	#守望（瓦阿图）
 	1.1.1 = { change_development_level = 7 }
-	-18.3.6 = {
-		holder = 2
-	}
 }
 
 c_DongNanSiWaCaSHan = {	#东南斯瓦嚓山
 	1.1.1 = { change_development_level = 5 }
-	-18.3.6 = {
-		holder = 2
-	}
 }
 
 c_BinHaiSiWaCa = {	#滨海斯瓦嚓（斯瓦嚓 奥伊）
 	1.1.1 = { change_development_level = 10 }
-	-18.3.6 = {
-		holder = 2
-	}
 }
 
 c_SanYongSHi = {	#三勇士（耳 达腊）
 	1.1.1 = { change_development_level = 8 }
-	-18.3.6 = {
-		holder = 2
-	}
 }
 
 c_Bu = {	#布（格阿布）
 	1.1.1 = { change_development_level = 13 }
-	-18.3.6 = {
-		holder = 2
-	}
 }
 
 c_DuBuMen = {	#毒布门（达阿布莫）
 	1.1.1 = { change_development_level = 12 }
-	-18.3.6 = {
-		holder = 2
-	}
 }
 
 c_DongSiWaCaSHanJiao = {	#东斯瓦嚓山脚
 	1.1.1 = { change_development_level = 5 }
-	-18.3.6 = {
-		holder = 2
-	}
 }
 
 c_SiWaCaZHouLang = {	#斯瓦嚓走廊（克西特 斯瓦嚓）
 	1.1.1 = { change_development_level = 6 }
-	-18.3.6 = {
-		holder = 2
-	}
 }
 
 c_SiWaCaLvZHou = {	#斯瓦嚓绿洲（斯瓦嚓 伊克）
 	1.1.1 = { change_development_level = 7 }
-	-18.3.6 = {
-		holder = 2
-	}
+}
+
+c_XiWangDi = {	#希望地
+	1.1.1 = { change_development_level = 4 }
+}
+
+c_DongBeiSiWaCaSHanJiao = {	#东北斯瓦嚓山脚
+	1.1.1 = { change_development_level = 3 }
 }

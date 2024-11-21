@@ -67,5 +67,12 @@
 52;180;180;0;SiWaCaLvZHouYiHao;x;	#斯瓦嚓绿洲一号（斯瓦嚓 伊克 沃）
 53;0;180;90;SiWaCaLvZHouErHao;x;	#斯瓦嚓绿洲二号（斯瓦嚓 伊克 赫）
 
-54;255;255;255;CS;x;
-55;255;0;128;CS2;x;
+54;19;102;20;NeiXiWangDi;	#内希望地
+55;0;255;4;XiWangDi;x;	#希望地
+56;159;160;63;WaiXiWangDi;x;	#外希望地
+
+57;134;73;149;XiaDongBeiSiWaCaSHanJiao;	#下东北斯瓦嚓山脚
+58;74;4;91;SHangDongBeiSiWaCaSHanJiao;x;	#上东北斯瓦嚓山脚
+
+59;255;255;255;CS;x;
+60;255;0;128;CS2;x;
