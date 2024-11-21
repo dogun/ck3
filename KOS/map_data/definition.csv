@@ -1,0 +1,71 @@
+0;0;0;0;x;x;
+1;10;10;10;BiTuWai;x;	#地图外
+2;15;15;15;NanJiHuangDi;x;	#南极荒地
+3;25;25;25;BeiJiHuangDi;x;	#北极荒地
+
+4;195;0;0;ZHongXinDaoHeXin;x;	#中心岛核心
+5;200;0;0;NeiXiNanZHongXinDao;x;	#内西南中心岛
+6;205;0;0;NeiDongNanZHongXinDao;x;	#内东南中心岛
+7;210;0;0;NeiDingBeiZHongXinDao;x;	#内东北中心岛
+8;215;0;0;NeiXiBeiZHongXinDao;x;	#内西北中心岛
+9;220;0;0;SHangXiNanZHongXinDao;x;	#上西南中心岛
+10;225;0;0;XiaXiNanZHongXinDao;x;	#下西南中心岛
+11;230;0;0;SHangDongNanZHongXinDao;x;	#上东南中心岛
+12;235;0;0;XiaDongNanZHongXinDao;x;	#下东南中心岛
+13;240;0;0;XiaDongBeiZHongXinDao;x;	#下东北中心岛
+14;245;0;0;SHangDongBeiZHongXinDao;x;	#上东北中心岛
+15;250;0;0;XiaXiBeiZHongXinDao;x;	#下西北中心岛
+16;255;0;0;SHangXiBeiZHongXinDao;x;	#上西北中心岛
+17;220;220;0;WaiSHangXiNanZHongXinDao;x;	#外上西南中心岛
+18;225;225;0;WaiXiaXiNanZHongXinDao;x;	#外下西南中心岛
+19;230;230;0;WaiSHangDongNanZHongXinDao;x;	#外上东南中心岛
+20;235;235;0;WaiXiaDongNanZHongXinDao;x;	#外下东南中心岛
+21;240;240;0;WaiXiaDongBeiZHongXinDao;x;	#外下东北中心岛
+22;245;245;0;WaiSHangDongBeiZHongXinDao;x;	#外上东北中心岛
+23;250;250;0;WaiXiaXiBeiZHongXinDao;x;	#外下西北中心岛
+24;255;255;0;WaiSHangXiBeiZHongXinDao;x;	#外上西北中心岛
+
+
+25;251;69;137;DongSiWaCaSHanHuangDi;x;	#东斯瓦嚓山荒地
+
+26;191;95;111;DiErFoLuoLiYa;x;	#第二佛罗利亚（赫沃图其 赫）
+27;180;10;12;LinJinFoLuoLiYaHai;x;	#临近佛罗利亚海（赫沃图其 阿赫其特）
+28;164;127;129;LinJinFoLuoLiYaWan;x;	#临近佛罗利亚湾（赫沃图其 阿赫其特-斯）
+
+29;42;42;72;XiaSHouWang;x;	#下守望（下 瓦阿图）
+30;178;179;227;ZHongSHouWang;x;	#中守望（中 瓦阿图）
+31;168;97;240;SHangSHouWang;x;	#上守望（上 瓦阿图）
+
+32;200;20;91;DongNanSiWaCaSHanJiao;x;	#东南斯瓦嚓山脚
+33;190;78;120;TuDiBao;x;	#土地堡（西特赫伐耳）
+34;254;78;139;TuQiATe;x;	#图其阿特（图特）
+
+35;179;180;25;SHangBinHaiSiWaCa;x;	#上滨海斯瓦嚓（上 斯瓦嚓 奥伊）
+36;178;179;102;XiaBinHaiSiWaCa;x;	#下滨海斯瓦嚓（下 斯瓦嚓 奥伊）
+37;201;115;74;BuLuenXian;x;	#不陷落（赫赫 卡赫特）
+
+38;218;82;0;YongSHi_1;x;	#勇士1（达腊 沃）
+39;208;72;0;YongSHi_2;x;	#勇士2（达腊 赫）
+40;198;62;0;YongSHi_3;x;	#勇士3（达腊 耳）
+
+41;172;91;222;Bu;x;	#布（格阿布）
+42;91;178;222;BinHaiBu;x;	#滨海布（格阿布 奥伊）
+43;222;185;91;	DongBu;x;	#东布（东格阿布）
+
+44;63;228;162;Du;x;	#毒（达阿）
+45;246;66;69;Bu;x;	#布
+46;222;91;93;Men;x;	#门（莫）
+
+47;20;134;200;SHangDongSiWaCaSHanJiao;	#上东斯瓦嚓山脚
+48;45;68;208;DongSiWaCaSHanJiao;x;	#东斯瓦嚓山脚
+49;176;63;204;XiaDongSiWaCaSHanJiao;x;	#下东斯瓦嚓山脚
+
+
+50;180;0;71;YanHaiZHouLang;	#沿海走廊（克西特 奥伊）
+51;204;83;131;SiWaCaZHouLang;x;	#斯瓦嚓走廊（克西特 斯瓦嚓）
+
+52;180;180;0;SiWaCaLvZHouYiHao;x;	#斯瓦嚓绿洲一号（斯瓦嚓 伊克 沃）
+53;0;180;90;SiWaCaLvZHouErHao;x;	#斯瓦嚓绿洲二号（斯瓦嚓 伊克 赫）
+
+54;255;255;255;CS;x;
+55;255;0;128;CS2;x;

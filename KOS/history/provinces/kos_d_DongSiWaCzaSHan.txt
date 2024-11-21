@@ -1,0 +1,5 @@
+26 = {		#第二佛罗利亚（赫沃图其 赫）
+	culture = swacha
+	religion = kos_AatTuierhkovo_Moarasrasts
+	holding = tribal_holding
+}

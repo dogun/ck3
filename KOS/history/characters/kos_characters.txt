@@ -1,0 +1,52 @@
+﻿1 = {
+	name = "LiuLiu"
+	dna = dna_1
+	dynasty = 1 #魔影
+	female = no
+	sexuality = asexual
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = kos_WuSHenLun	
+	culture = french
+	trait = education_learning_5
+	trait = immortal
+	disallow_random_traits = yes
+	-1000.1.1 = {
+		birth = yes
+	}
+}
+
+2 = {
+	name = "SteA"
+	dna = dna_2
+	dynasty = 2 #斯瓦嚓
+	female = yes
+	sexuality = heterosexual
+	diplomacy = 4
+	martial = 13
+	stewardship = 14
+	intrigue = 7
+	learning = 14
+	prowess = 15
+	religion = kos_AatTuierhkovo_Moarasrasts
+	culture = swacha
+	trait = education_martial_3
+	trait = diligent
+	trait = stubborn
+	trait = brave
+
+	trait = albino
+	trait = rough_terrain_expert
+	trait = disfigured
+	disallow_random_traits = yes
+	-40.3.6 = {
+		birth = yes
+	}
+	37.8.1 = {
+		death = yes
+	}
+}

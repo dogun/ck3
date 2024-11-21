@@ -1,0 +1,12 @@
+﻿1 = {
+	name = "dynn_MoYing"
+	culture = "french"
+	motto = "dynn_1_motto"
+}
+
+2 = {
+	prefix = "dynnp_er"
+	name = "dynn_swacha"
+	culture = "swacha"
+	motto = "dynn_2_motto"
+}

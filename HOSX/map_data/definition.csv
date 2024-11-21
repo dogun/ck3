@@ -24,6 +24,7 @@
 23;250;250;0;WaiXiaXiBeiZHongXinDao;x;	#外下西北中心岛
 24;255;255;0;WaiSHangXiBeiZHongXinDao;x;	#外上西北中心岛
 
+
 25;200;200;90;BeiXiaoYvMiDao;x;	#北小玉米岛
 26;222;222;55;NaniXiaoYvMiDao;x;	#南小玉米岛
 
@@ -81,6 +82,7 @@
 70;105;105;55;DongYvMiQunDao_5;x;	#东玉米群岛5号
 71;100;100;55;DongYvMiQunDao_6;x;	#东玉米群岛6号
 
+
 72;255;0;188;DenLuDian;x;	#新登陆点（西特赫其特嚓）
 73;200;0;188;HuangJin;x;	#黄金（沃赫特阿）
 74;167;0;188;SHenCi;x;	#神赐（图伊赫（特））
@@ -99,5 +101,21 @@
 85;200;97;188;DenLuDian_2;x;	#登陆点2（西特赫其特赫）
 86;200;97;19;DenLuDian_3;x;	#登陆点3（西特赫其特耳）
 
-87;255;255;255;CS;x;
-88;255;0;128;CS2;x;
+
+87;251;69;137;DongSiWaCaSHanHuangDi;x;	#东斯瓦嚓山荒地
+
+88;191;95;111;DiErFoLuoLiYa;x;	#第二佛罗利亚（赫沃图其 赫）
+89;180;10;12;LinJinFoLuoLiYaHai;x;	#临近佛罗利亚海（赫沃图其 阿赫其特）
+90;164;127;129;LinJinFoLuoLiYaWan;x;	#临近佛罗利亚湾（赫沃图其 阿赫其特-斯）
+
+91;179;180;25;SHangBinHaiSiWaCa;x;	#上滨海斯瓦嚓（西特赫其特沃）
+92;178;179;102;XiaBinHaiSiWaCa;x;	#下滨海斯瓦嚓（西特赫其特赫）
+93;201;115;74;BuLuenXian;x;	#不陷落（卡赫特 赫赫）
+
+94;218;82;0;YongSHi_1;x;	#勇士1（达腊 沃）
+95;208;72;0;YongSHi_2;x;	#勇士2（达腊 赫）
+96;198;62;0;YongSHi_3;x;	#勇士3（达腊 耳）
+
+
+97;255;255;255;CS;x;
+98;255;0;128;CS2;x;

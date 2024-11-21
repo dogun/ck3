@@ -710,6 +710,42 @@
  councillor_court_chaplain_MY66_AatTuierhkovo_Moaadorasts_empire_female_possessive: "阿尔"
  #帝国级宫廷女主教
  
+ rf_MY66_Corporatism: "法团"
+ rf_MY66_Corporatism_hostility_doctrine_name: "法团"
+ rf_MY66_Corporatism_hostility_doctrine_desc: "下列宗教属于法团宗教组：\n[GetReligionFamily(rf_MY66_Corporatism).GetReligions]"
+ 
+ MY66_Nazi: "纳粹"
+ MY66_Nazi_adj: "纳粹主义"
+ MY66_Nazi_adherent: "纳粹信徒"
+ MY66_Nazi_adherent_plural: "纳粹信徒"
+ MY66_Nazi_desc: "纳粹主义是极端民族主义和极端军国主义的结合。"
+ 
+ MY66_YaLiAnMiXue: "雅利安秘学"
+ MY66_YaLiAnMiXue_adj: "雅利安秘学"
+ #名称
+ MY66_YaLiAnMiXue_adherent: "雅利安人"
+ MY66_YaLiAnMiXue_adherent_plural: "雅利安人"
+ #信徒
+ MY66_YaLiAnMiXue_desc: "雅利安人最高无上，但他们已经消失，日耳曼人继承了雅利安，我们要延续祖先的生活方式。"
+ #简介
+ 
+ MY66_YaLiAnMiXue: "雅利安秘学"
+ MY66_YaLiAnMiXue_adj: "雅利安秘学"
+ #名称
+ MY66_YaLiAnMiXue_adherent: "雅利安人"
+ MY66_YaLiAnMiXue_adherent_plural: "雅利安人"
+ #信徒
+ MY66_YaLiAnMiXue_desc: "雅利安人最高无上，但他们已经消失，日耳曼人继承了雅利安，我们要延续祖先的生活方式。"
+ #简介
+ 
+ MY66_YaLiAnMiXue: "维利会"
+ MY66_YaLiAnMiXue_adj: "维利会"
+ #名称
+ MY66_YaLiAnMiXue_adherent: "维利尔"
+ MY66_YaLiAnMiXue_adherent_plural: "维利尔"
+ #信徒
+ MY66_YaLiAnMiXue_desc: "雅利安人最高无上，他们是毕宿五星人，我们通过长发与他们沟通。"
+ #简介
  
  heritage_aattui_name: "阿特图伊"
  language_aattui_name: "通用图伊语"

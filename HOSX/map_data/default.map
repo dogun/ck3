@@ -12,6 +12,6 @@ adjacencies = "adjacencies.csv"
 island_region = "island_region.txt"
 seasons = "seasons.txt"
 
-impassable_mountains = LIST { 1 2 87 }
+impassable_mountains = LIST { 1 2 87 97 }
 
-sea_zones = LIST { 88 }
+sea_zones = LIST { 98 }

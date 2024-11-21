@@ -1,0 +1,21 @@
+﻿
+
+#############
+# Christian #
+#############
+
+# Catholic
+
+ZHongXinDao = {
+	county = c_ZHongXinDaoHeXin
+	
+	character_modifier = {
+		monthly_lifestyle_xp_gain_mult = 0.15
+		learning_per_piety_level = 1
+		stewardship_per_piety_level = 1
+		knight_effectiveness_mult = 0.05
+		hard_casualty_modifier = -0.05
+	}
+
+#	flag = wadi_el_milk_conversion_resistance_bonus # 50% County Conversion Resistance
+}

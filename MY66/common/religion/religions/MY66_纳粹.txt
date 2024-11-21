@@ -2,7 +2,7 @@
 	family =  rf_MY66_Corporatism
 
 	traits = {
-		virtues = { just }
+		virtues = {  }
 		sins = {  }
 	}
 
@@ -13,7 +13,7 @@
 	pagan_roots = yes
 
 	faiths = {
-		MY66_XiTeLe = {
+		MY66_YaLiAnMiXue = {
 			color = { 0 0 0 }
 			icon = "gfx/interface/icons/faith/无神论.dds"
 
@@ -21,35 +21,74 @@
 			holy_site = chios
 			holy_site = Naumburg
 			holy_site = rome
-#			holy_site = rugen
 
-			doctrine = tenet_adaptive
-			doctrine = tenet_legalism
-			doctrine = tenet_literalism
+			doctrine = tenet_warmonger
+			doctrine = tenet_pursuit_of_power
+			doctrine = tenet_cthonic_redoubts
 
-			doctrine = doctrine_gender_equal
-			doctrine = doctrine_pluralism_pluralistic
+			doctrine = doctrine_gender_male_dominated
+			doctrine = doctrine_pluralism_fundamentalist
 			doctrine = doctrine_theocracy_lay_clergy
-			doctrine = doctrine_no_head
-			doctrine = doctrine_pilgrimage_forbidden
+			doctrine = doctrine_temporal_head
+			doctrine = doctrine_pilgrimage_encouraged
 
 			doctrine = doctrine_monogamy
-			doctrine = doctrine_divorce_allowed
+			doctrine = doctrine_divorce_approval
 			doctrine = doctrine_bastardry_legitimization
 			doctrine = doctrine_consanguinity_cousins
 
 			doctrine = doctrine_homosexuality_shunned
 			doctrine = doctrine_adultery_men_shunned
 			doctrine = doctrine_adultery_women_shunned
-			doctrine = ddoctrine_deviancy_shunned
-			doctrine = doctrine_witchcraft_crime
-			doctrine = doctrine_kinslaying_any_dynasty_member_crime
+			doctrine = doctrine_deviancy_shunned
+			doctrine = doctrine_witchcraft_virtuous
+			doctrine = doctrine_kinslaying_shunned
 
-			doctrine = doctrine_clerical_function_alms_and_pacification
-			doctrine = doctrine_clerical_gender_either
+			doctrine = doctrine_clerical_function_recruitment
+			doctrine = doctrine_clerical_gender_male_only
 			doctrine = doctrine_clerical_marriage_allowed
 			doctrine = doctrine_clerical_succession_temporal_appointment
-			doctrine = doctrine_funeral_cremation
+			doctrine = doctrine_funeral_mummification
+		}
+	}
+
+	faiths = {
+		MY66_VRIE = {
+			color = { 0 0 0 }
+			icon = "gfx/interface/icons/faith/无神论.dds"
+
+			holy_site = athens
+			holy_site = chios
+			holy_site = Naumburg
+			holy_site = rome
+
+			doctrine = tenet_warmonger
+			doctrine = tenet_pursuit_of_power
+			doctrine = tenet_divination
+
+			doctrine = doctrine_gender_female_dominated
+			doctrine = doctrine_pluralism_fundamentalist
+			doctrine = doctrine_theocracy_lay_clergy
+			doctrine = doctrine_temporal_head
+			doctrine = doctrine_pilgrimage_encouraged
+
+			doctrine = doctrine_monogamy
+			doctrine = doctrine_divorce_approval
+			doctrine = doctrine_bastardry_legitimization
+			doctrine = doctrine_consanguinity_cousins
+
+			doctrine = doctrine_homosexuality_shunned
+			doctrine = doctrine_adultery_men_shunned
+			doctrine = doctrine_adultery_women_shunned
+			doctrine = doctrine_deviancy_shunned
+			doctrine = doctrine_witchcraft_virtuous
+			doctrine = doctrine_kinslaying_shunned
+
+			doctrine = doctrine_clerical_function_recruitment
+			doctrine = doctrine_clerical_gender_female_only
+			doctrine = doctrine_clerical_marriage_allowed
+			doctrine = doctrine_clerical_succession_temporal_appointment
+			doctrine = doctrine_funeral_mummification
 		}
 	}
 
