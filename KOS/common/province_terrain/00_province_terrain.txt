@@ -56,3 +56,5 @@
 56=drylands
 57=desert_mountains
 58=desert_mountains
+59=drylands
+60=drylands

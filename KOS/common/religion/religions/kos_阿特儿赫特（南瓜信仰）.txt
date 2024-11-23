@@ -101,7 +101,7 @@
 	}
 
 	faiths = {
-		 kos_AatTuierhkovo_Moarasrasts = {
+		kos_swacha_aateerhert = {
 			color = { 0.2 0.18 0.28 }
 			icon = "gfx/interface/icons/faith/斯瓦嚓.dds"
 
@@ -139,7 +139,7 @@
 	}
 
 	faiths = {
-		 kos_AatTuierhkovo_Moaadorasts = {
+		kos_tui_aateerhert = {
 			color = { 0.6 0.6 0.4 }
 			icon = "gfx/interface/icons/faith/莫腊刺.dds"
 

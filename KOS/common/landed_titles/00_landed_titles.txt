@@ -498,11 +498,11 @@ e_SiWaCa = {	#斯瓦嚓
 				}
 			}
 
-			c_SiWaCaZHouLang = {	#斯瓦嚓走廊（克西特 斯瓦嚓）
+			c_SiWaCaZouLang = {	#斯瓦嚓走廊（克西特 斯瓦嚓）
 #伯爵领
 				color = { 42 42 72 }
 #颜色
-				b_YanHaiZHouLang = {	#沿海走廊（克西特 奥伊）
+				b_YanHaiZouLang = {	#沿海走廊（克西特 奥伊）
 #男爵领
 					province = 50
 #拥有
@@ -510,7 +510,7 @@ e_SiWaCa = {	#斯瓦嚓
 #颜色
 				}
 
-				b_SiWaCaZHouLang = {	#斯瓦嚓走廊（克西特 斯瓦嚓）
+				b_SiWaCaZouLang = {	#斯瓦嚓走廊（克西特 斯瓦嚓）
 #男爵领
 					province = 51
 #拥有
@@ -583,6 +583,27 @@ e_SiWaCa = {	#斯瓦嚓
 				b_SHangDongBeiSiWaCaSHanJiao = {	#上东北斯瓦嚓山脚
 #男爵领
 					province = 58
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_BianYuanZouLang = {	#边缘走廊
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_DongBianYuanZouLang = {	#东边缘走廊
+#男爵领
+					province = 59
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_XiBianYuanZouLang = {	#西边缘走廊
+#男爵领
+					province = 60
 #拥有
 					color = { 42 42 72 }
 #颜色

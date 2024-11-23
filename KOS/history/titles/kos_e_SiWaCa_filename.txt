@@ -43,7 +43,7 @@ c_DongSiWaCaSHanJiao = {	#东斯瓦嚓山脚
 	1.1.1 = { change_development_level = 5 }
 }
 
-c_SiWaCaZHouLang = {	#斯瓦嚓走廊（克西特 斯瓦嚓）
+c_SiWaCaZouLang = {	#斯瓦嚓走廊（克西特 斯瓦嚓）
 	1.1.1 = { change_development_level = 6 }
 }
 
@@ -57,4 +57,8 @@ c_XiWangDi = {	#希望地
 
 c_DongBeiSiWaCaSHanJiao = {	#东北斯瓦嚓山脚
 	1.1.1 = { change_development_level = 3 }
+}
+
+c_BianYuanZouLang = {	#边缘走廊
+	1.1.1 = { change_development_level = 5 }
 }

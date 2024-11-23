@@ -61,8 +61,8 @@
 49;176;63;204;XiaDongSiWaCaSHanJiao;x;	#下东斯瓦嚓山脚
 
 
-50;180;0;71;YanHaiZHouLang;	#沿海走廊（克西特 奥伊）
-51;204;83;131;SiWaCaZHouLang;x;	#斯瓦嚓走廊（克西特 斯瓦嚓）
+50;180;0;71;YanHaiZouLang;	#沿海走廊（克西特 奥伊）
+51;204;83;131;SiWaCaZouLang;x;	#斯瓦嚓走廊（克西特 斯瓦嚓）
 
 52;180;180;0;SiWaCaLvZHouYiHao;x;	#斯瓦嚓绿洲一号（斯瓦嚓 伊克 沃）
 53;0;180;90;SiWaCaLvZHouErHao;x;	#斯瓦嚓绿洲二号（斯瓦嚓 伊克 赫）
@@ -74,5 +74,12 @@
 57;134;73;149;XiaDongBeiSiWaCaSHanJiao;	#下东北斯瓦嚓山脚
 58;74;4;91;SHangDongBeiSiWaCaSHanJiao;x;	#上东北斯瓦嚓山脚
 
-59;255;255;255;CS;x;
-60;255;0;128;CS2;x;
+59;143;186;0;DongBianYuanZouLang;	#东边缘走廊
+60;231;233;80;XiBianYuanZouLang;x;	#西边缘走廊
+
+#61;196;94;94;DongATeTuYi;	#东阿特图伊
+#62;60;75;165;XiBianYuanZouLang;x;	#阿特图伊-斯瓦嚓
+#63;131;132;67;XiBianYuanZouLang;x;	#特图嚓
+
+61;255;255;255;CS;x;
+62;255;0;128;CS2;x;

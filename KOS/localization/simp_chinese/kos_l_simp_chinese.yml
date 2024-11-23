@@ -70,9 +70,9 @@
  b_SHangDongSiWaCaSHanJiao: "上东斯瓦嚓山脚"
  b_DongSiWaCaSHanJiao: "东斯瓦嚓山脚"
  b_XiaDongSiWaCaSHanJiao: "下东斯瓦嚓山脚"
- c_SiWaCaZHouLang: "斯瓦嚓走廊"
- b_YanHaiZHouLang: "沿海走廊"
- b_SiWaCaZHouLang: "克西特斯瓦嚓"
+ c_SiWaCaZouLang: "斯瓦嚓走廊"
+ b_YanHaiZouLang: "沿海走廊"
+ b_SiWaCaZouLang: "克西特斯瓦嚓"
  c_SiWaCaLvZHou: "斯瓦嚓绿洲"
  b_SiWaCaLvZHouYiHao: "伊克沃"
  b_SiWaCaLvZHouErHao: "伊克赫"
@@ -546,219 +546,219 @@
  #kos_AatTuierhkovo_Moarasrasts_adherent: "阿特图伊阿喇"
  #kos_AatTuierhkovo_Moarasrasts_adherent_plural: "阿特图伊阿喇"
  #信徒
- kos_AatTuierhkovo_Moarasrasts: "阿特图伊儿-斯瓦嚓"
- kos_AatTuierhkovo_Moarasrasts_adj: "阿特图伊儿赫特-斯瓦嚓"
+ kos_swacha_aateerhert: "斯瓦嚓派"
+ kos_swacha_aateerhert_adj: "斯瓦嚓派阿特儿赫特"
  #名称
- kos_AatTuierhkovo_Moarasrasts_adherent: "阿特图伊斯瓦嚓"
- kos_AatTuierhkovo_Moarasrasts_adherent_plural: "阿特图伊斯瓦嚓"
+ kos_swacha_aateerhert_adherent: "信仰斯瓦嚓派的人"
+ kos_swacha_aateerhert_adherent_plural: "信仰斯瓦嚓派的人"
  #信徒
  #kos_AatTuierhkovo_Moarasrasts_desc: "起源于其特维儿赫特-斯瓦嚓的为星空而战的传统，他们最开始是原始阿特图伊人的“骑士”，后来在斯特阿的带领下独立于传统阿特图伊人。因此被传统阿特图伊人敌视。"
- kos_AatTuierhkovo_Moarasrasts_desc: "原始阿特图伊人的骑士阶级其特维儿赫特-斯瓦嚓有为星空而战的传统，他们逐渐与传统阿特图伊儿-其特维儿赫特的信仰产生偏差，但总体体还是相安无事，直到阿儿朵斯父子建立阿特图伊-莫阿朵腊刺，大部分其特维儿赫特信徒改信组织化的莫阿朵腊刺，与只信仰夜晚的斯瓦嚓不同甚至是差别甚远，他们认为太阳是一个独立的神，他们开始大肆抓捕斯瓦嚓派，直到斯特阿把斯瓦嚓派信徒组织在一起。"
+ kos_swacha_aateerhert_desc: "原始阿特图伊人的骑士阶级其特维儿赫特-斯瓦嚓有为星空而战的传统，他们逐渐与传统阿特图伊儿-其特维儿赫特的信仰产生偏差，但总体体还是相安无事，直到阿儿朵斯父子建立图伊派，大部分其特维儿赫特信徒改信组织化的图伊派，与只信仰黑夜的斯瓦嚓不同甚至是差别甚远，他们认为太阳是一个独立的神，他们开始大肆抓捕斯瓦嚓派，直到斯特阿把斯瓦嚓派信徒组织在一起。"
  #简介
- kos_AatTuierhkovo_Moarasrasts_high_god_name: "星辰"
- kos_AatTuierhkovo_Moarasrasts_high_god_name_possessive: "星辰"
+ kos_swacha_aateerhert_high_god_name: "星辰"
+ kos_swacha_aateerhert_high_god_name_possessive: "星辰"
  #至高神
- kos_AatTuierhkovo_Moarasrasts_high_god_name_alternate: "繁星"
- kos_AatTuierhkovo_Moarasrasts_high_god_name_alternate_possessive: "繁星"
+ kos_swacha_aateerhert_high_god_name_alternate: "繁星"
+ kos_swacha_aateerhert_high_god_name_alternate_possessive: "繁星"
  #至高神变体
- kos_AatTuierhkovo_Moarasrasts_creator_god_name: "星辰"
- kos_AatTuierhkovo_Moarasrasts_creator_god_name_possessive: "星辰"
+ kos_swacha_aateerhert_creator_god_name: "星辰"
+ kos_swacha_aateerhert_creator_god_name_possessive: "星辰"
  #创世神
- kos_AatTuierhkovo_Moarasrasts_health_god_name: "星辰"
- kos_AatTuierhkovo_Moarasrasts_health_god_name_possessive: "星辰"
+ kos_swacha_aateerhert_health_god_name: "星辰"
+ kos_swacha_aateerhert_health_god_name_possessive: "星辰"
  #健康神
- kos_AatTuierhkovo_Moarasrasts_fertility_god_name: "星辰"
- kos_AatTuierhkovo_Moarasrasts_fertility_god_name_possessive: "星辰"
+ kos_swacha_aateerhert_fertility_god_name: "星辰"
+ kos_swacha_aateerhert_fertility_god_name_possessive: "星辰"
  #生育神
- kos_AatTuierhkovo_Moarasrasts_wealth_god_name: "星辰"
- kos_AatTuierhkovo_Moarasrasts_wealth_god_name_possessive: "星辰"
+ kos_swacha_aateerhert_wealth_god_name: "星辰"
+ kos_swacha_aateerhert_wealth_god_name_possessive: "星辰"
  #财神
- kos_AatTuierhkovo_Moarasrasts_household_god_name: "星辰"
- kos_AatTuierhkovo_Moarasrasts_household_god_name_possessive: "星辰"
+ kos_swacha_aateerhert_household_god_name: "星辰"
+ kos_swacha_aateerhert_household_god_name_possessive: "星辰"
  #家庭神
- kos_AatTuierhkovo_Moarasrasts_fate_god_name: "星辰"
- kos_AatTuierhkovo_Moarasrasts_fate_god_name_possessive: "星辰"
+ kos_swacha_aateerhert_fate_god_name: "星辰"
+ kos_swacha_aateerhert_fate_god_name_possessive: "星辰"
  #命运神
- kos_AatTuierhkovo_Moarasrasts_knowledge_god_name: "星辰"
- kos_AatTuierhkovo_Moarasrasts_knowledge_god_name_possessive: "星辰"
+ kos_swacha_aateerhert_knowledge_god_name: "星辰"
+ kos_swacha_aateerhert_knowledge_god_name_possessive: "星辰"
  #知识神
- kos_AatTuierhkovo_Moarasrasts_war_god_name: "斯特阿"
- kos_AatTuierhkovo_Moarasrasts_war_god_name_possessive: "斯特阿"
+ kos_swacha_aateerhert_war_god_name: "斯特阿"
+ kos_swacha_aateerhert_war_god_name_possessive: "斯特阿"
  #战争神
- kos_AatTuierhkovo_Moarasrasts_trickster_god_name: "星辰"
- kos_AatTuierhkovo_Moarasrasts_trickster_god_name_possessive: "星辰"
+ kos_swacha_aateerhert_trickster_god_name: "星辰"
+ kos_swacha_aateerhert_trickster_god_name_possessive: "星辰"
  #骗子神
- kos_AatTuierhkovo_Moarasrasts_night_god_name: "星辰"
- kos_AatTuierhkovo_Moarasrasts_night_god_name_possessive: "星辰"
+ kos_swacha_aateerhert_night_god_name: "星辰"
+ kos_swacha_aateerhert_night_god_name_possessive: "星辰"
  #夜神
- kos_AatTuierhkovo_Moarasrasts_water_god_name: "星辰"
- kos_AatTuierhkovo_Moarasrasts_water_god_name_possessive: "星辰"
+ kos_swacha_aateerhert_water_god_name: "星辰"
+ kos_swacha_aateerhert_water_god_name_possessive: "星辰"
  #水神
- kos_AatTuierhkovo_Moarasrasts_devil_name: "阿儿朵斯"
- kos_AatTuierhkovo_Moarasrasts_devil_name_possessive: "阿儿朵斯"
+ kos_swacha_aateerhert_devil_name: "阿儿朵斯"
+ kos_swacha_aateerhert_devil_name_possessive: "阿儿朵斯"
  #魔鬼
- kos_AatTuierhkovo_Moarasrasts_evil_god: "阿儿朵斯"
- kos_AatTuierhkovo_Moarasrasts_evil_god_possessive: "阿儿朵斯"
+ kos_swacha_aateerhert_evil_god: "阿儿朵斯"
+ kos_swacha_aateerhert_evil_god_possessive: "阿儿朵斯"
  #邪神
- kos_AatTuierhkovo_Moarasrasts_house_of_worship: "空地"
- kos_AatTuierhkovo_Moarasrasts_house_of_worship_plural: "空地"
+ kos_swacha_aateerhert_house_of_worship: "空地"
+ kos_swacha_aateerhert_house_of_worship_plural: "空地"
  #礼拜堂
- kos_AatTuierhkovo_Moarasrasts_religious_symbol: "其特维阿儿其赫特"
+ kos_swacha_aateerhert_religious_symbol: "其特维阿儿其赫特"
  #宗教象征
- kos_AatTuierhkovo_Moarasrasts_religious_text: "《斯特瓦嚓》"
+ kos_swacha_aateerhert_religious_text: "《斯特瓦嚓》"
  #宗教经文
- kos_AatTuierhkovo_Moarasrasts_religious_head_title: "斯特阿阿耳" #向斯特阿一样统治
+ kos_swacha_aateerhert_religious_head_title: "斯特阿阿耳" #向斯特阿一样统治
  #宗教领袖
- kos_AatTuierhkovo_Moarasrasts_religious_head_title_name: "斯瓦嚓儿其刺"
+ kos_swacha_aateerhert_religious_head_title_name: "斯瓦嚓儿其刺"
  #宗教领袖头衔
- kos_AatTuierhkovo_Moarasrasts_devotee_male: "斯特瓦嚓" #作为斯瓦嚓接近斯特阿，但斯特阿已经没有阿了，表示逐渐融为一体
- kos_AatTuierhkovo_Moarasrasts_devotee_male_plural: "斯特瓦嚓"
+ kos_swacha_aateerhert_devotee_male: "斯特瓦嚓" #作为斯瓦嚓接近斯特阿，但斯特阿已经没有阿了，表示逐渐融为一体
+ kos_swacha_aateerhert_devotee_male_plural: "斯特瓦嚓"
  #男性修士
- kos_AatTuierhkovo_Moarasrasts_devotee_female: "斯特瓦嚓"
- kos_AatTuierhkovo_Moarasrasts_devotee_female_plural: "斯特瓦嚓"
+ kos_swacha_aateerhert_devotee_female: "斯特瓦嚓"
+ kos_swacha_aateerhert_devotee_female_plural: "斯特瓦嚓"
  #女性修士
- kos_AatTuierhkovo_Moarasrasts_devotee_neuter: "斯特瓦嚓"
- kos_AatTuierhkovo_Moarasrasts_devotee_neuter_plural: "斯特瓦嚓"
+ kos_swacha_aateerhert_devotee_neuter: "斯特瓦嚓"
+ kos_swacha_aateerhert_devotee_neuter_plural: "斯特瓦嚓"
  #中性修士
- kos_AatTuierhkovo_Moarasrasts_court_chaplain: "斯特阿瓦嚓" #作为斯瓦嚓接近斯特阿
- kos_AatTuierhkovo_Moarasrasts_court_chaplains_possessive: "斯特阿瓦嚓"
+ kos_swacha_aateerhert_court_chaplain: "斯特阿瓦嚓" #作为斯瓦嚓接近斯特阿
+ kos_swacha_aateerhert_court_chaplains_possessive: "斯特阿瓦嚓"
  #牧师
- kos_AatTuierhkovo_Moarasrasts_bishop: "斯特阿瓦嚓"
- kos_AatTuierhkovo_Moarasrasts_bishop_plural: "斯特阿瓦嚓"
+ kos_swacha_aateerhert_bishop: "斯特阿瓦嚓"
+ kos_swacha_aateerhert_bishop_plural: "斯特阿瓦嚓"
  #主教
- kos_AatTuierhkovo_Moarasrasts_divinerealm: "星空"
+ kos_swacha_aateerhert_divinerealm: "星空"
  #神界
- kos_AatTuierhkovo_Moarasrasts_positive_afterlife: "永寂"
+ kos_swacha_aateerhert_positive_afterlife: "永寂"
  #天堂
- kos_AatTuierhkovo_Moarasrasts_negative_afterlife: "永寂"
+ kos_swacha_aateerhert_negative_afterlife: "永寂"
  #阴府
- kos_AatTuierhkovo_Moarasrasts_death_deity_name: "死亡"
- kos_AatTuierhkovo_Moarasrasts_death_deity_name_possessive: "死亡"
+ kos_swacha_aateerhert_death_deity_name: "死亡"
+ kos_swacha_aateerhert_death_deity_name_possessive: "死亡"
  #死神
- kos_AatTuierhkovo_Moarasrasts_witchgodname_name: "星辰"
- kos_AatTuierhkovo_Moarasrasts_witchgodname_name_possessive: "星辰"
+ kos_swacha_aateerhert_witchgodname_name: "星辰"
+ kos_swacha_aateerhert_witchgodname_name_possessive: "星辰"
  #巫术神
- councillor_court_chaplain_kos_AatTuierhkovo_Moarasrasts_county: "斯特阿瓦嚓"
- councillor_court_chaplain_kos_AatTuierhkovo_Moarasrasts_county_possessive: "斯特阿瓦嚓"
+ councillor_court_chaplain_kos_swacha_aateerhert_county: "斯特阿瓦嚓"
+ councillor_court_chaplain_kos_swacha_aateerhert_county_possessive: "斯特阿瓦嚓"
  #伯爵级宫廷主教
- councillor_court_chaplain_kos_AatTuierhkovo_Moarasrasts_duchy: "斯特阿瓦嚓"
- councillor_court_chaplain_kos_AatTuierhkovo_Moarasrasts_duchy_possessive: "斯特阿瓦嚓"
+ councillor_court_chaplain_kos_swacha_aateerhert_duchy: "斯特阿瓦嚓"
+ councillor_court_chaplain_kos_swacha_aateerhert_duchy_possessive: "斯特阿瓦嚓"
  #公国级宫廷主教
- councillor_court_chaplain_kos_AatTuierhkovo_Moarasrasts_kingdom: "斯特阿瓦嚓"
- councillor_court_chaplain_kos_AatTuierhkovo_Moarasrasts_kingdom_possessive: "斯特阿瓦嚓"
+ councillor_court_chaplain_kos_swacha_aateerhert_kingdom: "斯特阿瓦嚓"
+ councillor_court_chaplain_kos_swacha_aateerhert_kingdom_possessive: "斯特阿瓦嚓"
  #王国级宫廷主教
- councillor_court_chaplain_kos_AatTuierhkovo_Moarasrasts_empire: "斯特阿瓦嚓"
- councillor_court_chaplain_kos_AatTuierhkovo_Moarasrasts_empire_possessive: "斯特阿瓦嚓"
+ councillor_court_chaplain_kos_swacha_aateerhert_empire: "斯特阿瓦嚓"
+ councillor_court_chaplain_kos_swacha_aateerhert_empire_possessive: "斯特阿瓦嚓"
  #帝国级宫廷男主教
- councillor_court_chaplain_kos_AatTuierhkovo_Moarasrasts_empire_female: "斯特阿瓦嚓"
- councillor_court_chaplain_kos_AatTuierhkovo_Moarasrasts_empire_female_possessive: "斯特阿瓦嚓"
+ councillor_court_chaplain_kos_swacha_aateerhert_empire_female: "斯特阿瓦嚓"
+ councillor_court_chaplain_kos_swacha_aateerhert_empire_female_possessive: "斯特阿瓦嚓"
  #帝国级宫廷女主教
  
- kos_AatTuierhkovo_Moaadorasts: "阿特图伊儿-莫阿朵腊刺"
- kos_AatTuierhkovo_Moaadorasts_adj: "阿特图伊儿赫特-莫阿朵腊刺"
+ kos_tui_aateerhert: "图伊派"
+ kos_tui_aateerhert_adj: "图伊派阿特儿赫特"
  #名称
- kos_AatTuierhkovo_Moaadorasts_adherent: "阿特图伊阿朵"
- kos_AatTuierhkovo_Moaadorasts_adherent_plural: "阿特图伊阿朵"
+ kos_tui_aateerhert_adherent: "信仰图伊派的人"
+ kos_tui_aateerhert_adherent_plural: "信仰图伊派的人"
  #信徒
- kos_AatTuierhkovo_Moaadorasts_desc: "在莫腊刺时期阿特图伊人大部分都信仰未改革的阿特图伊儿-其特维儿赫特，少部分信仰阿特图伊儿-斯瓦嚓，阿儿朵斯致力要规范化其特维儿赫特，但先阿规范未半而中道崩殂。阿儿朵斯二世继续规范化，但在里面夹带私货，认为世界上不止繁星一个神，而是两个神，分别是代表黑夜的繁星和代表白昼的图伊，他们与只信仰繁星的阿特图伊儿-斯瓦嚓对立。"
+ kos_tui_aateerhert_desc: "在莫腊刺时期阿特图伊人大部分都信仰未改革的阿特图伊儿-其特维儿赫特，少部分信仰斯瓦嚓派，阿儿朵斯致力要规范化其特维儿赫特，但先阿规范未半而中道崩殂。阿儿朵斯二世继续规范化，但在里面夹带私货，认为世界上不止繁星一个神，而是两个神，分别是代表黑夜的繁星和代表白昼的图伊，他们与只信仰繁星的斯瓦嚓派对立。"
  #简介
- kos_AatTuierhkovo_Moaadorasts_high_god_name: "星辰"
- kos_AatTuierhkovo_Moaadorasts_high_god_name_possessive: "星辰"
+ kos_tui_aateerhert_high_god_name: "星辰"
+ kos_tui_aateerhert_high_god_name_possessive: "星辰"
  #至高神
- kos_AatTuierhkovo_Moaadorasts_high_god_name_alternate: "繁星"
- kos_AatTuierhkovo_Moaadorasts_high_god_name_alternate_possessive: "繁星"
+ kos_tui_aateerhert_high_god_name_alternate: "繁星"
+ kos_tui_aateerhert_high_god_name_alternate_possessive: "繁星"
  #至高神变体
- kos_AatTuierhkovo_Moaadorasts_creator_god_name: "星辰"
- kos_AatTuierhkovo_Moaadorasts_creator_god_name_possessive: "星辰"
+ kos_tui_aateerhert_creator_god_name: "星辰"
+ kos_tui_aateerhert_creator_god_name_possessive: "星辰"
  #创世神
- kos_AatTuierhkovo_Moaadorasts_health_god_name: "图伊"
- kos_AatTuierhkovo_Moaadorasts_health_god_name_possessive: "图伊"
+ kos_tui_aateerhert_health_god_name: "图伊"
+ kos_tui_aateerhert_health_god_name_possessive: "图伊"
  #健康神
- kos_AatTuierhkovo_Moaadorasts_fertility_god_name: "星辰"
- kos_AatTuierhkovo_Moaadorasts_fertility_god_name_possessive: "星辰"
+ kos_tui_aateerhert_fertility_god_name: "星辰"
+ kos_tui_aateerhert_fertility_god_name_possessive: "星辰"
  #生育神
- kos_AatTuierhkovo_Moaadorasts_wealth_god_name: "星辰"
- kos_AatTuierhkovo_Moaadorasts_wealth_god_name_possessive: "星辰"
+ kos_tui_aateerhert_wealth_god_name: "星辰"
+ kos_tui_aateerhert_wealth_god_name_possessive: "星辰"
  #财神
- kos_AatTuierhkovo_Moaadorasts_household_god_name: "星辰"
- kos_AatTuierhkovo_Moaadorasts_household_god_name_possessive: "星辰"
+ kos_tui_aateerhert_household_god_name: "星辰"
+ kos_tui_aateerhert_household_god_name_possessive: "星辰"
  #家庭神
- kos_AatTuierhkovo_Moaadorasts_fate_god_name: "图伊"
- kos_AatTuierhkovo_Moaadorasts_fate_god_name_possessive: "图伊"
+ kos_tui_aateerhert_fate_god_name: "图伊"
+ kos_tui_aateerhert_fate_god_name_possessive: "图伊"
  #命运神
- kos_AatTuierhkovo_Moaadorasts_knowledge_god_name: "阿儿朵斯"
- kos_AatTuierhkovo_Moaadorasts_knowledge_god_name_possessive: "阿儿朵斯"
+ kos_tui_aateerhert_knowledge_god_name: "阿儿朵斯"
+ kos_tui_aateerhert_knowledge_god_name_possessive: "阿儿朵斯"
  #知识神
- kos_AatTuierhkovo_Moaadorasts_war_god_name: "图伊"
- kos_AatTuierhkovo_Moaadorasts_war_god_name_possessive: "图伊"
+ kos_tui_aateerhert_war_god_name: "图伊"
+ kos_tui_aateerhert_war_god_name_possessive: "图伊"
  #战争神
- kos_AatTuierhkovo_Moaadorasts_trickster_god_name: "星辰"
- kos_AatTuierhkovo_Moaadorasts_trickster_god_name_possessive: "星辰"
+ kos_tui_aateerhert_trickster_god_name: "星辰"
+ kos_tui_aateerhert_trickster_god_name_possessive: "星辰"
  #骗子神
- kos_AatTuierhkovo_Moaadorasts_night_god_name: "星辰"
- kos_AatTuierhkovo_Moaadorasts_night_god_name_possessive: "星辰"
+ kos_tui_aateerhert_night_god_name: "星辰"
+ kos_tui_aateerhert_night_god_name_possessive: "星辰"
  #夜神
- kos_AatTuierhkovo_Moaadorasts_water_god_name: "星辰"
- kos_AatTuierhkovo_Moaadorasts_water_god_name_possessive: "星辰"
+ kos_tui_aateerhert_water_god_name: "星辰"
+ kos_tui_aateerhert_water_god_name_possessive: "星辰"
  #水神
- kos_AatTuierhkovo_Moaadorasts_devil_name: "斯特阿"
- kos_AatTuierhkovo_Moaadorasts_devil_name_possessive: "斯特阿"
+ kos_tui_aateerhert_devil_name: "斯特阿"
+ kos_tui_aateerhert_devil_name_possessive: "斯特阿"
  #魔鬼
- kos_AatTuierhkovo_Moaadorasts_evil_god: "斯特阿"
- kos_AatTuierhkovo_Moaadorasts_evil_god_possessive: "斯特阿"
+ kos_tui_aateerhert_evil_god: "斯特阿"
+ kos_tui_aateerhert_evil_god_possessive: "斯特阿"
  #邪神
- kos_AatTuierhkovo_Moaadorasts_house_of_worship: "空地"
- kos_AatTuierhkovo_Moaadorasts_house_of_worship_plural: "空地"
+ kos_tui_aateerhert_house_of_worship: "空地"
+ kos_tui_aateerhert_house_of_worship_plural: "空地"
  #礼拜堂
- kos_AatTuierhkovo_Moaadorasts_religious_symbol: "星日"
+ kos_tui_aateerhert_religious_symbol: "星日"
  #宗教象征
- kos_AatTuierhkovo_Moaadorasts_religious_text: "《阿儿朵斯父子》"
+ kos_tui_aateerhert_religious_text: "《阿儿朵斯父子》"
  #宗教经文
- kos_AatTuierhkovo_Moaadorasts_religious_head_title: "阿尔图伊 #在莫阿朵腊刺派里阿尔是神职人员的称呼，图伊代表神圣
+ kos_tui_aateerhert_religious_head_title: "阿尔图伊 #在莫阿朵腊刺派里阿尔是神职人员的称呼，图伊代表神圣
  #宗教领袖
- kos_AatTuierhkovo_Moaadorasts_religious_head_title_name: "阿尔议会"
+ kos_tui_aateerhert_religious_head_title_name: "阿尔议会"
  #宗教领袖头衔
- kos_AatTuierhkovo_Moaadorasts_devotee_male: "阿尔嚓" #在莫阿朵腊刺派里阿尔是神职人员的称呼，嚓是指斯瓦嚓，最开始是指改信阿朵腊刺派的斯瓦嚓人，后来变成为神奉献自己的人
- kos_AatTuierhkovo_Moaadorasts_devotee_male_plural: "阿尔嚓"
+ kos_tui_aateerhert_devotee_male: "阿尔嚓" #在莫阿朵腊刺派里阿尔是神职人员的称呼，嚓是指斯瓦嚓，最开始是指改信阿朵腊刺派的斯瓦嚓人，后来变成为神奉献自己的人
+ kos_tui_aateerhert_devotee_male_plural: "阿尔嚓"
  #男性修士
- kos_AatTuierhkovo_Moaadorasts_devotee_female: "阿尔嚓"
- kos_AatTuierhkovo_Moaadorasts_devotee_female_plural: "阿尔嚓"
+ kos_tui_aateerhert_devotee_female: "阿尔嚓"
+ kos_tui_aateerhert_devotee_female_plural: "阿尔嚓"
  #女性修士
- kos_AatTuierhkovo_Moaadorasts_devotee_neuter: "阿尔嚓"
- kos_AatTuierhkovo_Moaadorasts_devotee_neuter_plural: "阿尔嚓"
+ kos_tui_aateerhert_devotee_neuter: "阿尔嚓"
+ kos_tui_aateerhert_devotee_neuter_plural: "阿尔嚓"
  #中性修士
- kos_AatTuierhkovo_Moaadorasts_court_chaplain: "阿尔" #在莫阿朵腊刺派里阿尔是神职人员的称呼
- kos_AatTuierhkovo_Moaadorasts_court_chaplains_possessive: "阿尔"
+ kos_tui_aateerhert_court_chaplain: "阿尔" #在莫阿朵腊刺派里阿尔是神职人员的称呼
+ kos_tui_aateerhert_court_chaplains_possessive: "阿尔"
  #牧师
- kos_AatTuierhkovo_Moaadorasts_bishop: "阿尔"
- kos_AatTuierhkovo_Moaadorasts_bishop_plural: "阿尔"
+ kos_tui_aateerhert_bishop: "阿尔"
+ kos_tui_aateerhert_bishop_plural: "阿尔"
  #主教
- kos_AatTuierhkovo_Moaadorasts_divinerealm: "星空"
+ kos_tui_aateerhert_divinerealm: "星空"
  #神界
- kos_AatTuierhkovo_Moaadorasts_positive_afterlife: "永寂"
+ kos_tui_aateerhert_positive_afterlife: "永寂"
  #天堂
- kos_AatTuierhkovo_Moaadorasts_negative_afterlife: "永寂"
+ kos_tui_aateerhert_negative_afterlife: "永寂"
  #阴府
- kos_AatTuierhkovo_Moaadorasts_death_deity_name: "死亡"
- kos_AatTuierhkovo_Moaadorasts_death_deity_name_possessive: "死亡"
+ kos_tui_aateerhert_death_deity_name: "死亡"
+ kos_tui_aateerhert_death_deity_name_possessive: "死亡"
  #死神
- kos_AatTuierhkovo_Moaadorasts_witchgodname_name: "星辰"
- kos_AatTuierhkovo_Moaadorasts_witchgodname_name_possessive: "星辰"
+ kos_tui_aateerhert_witchgodname_name: "星辰"
+ kos_tui_aateerhert_witchgodname_name_possessive: "星辰"
  #巫术神
- councillor_court_chaplain_kos_AatTuierhkovo_Moaadorasts_county: "阿尔"
- councillor_court_chaplain_kos_AatTuierhkovo_Moaadorasts_county_possessive: "阿尔"
+ councillor_court_chaplain_kos_tui_aateerhert_county: "阿尔"
+ councillor_court_chaplain_kos_tui_aateerhert_county_possessive: "阿尔"
  #伯爵级宫廷主教
- councillor_court_chaplain_kos_AatTuierhkovo_Moaadorasts_duchy: "阿尔"
- councillor_court_chaplain_kos_AatTuierhkovo_Moaadorasts_duchy_possessive: "阿尔"
+ councillor_court_chaplain_kos_tui_aateerhert_duchy: "阿尔"
+ councillor_court_chaplain_kos_tui_aateerhert_duchy_possessive: "阿尔"
  #公国级宫廷主教
- councillor_court_chaplain_kos_AatTuierhkovo_Moaadorasts_kingdom: "阿尔"
- councillor_court_chaplain_kos_AatTuierhkovo_Moaadorasts_kingdom_possessive: "阿尔"
+ councillor_court_chaplain_kos_tui_aateerhert_kingdom: "阿尔"
+ councillor_court_chaplain_kos_tui_aateerhert_kingdom_possessive: "阿尔"
  #王国级宫廷主教
- councillor_court_chaplain_kos_AatTuierhkovo_Moaadorasts_empire: "阿尔"
- councillor_court_chaplain_kos_AatTuierhkovo_Moaadorasts_empire_possessive: "阿尔"
+ councillor_court_chaplain_kos_tui_aateerhert_empire: "阿尔"
+ councillor_court_chaplain_kos_tui_aateerhert_empire_possessive: "阿尔"
  #帝国级宫廷男主教
- councillor_court_chaplain_kos_AatTuierhkovo_Moaadorasts_empire_female: "阿尔"
- councillor_court_chaplain_kos_AatTuierhkovo_Moaadorasts_empire_female_possessive: "阿尔"
+ councillor_court_chaplain_kos_tui_aateerhert_empire_female: "阿尔"
+ councillor_court_chaplain_kos_tui_aateerhert_empire_female_possessive: "阿尔"
  #帝国级宫廷女主教
  
  
@@ -1003,3 +1003,19 @@
  dynn_swacha: "斯瓦嚓"
  dynn_2_motto: "为星辰而战！"
  #SteA: "斯特阿"
+ 
+ #斗争
+ 
+ morasts_struggle: "后莫腊刺时代"
+ struggle_morasts_ending_disappearing_steppe_people_decision: "消失的草原民族"
+ struggle_morasts_ending_disappearing_steppe_people_decision_desc: "在征服莫腊刺大草原后，我们将让他们彻底消失。"
+ struggle_morasts_ending_disappearing_steppe_people_decision_confirm: "结束$morasts_struggle$"
+ struggle_morasts_ending_disappearing_steppe_people_decision_tooltip: "在时间的冲刷或战争的洗礼后，阿特图伊彻底成为了历史名词。"
+ struggle_morasts_ending_praise_the_sun_decision: "赞美太阳"
+ struggle_morasts_ending_praise_the_sun_decision_desc: "在征服了其他势力后，大草原将被冠以我的名字！"
+ struggle_morasts_ending_praise_the_sun_decision_confirm: "结束$morasts_struggle$"
+ struggle_morasts_ending_praise_the_sun_decision_tooltip: "赞美太阳，赞美图伊神，祂让我们胜利。"
+ struggle_morasts_ending_revival_swacha_decision: "复兴斯瓦嚓"
+ struggle_morasts_ending_revival_swacha_decision_desc: "在征服到图伊山圣地后，我们可以宣布正式恢复古斯瓦嚓国的疆域。"
+ struggle_morasts_ending_revival_swacha_decision_confirm: "结束$morasts_struggle$"
+ struggle_morasts_ending_revival_swacha_decision_tooltip: "在很久以前……"

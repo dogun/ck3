@@ -32,7 +32,7 @@
 	intrigue = 7
 	learning = 14
 	prowess = 15
-	religion = kos_AatTuierhkovo_Moarasrasts
+	religion = kos_swacha_aateerhert
 	culture = swacha
 	trait = education_martial_3
 	trait = diligent
