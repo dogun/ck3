@@ -38,9 +38,9 @@
 island_tuqi = {
 	color = { 0.55 0.35 0.44 }
 #颜色（rgb百分制/100）
-	created = 0.1.1
+	created = -1001.2.1
 #诞生时间
-	parents = {  }
+	parents = { tuqi }
 #由哪两个文化融合（只写一个就是分离）
 	ethos = ethos_bureaucratic
 #民族精神（ethos_bellicose = 好战 ethos_stoic = 坚忍 ethos_bureaucratic = 官僚 ethos_spiritual = 虔信 ethos_courtly = 守礼 ethos_egalitarian = 平等 ethos_communal = 集体）
@@ -52,8 +52,8 @@ island_tuqi = {
 #军事（martial_custom_male_only = 仅男性 martial_custom_female_only = 仅女性 martial_custom_equal = 男女平等）
 	traditions = {
 #传统
-		tradition_insular_spirit
-		tradition_reavers
+		tradition_hunters
+		tradition_maritime_mercantilism
 		tradition_fp1_coastal_warriors
 		tradition_philosopher_culture
 	}

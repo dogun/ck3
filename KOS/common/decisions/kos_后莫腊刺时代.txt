@@ -53,7 +53,7 @@ struggle_morasts_ending_praise_the_sun_decision = {
 
 	is_valid = {
 		is_available_adult = yes
-		completely_controls = title:e_AtETuYi
+		completely_controls = title:e_ATeTuYi
 		completely_controls = title:e_SiWaCa
 		has_faith = faith:kos_tui_aateerhert
 	}

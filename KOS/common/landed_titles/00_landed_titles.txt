@@ -588,22 +588,21 @@ e_SiWaCa = {	#斯瓦嚓
 #颜色
 				}
 			}
+		}
 
-			c_BianYuanZouLang = {	#边缘走廊
+		d_ZHongDongSiWaCzaSHan = {	#中东斯瓦嚓山
+#公国
+			color = { 42 42 72 }
+#颜色
+			capital = c_DiErFoLuoLiYa
+#首都
+			c_DiErFoLuoLiYa = {	#第二佛罗利亚（赫沃图其 赫）
 #伯爵领
 				color = { 42 42 72 }
 #颜色
-				b_DongBianYuanZouLang = {	#东边缘走廊
+				b_DiErFoLuoLiYa = {	#第二佛罗利亚（赫沃图其 赫）
 #男爵领
-					province = 59
-#拥有
-					color = { 42 42 72 }
-#颜色
-				}
-
-				b_XiBianYuanZouLang = {	#西边缘走廊
-#男爵领
-					province = 60
+					province = 26
 #拥有
 					color = { 42 42 72 }
 #颜色
@@ -613,6 +612,76 @@ e_SiWaCa = {	#斯瓦嚓
 		}
 	}
 }
+
+
+#e_ATeTuYi = {	#阿特图伊
+#帝国
+#	color = { 181 119 33 }
+#颜色
+#	capital = c_CHaoSHengLuYiDuan
+#首都
+#	ai_primary_priority = {
+#ai创建倾向
+#		add = 10
+#	}
+#	
+#	k_DongAtETuYi = {	#东阿特图伊
+#王国
+#	color = { 181 119 33 }
+#颜色
+#		capital = c_CHaoSHengLuYiDuan
+#首都
+#		ai_primary_priority = {
+#ai创建倾向
+#			add = 10
+#		}
+#		
+#		d_CHaoSHengLu = {	#朝圣陆
+#公国
+#			color = { 181 119 33 }
+#颜色
+#			capital = c_CHaoSHengLuYiDuan
+#首都
+#			c_CHaoSHengLuYiDuan = {	#朝圣陆一段
+#伯爵领
+#				color = { 181 119 33 }
+#颜色
+#				b_BianYuanZouLang = {	#边缘走廊
+#男爵领
+#					province = 61
+#拥有
+#					color = { 181 119 33 }
+#颜色
+#				}
+#
+#				b_CHaoSHengLu_CHuFai = {	#朝圣陆：出发
+#男爵领
+#					province = 62
+#拥有
+#					color = { 181 119 33 }
+#颜色
+#				}
+#
+#				b_CHaoSHengLu_WeiXian = {	#朝圣陆：危险
+#男爵领
+#					province = 63
+#拥有
+#					color = { 181 119 33 }
+#颜色
+#				}
+#
+#				b_CHaoSHengLu_XiWang = {	#朝圣陆：希望
+#男爵领
+#					province = 64
+#拥有
+#					color = { 181 119 33 }
+#颜色
+#				}
+#			}
+#
+#		}
+#	}
+#}
 
 # These titles cut hundreds of errors from logs. 
 e_hre = { landless = yes }

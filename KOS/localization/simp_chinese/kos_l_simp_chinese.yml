@@ -84,6 +84,15 @@
  b_XiaDongBeiSiWaCaSHanJiao: "下东北斯瓦嚓山脚"
  b_SHangDongBeiSiWaCaSHanJiao: "上东北斯瓦嚓山脚"
  
+ e_ATeTuYi: "阿特图伊"
+ k_DongAtETuYi: "东阿特图伊"
+ d_CHaoSHengLu: "朝圣陆"
+ c_CHaoSHengLuYiDuan: "朝圣陆一段"
+ b_BianYuanZouLang: "边缘走廊"
+ b_CHaoSHengLu_CHuFai: "朝圣陆：出发"
+ b_CHaoSHengLu_WeiXian: "朝圣陆：危险"
+ b_CHaoSHengLu_XiWang: "朝圣陆：希望"
+ 
  #宗教
  
  rf_kos_WuSHenLun: "无神论宗教组"
@@ -884,17 +893,25 @@
  
  #文化
  
- heritage_aattui_name: "阿特图伊"
+ heritage_aattui_name: "莫赫阿"
  language_aattui_name: "通用图伊语"
- name_list_aattui: "阿特图伊"
+ name_list_aattui: "莫赫阿"
  steppe_building_gfx: "大草原"
  steppe_coa_gfx: "大草原"
  mongol_clothing_gfx: "大草原"
  mongol_coa_gfx: "大草原"
  mongol_unit_gfx: "大草原"
+ 
+ mora: "莫腊"
+ tui: "图伊"
+ aattui: "阿特图伊"
  morasts: "莫腊刺"
- swacha: "斯瓦嚓"
  leilida: "垒利达"
+ aater: "阿特"
+ qittvo_errhearter_swacha: "其特维儿赫特-斯瓦嚓"
+ swacha: "斯瓦嚓"
+ tuqi_swacha: "图其-斯瓦嚓"
+ 
  
  Teal: "垒特阿尔"
  litea: "垒利特阿"

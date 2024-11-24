@@ -74,12 +74,17 @@
 57;134;73;149;XiaDongBeiSiWaCaSHanJiao;	#下东北斯瓦嚓山脚
 58;74;4;91;SHangDongBeiSiWaCaSHanJiao;x;	#上东北斯瓦嚓山脚
 
-59;143;186;0;DongBianYuanZouLang;	#东边缘走廊
-60;231;233;80;XiBianYuanZouLang;x;	#西边缘走廊
+#59;231;233;80;CHaoSHengLuHuangDi;x;	#朝圣陆荒地
+#60;189;193;102;XiCHaoSHengLuHuangDi;x;	#西朝圣陆荒地
 
+#61;143;186;0;BianYuanZouLang;	#东边缘走廊
+#62;251;255;0;CHaoSHengLu_CHuFai;	#朝圣陆：出发
+#63;217;220;43;CHaoSHengLu_WeiXian;	#朝圣陆：危险
+#64;219;221;87;CHaoSHengLu_XiWang;	#朝圣陆：希望
+#
 #61;196;94;94;DongATeTuYi;	#东阿特图伊
 #62;60;75;165;XiBianYuanZouLang;x;	#阿特图伊-斯瓦嚓
 #63;131;132;67;XiBianYuanZouLang;x;	#特图嚓
-
-61;255;255;255;CS;x;
-62;255;0;128;CS2;x;
+#
+59;255;255;255;CS;x;
+60;255;0;128;CS2;x;
