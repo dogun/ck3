@@ -596,13 +596,63 @@ e_SiWaCa = {	#斯瓦嚓
 #颜色
 			capital = c_DiErFoLuoLiYa
 #首都
-			c_DiErFoLuoLiYa = {	#第二佛罗利亚（赫沃图其 赫）
+			c_XiaBaoLiuDi = {	#下阿特人的土地/下保留地（下西特赫伐耳-阿特）
 #伯爵领
 				color = { 42 42 72 }
 #颜色
-				b_DiErFoLuoLiYa = {	#第二佛罗利亚（赫沃图其 赫）
+				b_XinTuDiBao = {	#新土地堡
 #男爵领
-					province = 26
+					province = 60
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_XinGeABu = {	#新格阿布
+#男爵领
+					province = 61
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_ZHongBaoLiuDi = {	#中阿特人的土地/中保留地（中西特赫伐耳-阿特）
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_HuangJinDi = {	#黄金地
+#男爵领
+					province = 62
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_XiHuangJinDi = {	#西黄金地
+#男爵领
+					province = 63
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_SHangBaoLiuDi = {	#上阿特人的土地/上保留地（上西特赫伐耳-阿特）
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_GanDiaoATe = {	#干掉阿特（赫赫 阿特）
+#男爵领
+					province = 64
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_XiGanDiaoATe = {	#西干掉阿特（西 赫赫 阿特）
+#男爵领
+					province = 65
 #拥有
 					color = { 42 42 72 }
 #颜色

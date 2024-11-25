@@ -3,3 +3,93 @@
 	religion = kos_swacha_aateerhert
 	holding = tribal_holding
 }
+27 = {		#临近佛罗利亚海（赫沃图其 阿赫其特）
+	holding = tribal_holding
+}
+28 = {		#临近佛罗利亚湾（赫沃图其 阿赫其特-斯）
+	holding = tribal_holding
+}
+
+29 = {		#下守望（下 瓦阿图）
+	culture = swacha
+	religion = kos_swacha_aateerhert
+	holding = tribal_holding
+}
+30 = {		#中守望（中 瓦阿图）
+	holding = tribal_holding
+}
+31 = {		#上守望（上 瓦阿图）
+	holding = tribal_holding
+}
+
+32 = {		#东南斯瓦嚓山脚
+	culture = swacha
+	religion = kos_swacha_aateerhert
+	holding = none
+}
+33 = {		#土地堡（西特赫伐耳）
+	holding = tribal_holding
+}
+34 = {		#图其阿特（图特）
+	holding = city_holding
+}
+
+35 = {		#上滨海斯瓦嚓（上 斯瓦嚓 奥伊）
+	culture = swacha
+	religion = kos_swacha_aateerhert
+	holding = city_holding
+}
+36 = {		#下滨海斯瓦嚓（下 斯瓦嚓 奥伊）
+	holding = none
+}
+37 = {		#不陷落（赫赫 卡赫特）
+	holding = tribal_holding
+}
+
+38 = {		#勇士1（达腊 沃）
+	culture = swacha
+	religion = kos_swacha_aateerhert
+	holding = none
+}
+39 = {		#勇士2（达腊 赫）
+	holding = church_holding
+}
+40 = {		#勇士3（达腊 耳）
+	holding = tribal_holding
+}
+
+41 = {		#布（格阿布）
+	culture = swacha
+	religion = kos_swacha_aateerhert
+	holding = tribal_holding
+}
+42 = {		#滨海布（格阿布 奥伊）
+	holding = city_holding
+}
+43 = {		#东布（东格阿布）
+	holding = none
+}
+
+44 = {		#毒（达阿）
+	culture = swacha
+	religion = kos_swacha_aateerhert
+	holding = church_holding
+}
+45 = {		#布
+	holding = none
+}
+46 = {		#门（莫）
+	holding = tribal_holding
+}
+
+47 = {		#上东斯瓦嚓山脚
+	culture = swacha
+	religion = kos_swacha_aateerhert
+	holding = none
+}
+48 = {		#东斯瓦嚓山脚
+	holding = church_holding
+}
+49 = {		#下东斯瓦嚓山脚
+	holding = tribal_holding
+}

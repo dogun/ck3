@@ -59,6 +59,19 @@ c_DongBeiSiWaCaSHanJiao = {	#东北斯瓦嚓山脚
 	1.1.1 = { change_development_level = 3 }
 }
 
-c_BianYuanZouLang = {	#边缘走廊
+
+c_XiaBaoLiuDi = {	#下阿特人的土地/下保留地（下西特赫伐耳-阿特）
+	1.1.1 = { change_development_level = 6 }
+}
+
+c_ZHongBaoLiuDi = {	#中阿特人的土地/中保留地（中西特赫伐耳-阿特）
+	1.1.1 = { change_development_level = 8 }
+}
+
+c_SHangBaoLiuDi = {	#上阿特人的土地/上保留地（上西特赫伐耳-阿特）
 	1.1.1 = { change_development_level = 5 }
 }
+
+#c_BianYuanZouLang = {	#边缘走廊
+#	1.1.1 = { change_development_level = 5 }
+#}

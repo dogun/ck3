@@ -56,5 +56,10 @@
 56=drylands
 57=desert_mountains
 58=desert_mountains
-59=drylands
-60=drylands
+
+60=plains
+61=plains
+62=farmlands
+63=hills
+64=mountains
+65=mountains
