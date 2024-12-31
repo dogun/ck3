@@ -37,6 +37,7 @@
  
  e_SiWaCa: "斯瓦嚓"
  k_SiWaCaSHanMai: "斯瓦嚓山脉"
+ 
  d_DongSiWaCzaSHan: "东斯瓦嚓山"
  c_DiErFoLuoLiYa: "赫沃图其赫"
  b_DiErFoLuoLiYa: "赫沃图其赫"
@@ -72,7 +73,7 @@
  b_XiaDongSiWaCaSHanJiao: "下东斯瓦嚓山脚"
  c_SiWaCaZouLang: "斯瓦嚓走廊"
  b_YanHaiZouLang: "沿海走廊"
- b_SiWaCaZouLang: "克西特斯瓦嚓"
+ b_SiWaCaZouLang: "克西特-斯瓦嚓"
  c_SiWaCaLvZHou: "斯瓦嚓绿洲"
  b_SiWaCaLvZHouYiHao: "伊克沃"
  b_SiWaCaLvZHouErHao: "伊克赫"
@@ -83,6 +84,22 @@
  c_DongBeiSiWaCaSHanJiao: "东北斯瓦嚓山脚"
  b_XiaDongBeiSiWaCaSHanJiao: "下东北斯瓦嚓山脚"
  b_SHangDongBeiSiWaCaSHanJiao: "上东北斯瓦嚓山脚"
+ 
+ d_ZHongDongSiWaCzaSHan: "中东斯瓦嚓山"
+ c_XiaBaoLiuDi: "下西特赫伐耳-阿特"
+ b_XinTuDiBao: "新土地堡"
+ b_XinGeABu: "新格啊布"
+ c_ZHongBaoLiuDi: "中西特赫伐耳-阿特"
+ b_HuangJinDi: "黄金地"
+ b_XiHuangJinDi: "西黄金地"
+ c_SHangBaoLiuDi: "上西特赫伐耳-阿特"
+ b_GanDiaoATe: "赫赫阿特"
+ b_XiGanDiaoATe: "西赫赫阿特"
+ c_DongFuWen: "东阿特嚓斯"
+ b_YvDi: "鱼地"
+ b_CHaiFuDi: "财富地"
+ b_KuangDi: "矿地"
+ 
  
  e_ATeTuYi: "阿特图伊"
  k_DongAtETuYi: "东阿特图伊"
@@ -776,7 +793,7 @@
  kos_Tuqi_religion_adherent: "图其信徒"
  kos_Tuqi_religion_adherent_plural: "图其信徒"
  #kos_Tuqi_religion_desc: "图其信仰绕不开图其二字，图其人，准确来说是山地图其人认为“图其”是死后世界，是唯一真神，是世界的一切，这毫无疑问是阿特图伊人的入侵导致的，阿特图伊人的入侵还导致原始图其人认为世界是两层的。"
- kos_Tuqi_religion_desc: "图其信仰绕不开图其二字，图其人，准确来说是山地图其人认为“图其”是死后世界，是唯一真神，是世界的一切，这毫无疑问是阿特图伊人的入侵导致的.图其信仰还有一点很奇怪，祭司的权力非常小，甚至可以被随意更换，但他们掌管司法，有处刑的权力。"
+ kos_Tuqi_religion_desc: "图其信仰绕不开图其二字，图其人，准确来说是山地图其人认为“图其”是死后世界，是唯一真神，是世界的一切，这毫无疑问是阿特图伊人的入侵导致的.图其信仰还有一点很奇怪，祭司的权力非常小，甚至可以被随意更换，但他们掌管司法，有处刑的权力。\n\n世界最初只有无尽的虚无，但在这虚无之中诞生了一股能量，这股能量被称为“图其”，祂创造了世界，又或者说祂就是世界本身，世界的下半部分是图其人生活的地方，他们是神的仆从，中间是阿特图伊人生活的地方，他们是神的武器，上面是死后去的地方，那里能看见神本身。"
  
  kos_Tuqi: "图其"
  kos_Tuqi_adj: "图其"
@@ -790,7 +807,7 @@
  kos_Tuqi_pagan_old_adherent: "旧图其信徒"
  kos_Tuqi_pagan_old_adherent_plural: "旧图其信徒"
  #教改后信徒（教改出现的是新宗教）
- kos_Tuqi_desc: "图其信仰绕不开图其二字，图其人，准确来说是山地图其人认为“图其”是死后世界，是唯一真神，是世界的一切，这毫无疑问是阿特图伊人的入侵导致的.图其信仰还有一点很奇怪，祭司的权力非常小，甚至可以被随意更换，但他们掌管司法，有处刑的权力。"
+ kos_Tuqi_desc: "图其信仰绕不开图其二字，图其人，准确来说是山地图其人认为“图其”是死后世界，是唯一真神，是世界的一切，这毫无疑问是阿特图伊人的入侵导致的.图其信仰还有一点很奇怪，祭司的权力非常小，甚至可以被随意更换，但他们掌管司法，有处刑的权力。\n\n世界最初只有无尽的虚无，但在这虚无之中诞生了一股能量，这股能量被称为“图其”，祂创造了世界，又或者说祂就是世界本身，世界的下半部分是图其人生活的地方，他们是神的仆从，中间是阿特图伊人生活的地方，他们是神的武器，上面是死后去的地方，那里能看见神本身。"
  #简介
  kos_Tuqi_high_god_name: "图其"
  kos_Tuqi_high_god_name_possessive: "图其"

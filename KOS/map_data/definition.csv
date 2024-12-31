@@ -61,11 +61,11 @@
 49;176;63;204;XiaDongSiWaCaSHanJiao;x;	#下东斯瓦嚓山脚
 
 
-50;180;0;71;YanHaiZouLang;x;	#沿海走廊（克西特 奥伊）
-51;204;83;131;SiWaCaZouLang;x;	#斯瓦嚓走廊（克西特 斯瓦嚓）
+50;180;0;71;YanHaiZouLang;x;	#沿海走廊（克西特-奥伊）
+51;204;83;131;SiWaCaZouLang;x;	#斯瓦嚓走廊（克西特-斯瓦嚓）
 
-52;180;180;0;SiWaCaLvZHouYiHao;x;	#斯瓦嚓绿洲一号（斯瓦嚓 伊克 沃）
-53;0;180;90;SiWaCaLvZHouErHao;x;	#斯瓦嚓绿洲二号（斯瓦嚓 伊克 赫）
+52;180;180;0;SiWaCaLvZHouYiHao;x;	#斯瓦嚓绿洲一号（伊克-斯瓦嚓 沃）
+53;0;180;90;SiWaCaLvZHouErHao;x;	#斯瓦嚓绿洲二号（伊克-斯瓦嚓 赫）
 
 54;19;102;20;NeiXiWangDi;x;	#内希望地
 55;0;255;4;XiWangDi;x;	#希望地
@@ -79,14 +79,39 @@
 60;169;77;111;XinTuDiBao;x;	#新土地堡
 61;146;81;186;XinGeABu;x;	#新格阿布
 
-62;231;233;100;HuangJinDi;x;	#黄金地（沃赫特阿）
-63;146;67;211;XiHuangJinDi;x;	#西黄金地（左沃赫特阿）
+62;231;233;100;HuangJinDi;x;	#黄金地（大沃赫特阿）
+63;146;67;211;XiHuangJinDi;x;	#西黄金地（大沃赫特阿）
 
 64;212;29;32;GanDiaoATe;x;	#干掉阿特（赫赫 阿特）
 65;177;29;32;XiGanDiaoATe;x;	#西干掉阿特（西 赫赫 阿特）
 
-#59;231;233;80;CHaoSHengLuHuangDi;x;	#朝圣陆荒地
-#60;189;193;102;XiCHaoSHengLuHuangDi;x;	#西朝圣陆荒地
+66;107;173;197;YvDi;x;	#鱼地
+67;233;209;100;CHaiFuDi;x;	#财富地（小沃赫特阿）
+68;159;223;225;KuangDi;x;	#矿地
+
+69;68;128;150;HaiDi;x;	#海地
+70;56;56;56;MuDi;x;	#墓地
+71;76;189;220;JiaDi;x;	#家地
+72;189;97;99;RongYaoDi;x;	#荣耀地
+
+73;38;246;152;DaoDi;x;	#岛地
+74;222;71;93;YongDi;x;	#勇地
+#75;83;52;194;XNingDi;x;	#星地
+75;189;186;97;ZHenFuDi;x;	#征服地
+
+76;192;241;243;DongKuangQv;x;	#东矿区
+77;185;203;203;XiKuangQv;x;	#西矿区
+
+78;51;51;243;SHeDao;x;	#蛇岛
+
+79;107;126;158;YanHaiHeXi;x;	#沿海河西
+80;158;156;107;HeXiZoLang;x;	#河西走廊
+81;237;234;140;SHangHeXi;x;	#上河西
+
+82;212;236;180;XiangYaGu;x;	#象牙谷
+83;193;236;180;XiangYaZoLang;x;	#象牙走廊
+84;201;249;199;DongXiangYaHaiAn;x;	#东象牙海岸
+85;242;249;199;XiXiangYaHaiAn;x;	#西象牙海岸
 
 #61;143;186;0;BianYuanZouLang;x;	#东边缘走廊
 #62;251;255;0;CHaoSHengLu_CHuFai;x;	#朝圣陆：出发
@@ -97,5 +122,5 @@
 #62;60;75;165;XiBianYuanZouLang;x;	#阿特图伊-斯瓦嚓
 #63;131;132;67;XiBianYuanZouLang;x;	#特图嚓
 #
-66;255;255;255;CS;x;
-67;255;0;128;CS2;x;
+86;255;255;255;CS;x;
+87;255;0;128;CS2;x;

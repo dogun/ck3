@@ -63,3 +63,10 @@
 63=hills
 64=mountains
 65=mountains
+66=plains
+67=farmlands
+68=plains
+69=farmlands
+70=plains
+71=plains
+72=hills

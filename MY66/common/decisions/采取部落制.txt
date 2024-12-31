@@ -1,0 +1,13 @@
+tribal_government = {
+	picture = {
+		reference = "gfx/interface/illustrations/decisions/decision_destiny_goal.dds"
+	}
+	decision_group_type = major
+	desc = become_greatest_of_khans_decision_desc
+
+	ai_check_interval = 0
+
+	effect = {
+		change_government = tribal_government
+	}
+}
