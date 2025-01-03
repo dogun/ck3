@@ -862,6 +862,80 @@ e_SiWaCa = {	#斯瓦嚓
 				}
 			}
 
+			c_YingDi = {	#鹰地
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_ZHongDongSiWaCaSHanJiao = {	#中东斯瓦嚓山脚
+#男爵领
+					province = 86
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_YingDi = {	#鹰地
+#男爵领
+					province = 87
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+		}
+
+		d_ZHongSiWaCzaSHan = {	#中斯瓦嚓山
+#公国
+			color = { 42 42 72 }
+#颜色
+			capital = c_SHeDao
+#首都
+			c_LeiDa = {	#垒达
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_LeiDa = {	#垒达
+#男爵领
+					province = 89
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_ErA = {	#儿阿
+#男爵领
+					province = 90
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_ZiYouDi = {	#自由地
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_ZiYouDi = {	#自由地
+#男爵领
+					province = 91
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_KuangRen = {	#狂人
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_KuangRen = {	#狂人
+#男爵领
+					province = 92
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
 		}
 	}
 }

@@ -15,7 +15,7 @@
 	pagan_roots = yes
 
 	faiths = {
-		 kos_AatTuierhkovo_QiTtvoerrkhar = {
+		kos_qitve_aateerhert = { #kos_AatTuierhkovo_QiTtvoerrkhar
 			color = { 0.6 0.6 0.6 }
 			icon = "gfx/interface/icons/faith/星辰.dds"
 

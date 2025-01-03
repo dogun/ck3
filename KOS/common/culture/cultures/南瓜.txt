@@ -1,4 +1,4 @@
-﻿mora = {
+﻿mola = {
 	color = { 0.2 0.18 0.28 }
 #颜色（rgb百分制/100）
 	created = 1.1.1
@@ -35,7 +35,7 @@
 	}
 }
 
-tui = {
+tuyi = {
 	color = { 0.2 0.18 0.28 }
 #颜色（rgb百分制/100）
 	created = 1.1.1
@@ -73,7 +73,7 @@ tui = {
 	}
 }
 
-aattui = {
+aattuyi = {
 	color = { 0.06 0.61 0.11 }
 #颜色（rgb百分制/100）
 	created = -538.2.4
@@ -112,7 +112,7 @@ aattui = {
 	}
 }
 
-morasts = {
+molasts = {
 	color = { 0.2 0.18 0.28 }
 #颜色（rgb百分制/100）
 	created = -218.1.2
@@ -190,7 +190,7 @@ leilida = {
 	}
 }
 
-aater = {
+aate = {
 	color = { 0.2 0.18 0.28 }
 #颜色（rgb百分制/100）
 	created = 1.1.1
@@ -227,7 +227,7 @@ aater = {
 	}
 }
 
-qittvo_errhearter_swacha = {
+qitve = {
 	color = { 0.2 0.18 0.28 }
 #颜色（rgb百分制/100）
 	created = 1.1.1

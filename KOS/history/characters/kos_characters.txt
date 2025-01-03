@@ -1,7 +1,7 @@
-﻿1 = {
+﻿0 = {
 	name = "LiuLiu"
-	dna = dna_1
-	dynasty = 1 #魔影
+	dna = dna_0
+	dynasty = 0 #魔影
 	female = no
 	sexuality = asexual
 	diplomacy = 100
@@ -20,10 +20,29 @@
 	}
 }
 
-2 = {
-	name = "SteA"
-	dna = dna_2
-	dynasty = 2 #斯瓦嚓
+1_1 = {
+	name = "aala"
+	dna = dna_1_1
+	dynasty = 1 #斯瓦嚓
+	female = yes
+	sexuality = heterosexual
+
+	religion = kos_qitve_aateerhert
+	culture = qitve
+
+	disallow_random_traits = yes
+	-250.2.5 = { #-186.2.5
+		birth = yes
+	}
+	-203.4.7  = { #-223.4.7 
+		death = yes
+	}
+}
+
+1_2 = {
+	name = "aaherqit" #斯特阿
+	dna = dna_1_2
+	dynasty = 1 #斯瓦嚓
 	female = yes
 	sexuality = heterosexual
 	diplomacy = 4
@@ -47,6 +66,38 @@
 		birth = yes
 	}
 	37.8.1 = {
+		death = yes
+	}
+}
+
+2_1 = {
+	name = "dala_tedaer"
+	dna = dna_2_1
+	dynasty = 2 #瓦阿图
+	female = no
+	sexuality = heterosexual
+	diplomacy = 3
+	martial = 8
+	stewardship = 5
+	intrigue = 3
+	learning = 9 #12
+	prowess = 12 #6
+	religion = kos_swacha_aateerhert
+	culture = swacha
+	trait = education_martial_1
+	trait = calm
+	trait = trait
+	trait = honest
+
+	trait = athletic
+	trait = strong
+	trait = physique_good_1
+	trait = tourney_participant
+	disallow_random_traits = yes
+	-24.1.4 = {
+		birth = yes
+	}
+	58.2.1 = {
 		death = yes
 	}
 }

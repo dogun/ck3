@@ -93,3 +93,124 @@
 49 = {		#下东斯瓦嚓山脚
 	holding = tribal_holding
 }
+
+50 = {		#沿海走廊（克西特-奥伊）
+	culture = swacha
+	religion = kos_swacha_aateerhert
+	holding = city_holding
+}
+51 = {		#斯瓦嚓走廊（克西特-斯瓦嚓）
+	holding = none
+}
+
+52 = {		#斯瓦嚓绿洲一号（伊克-斯瓦嚓 沃）
+	culture = swacha
+	religion = kos_swacha_aateerhert
+	holding = none
+}
+53 = {		#斯瓦嚓绿洲二号（伊克-斯瓦嚓 赫）
+	holding = tribal_holding
+}
+
+54 = {		#内希望地
+	culture = swacha
+	religion = kos_swacha_aateerhert
+	holding = none
+}
+55 = {		#希望地
+	holding = tribal_holding
+}
+56 = {		#外希望地
+	holding = none
+}
+
+57 = {		#内希望地
+	culture = swacha
+	religion = kos_swacha_aateerhert
+	holding = tribal_holding
+}
+58 = {		#希望地
+	holding = none
+}
+
+
+60 = {		#新土地堡
+	culture = swacha
+	religion = kos_swacha_aateerhert
+	holding = tribal_holding
+}
+61 = {		#新格阿布
+	holding = city_holding
+}
+
+62 = {		#黄金地（大沃赫特阿）
+	culture = swacha
+	religion = kos_swacha_aateerhert
+	holding = tribal_holding
+}
+63 = {		#西黄金地（大沃赫特阿）
+	holding = none
+}
+
+64 = {		#干掉阿特（赫赫 阿特）
+	culture = swacha
+	religion = kos_swacha_aateerhert
+	holding = tribal_holding
+}
+65 = {		#西干掉阿特（西 赫赫 阿特）
+	holding = none
+}
+
+66 = {		#鱼地
+	culture = swacha
+	religion = kos_swacha_aateerhert
+	holding = tribal_holding
+}
+67 = {		#财富地（小沃赫特阿）
+	holding = none
+}
+68 = {		#矿地
+	holding = city_holding
+}
+
+69 = {		#海地
+	culture = swacha
+	religion = kos_swacha_aateerhert
+	holding = none
+}
+70 = {		#墓地
+	holding = none
+}
+71 = {		#家地
+	holding = tribal_holding
+}
+72 = {		#荣耀地
+	holding = tribal_holding
+}
+
+73 = {		#岛地
+	culture = swacha
+	religion = kos_swacha_aateerhert
+	holding = tribal_holding
+}
+74 = {		#勇地
+	holding = none
+}
+75 = {		#征服地
+	holding = none
+}
+
+76 = {		#东矿区
+	culture = swacha
+	religion = kos_swacha_aateerhert
+	holding = tribal_holding
+}
+77 = {		#西矿区
+	holding = none
+}
+
+78 = {		#蛇岛
+	culture = swacha
+	religion = kos_swacha_aateerhert
+	holding = tribal_holding
+}
